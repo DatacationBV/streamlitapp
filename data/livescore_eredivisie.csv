@@ -1,0 +1,10 @@
+match id,Round,match detail status,home score,away score,home,away,datetime,divisie,text
+473272,20,FT,2,1,RKC Waalwijk,Fortuna Sittard,2022-01-23 21:02:00,Eredivisie,RKC Waalwijk  -  Fortuna Sittard  2-1
+473638,20,FT,0,3,Sparta Rotterdam,FC Utrecht,2022-01-23 17:22:00,Eredivisie,Sparta Rotterdam  -  FC Utrecht  0-3
+473621,20,FT,1,2,PSV Eindhoven,Ajax,2022-01-23 15:20:00,Eredivisie,PSV Eindhoven  -  Ajax  1-2
+473619,20,FT,1,1,Heracles,Go Ahead Eagles,2022-01-23 15:20:00,Eredivisie,Heracles  -  Go Ahead Eagles  1-1
+473612,20,FT,1,4,NEC Nijmegen,Feyenoord,2022-01-23 13:18:00,Eredivisie,NEC Nijmegen  -  Feyenoord  1-4
+473590,20,FT,0,1,Willem II,FC Twente,2022-01-22 22:03:00,Eredivisie,Willem II  -  FC Twente  0-1
+473582,20,FT,0,1,SC Heerenveen,PEC Zwolle,2022-01-22 21:02:00,Eredivisie,SC Heerenveen  -  PEC Zwolle  0-1
+473579,20,FT,0,0,AZ Alkmaar,Cambuur,2022-01-22 21:02:00,Eredivisie,AZ Alkmaar  -  Cambuur  0-0
+473560,20,FT,1,3,Vitesse,FC Groningen,2022-01-22 19:00:00,Eredivisie,Vitesse  -  FC Groningen  1-3
