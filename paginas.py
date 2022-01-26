@@ -221,7 +221,7 @@ def wedstrijden_page(df):
         | Meest Over Getweet      | Meest Positief | Meest Negatief     |
         | :---:        |    :----:   |          :---: |
         | {meest}      | {meest_posi}       | {meest_nega}   |
-        | ***{str(entities["count"].max())} tweets***   | ***{str(int(entities["_positive"].max()))}%  positief***      | ***{str(int(entities["_negative"].max()))}% negatief***     |
+        | ***{str(entities["count"].max())} tweets***   | ***{str(int(entities["positive"].max()))}%  positief***      | ***{str(int(entities["negative"].max()))}% negatief***     |
 
         <br/><br/>
         ''', unsafe_allow_html=True)
