@@ -204,10 +204,11 @@ def wedstrijden_page(df):
         y='match id',
         color='tweet sentiment'
     )
-
-    meest = entities_counts.iloc[entities_counts['count'].idxmax()]['match id']
-    meest_nega = entities_counts.iloc[entities_counts['_negative'].idxmax()]['match id']
-    meest_posi = entities_counts.iloc[entities_counts['_positive'].idxmax()]['match id']
+    entities.reset_index(drop=True, inplace=True)
+    meest = entities.iloc[entities['count'].idxmax()]["subj"]
+    # meest = entities_counts.iloc[entities_counts['count'].idxmax()]['match id']
+    meest_nega = entities.iloc[entities['_negative'].idxmax()]['subj']
+    meest_posi = entities.iloc[entities['_positive'].idxmax()]['subj']
     st.markdown(
         f'''
         <style>
@@ -220,7 +221,7 @@ def wedstrijden_page(df):
         | Meest Over Getweet      | Meest Positief | Meest Negatief     |
         | :---:        |    :----:   |          :---: |
         | {meest}      | {meest_posi}       | {meest_nega}   |
-        | ***{str(entities_counts["count"].max())} tweets***   | ***{str(int(entities_counts["_positive"].max()))}%  positief***      | ***{str(int(entities_counts["_negative"].max()))}% negatief***     |
+        | ***{str(entities["count"].max())} tweets***   | ***{str(int(entities["_positive"].max()))}%  positief***      | ***{str(int(entities["_negative"].max()))}% negatief***     |
 
         <br/><br/>
         ''', unsafe_allow_html=True)
