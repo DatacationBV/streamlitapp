@@ -242,9 +242,9 @@ def wedstrijden_page(df):
             players_teams = get_players_teams(match)
             avg_rating = get_average_rating(players_teams, match_ent)
             match_name= match_names[row["match id"]]
-            percentage_posi = entities_counts[entities_counts['match id'] == match_name]["positive"].values[0]
-            percentage_nega = entities_counts[entities_counts['match id'] == match_name]["negative"].values[0]
-            aantal_per_match = entities_counts[entities_counts['match id'] == match_name]["count"].values[0]
+            percentage_posi = entities[entities['match id'] == match_name]["positive"].values[0]
+            percentage_nega = entities[entities['match id'] == match_name]["negative"].values[0]
+            aantal_per_match = entities[entities['match id'] == match_name]["count"].values[0]
             with st.expander(f"{row['home']} - {row['away']}:   ({int(row['home score'])} - {int(row['away score'])}) \t"):
             
                 col1, col2, col3 = st.columns(3)
