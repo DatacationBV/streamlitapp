@@ -194,8 +194,8 @@ def wedstrijden_page(df):
 
     entities_counts = entities.groupby(["match id"]).agg({'count': 'sum', 'negative': 'sum', 'neutral': 'sum', 'positive':'sum', "sentiment":"mean"}).sort_values(by="count", ascending=False).reset_index()
     entities_counts.replace(match_names, inplace=True)
-    entities_counts["_positive"] = np.rint(entities_counts["positive"] / entities_counts["count"] * 100)
-    entities_counts["_negative"] = np.rint(entities_counts["negative"] / entities_counts["count"] * 100)
+    entities_counts["positive"] = np.rint(entities_counts["positive"] / entities_counts["count"] * 100)
+    entities_counts["negative"] = np.rint(entities_counts["negative"] / entities_counts["count"] * 100)
 
     melted_entities_count = entities_counts[["match id", "negative", "neutral" ,"positive"]].melt('match id', var_name="tweet sentiment", value_name='aantal')
     
@@ -207,8 +207,8 @@ def wedstrijden_page(df):
     entities.reset_index(drop=True, inplace=True)
     meest = entities.iloc[entities['count'].idxmax()]["subj"]
     # meest = entities_counts.iloc[entities_counts['count'].idxmax()]['match id']
-    meest_nega = entities.iloc[entities['_negative'].idxmax()]['subj']
-    meest_posi = entities.iloc[entities['_positive'].idxmax()]['subj']
+    meest_nega = entities.iloc[entities['negative'].idxmax()]['subj']
+    meest_posi = entities.iloc[entities['positive'].idxmax()]['subj']
     st.markdown(
         f'''
         <style>
