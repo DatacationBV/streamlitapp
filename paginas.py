@@ -198,6 +198,8 @@ def wedstrijden_page(df):
     entities_counts["negative"] = np.rint(entities_counts["negative"] / entities_counts["count"] * 100)
     entities["_positive"] = np.rint(entities["positive"] / entities["count"] * 100)
     entities["_negative"] = np.rint(entities["negative"] / entities["count"] * 100)
+    entities= entities["count"] > 30
+    
 
     melted_entities_count = entities_counts[["match id", "negative", "neutral" ,"positive"]].melt('match id', var_name="tweet sentiment", value_name='aantal')
     
