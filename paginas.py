@@ -196,6 +196,8 @@ def wedstrijden_page(df):
     entities_counts.replace(match_names, inplace=True)
     entities_counts["positive"] = np.rint(entities_counts["positive"] / entities_counts["count"] * 100)
     entities_counts["negative"] = np.rint(entities_counts["negative"] / entities_counts["count"] * 100)
+    entities["_positive"] = np.rint(entities["_positive"] / entities["count"] * 100)
+    entities["_negative"] = np.rint(entities["_negative"] / entities["count"] * 100)
 
     melted_entities_count = entities_counts[["match id", "negative", "neutral" ,"positive"]].melt('match id', var_name="tweet sentiment", value_name='aantal')
     
@@ -218,10 +220,10 @@ def wedstrijden_page(df):
         </style>
         Hieronder zie je per wedstrijd hoeveel tweets er in positieve, neutrale of negatieve manier uitspringen.
         
-        | Meest Over Getweet      | Meest Positief | Meest Negatief     |
+        | Meest Voorkomend      | Meest Positief | Meest Negatief     |
         | :---:        |    :----:   |          :---: |
         | {meest}      | {meest_posi}       | {meest_nega}   |
-        | ***{str(entities["count"].max())} tweets***   | ***{str(int(entities["positive"].max()))}%  positief***      | ***{str(int(entities["negative"].max()))}% negatief***     |
+        | ***{str(entities["count"].max())} tweets***   | ***{str(int(entities["_positive"].max()))}%  positief***      | ***{str(int(entities["_negative"].max()))}% negatief***     |
 
         <br/><br/>
         ''', unsafe_allow_html=True)
@@ -242,9 +244,9 @@ def wedstrijden_page(df):
             players_teams = get_players_teams(match)
             avg_rating = get_average_rating(players_teams, match_ent)
             match_name= match_names[row["match id"]]
-            percentage_posi = entities[entities['match id'] == match_name]["positive"].values[0]
-            percentage_nega = entities[entities['match id'] == match_name]["negative"].values[0]
-            aantal_per_match = entities[entities['match id'] == match_name]["count"].values[0]
+            percentage_posi = entities_counts[entities_counts['match id'] == match_name]["positive"].values[0]
+            percentage_nega = entities_counts[entities_counts['match id'] == match_name]["negative"].values[0]
+            aantal_per_match = entities_counts[entities_counts['match id'] == match_name]["count"].values[0]
             with st.expander(f"{row['home']} - {row['away']}:   ({int(row['home score'])} - {int(row['away score'])}) \t"):
             
                 col1, col2, col3 = st.columns(3)
