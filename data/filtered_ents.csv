@@ -1,1034 +1,1128 @@
 match id,entity,subj,count,positive,negative,neutral,positive_
-473579,Cambuur,Cambuur,170,2.4411764705882355,82,57,31
-473590,FC Twente,FC Twente,165,2.1818181818181817,94,43,28
-473272,Fortuna Sittard,Fortuna Sittard,154,2.1103896103896105,86,42,26
-473582,PEC Zwolle,PEC Zwolle,148,2.27027027027027,83,39,26
-473560,FC Groningen,FC Groningen,142,2.8732394366197185,59,37,46
-473579,AZ,AZ Alkmaar,133,2.699248120300752,61,30,42
-473612,Feyenoord,Feyenoord,127,3.543307086614173,26,44,57
-473590,Willem II,Willem II,123,1.8048780487804879,87,24,12
-473638,FC Utrecht,FC Utrecht,105,2.8190476190476192,40,38,27
-473619,Ahead Eagles,Go Ahead Eagles,85,2.823529411764706,36,26,23
-473582,Heerenveen,SC Heerenveen,78,2.3333333333333335,44,15,19
-473272,RKC Waalwijk,RKC Waalwijk,66,1.9393939393939394,41,17,8
-473272,Fortuna,Fortuna Sittard,63,1.8095238095238095,40,18,5
-473560,Groningen,FC Groningen,57,2.736842105263158,26,16,15
-473272,RKC,RKC Waalwijk,52,1.8653846153846154,31,17,4
-473582,sc Heerenveen,SC Heerenveen,50,2.44,27,12,11
-473612,Drie,Cyriel Dessers,48,5.0,0,0,48
-473272,Waalwijk,RKC Waalwijk,44,2.75,14,21,9
-473590,Twente,FC Twente,43,2.604651162790698,20,12,11
-473619,Lidberg,Isac Lidberg,38,2.8421052631578947,18,6,14
-473272,Sittard,Fortuna Sittard,31,2.064516129032258,21,3,7
-473619,Heracles Almelo,Heracles,30,3.466666666666667,7,13,10
-473638,Utrecht,FC Utrecht,30,2.6333333333333333,14,7,9
-473612,Orkun,Orkun Kokcu,30,4.333333333333333,2,6,22
-473621,PSV,PSV Eindhoven,29,2.0344827586206895,18,7,4
-473638,Sparta Rotterdam,Sparta Rotterdam,29,1.896551724137931,20,5,4
-473619,ga eagles,Heracles,27,2.259259259259259,17,5,5
-473560,Arnhem,Paulos Abraham,27,2.5555555555555554,12,9,6
-473619,HeraclesAlmelo,Heracles,27,3.0,11,7,9
-473582,Zwolle,PEC Zwolle,26,2.269230769230769,16,4,6
-473579,Alkmaar,AZ Alkmaar,26,2.6538461538461537,11,9,6
-473272,Seuntjens,Mats Seuntjens,25,1.52,19,4,2
-473612,NEC,NEC Nijmegen,25,2.04,15,7,3
-473560,Van Kaam,Daniel van Kaam,24,2.5,10,10,4
-473582,PEC,PEC Zwolle,24,3.2916666666666665,8,4,12
-473582,Bra,Bram van Polen,22,1.0,22,0,0
-473619,Kowet,Koen Bucker,20,3.35,4,8,8
-473560,Leeuwenburgh,Peter Leeuwenburgh,19,2.0526315789473686,13,3,3
-473619,Deventer,Marco Rente,19,2.6842105263157894,6,9,4
-473619,Kaj Sierhuis,Kaj Sierhuis,18,3.3333333333333335,6,5,7
-473619,Heracles,Heracles,18,2.2777777777777777,11,3,4
-473638,Rotterdam,Sparta Rotterdam,18,3.0555555555555554,7,4,7
-473579,Sylla,Sekou Sylla,18,2.7777777777777777,7,8,3
-473621,Roger Schmidt,Roger Schmidt,17,1.6470588235294117,13,3,1
-473272,Vaessen,Etienne Vaessen,16,1.9375,11,2,3
-473579,Stevens,Sonny Stevens,16,1.9375,10,5,1
-473582,Bram van Polen,Bram van Polen,15,2.6,9,0,6
-473612,NEC Nijmegen,NEC Nijmegen,15,2.466666666666667,5,9,1
-473579,De Wit,Dani de Wit,14,1.4285714285714286,11,3,0
-473612,eerste,Guus Gertsen,14,3.5714285714285716,0,10,4
-473638,Rijnmond,Simon Gustafson,13,1.3846153846153846,10,3,0
-473560,FC,FC Groningen,13,2.3846153846153846,8,2,3
-473272,Tirpan,Mickael Tirpan,13,1.9230769230769231,8,4,1
-473582,Darfalou,Oussama Darfalou,13,2.076923076923077,8,3,2
-473638,Sparta,Sparta Rotterdam,13,2.4615384615384617,6,6,1
-473272,Dayano,Ryan Johansson,13,2.923076923076923,4,4,5
-473272,Gaari,Jurien Gaari,13,2.076923076923077,7,4,2
-473579,Karlsson,Jesper Karlsson,13,1.8461538461538463,7,6,0
-473582,drie,Mees de Wit,12,3.3333333333333335,5,0,7
-473621,Europa,Eran Zahavi,12,2.5833333333333335,2,10,0
-473579,cambuur gek,Cambuur,12,3.25,5,1,6
-473579,Pavlidis,Evangelos Pavlidis,12,2.0,7,4,1
-473582,eerste,Mees de Wit,12,2.75,4,6,2
-473560,Groninger,FC Groningen,12,3.4166666666666665,2,6,4
-473579,AZ Alkmaar,AZ Alkmaar,11,2.727272727272727,5,4,2
-473638,Douvikas,Anastasios Douvikas,11,1.9090909090909092,6,5,0
-473582,Radio,Rami Al Hajj,11,2.090909090909091,7,2,2
-473560,Vitesse Arnhem,Vitesse,11,1.3636363636363635,10,0,1
-473612,Nijmegen,NEC Nijmegen,11,2.727272727272727,4,5,2
-473272,Janssen,Roel Janssen,11,2.8181818181818183,5,2,4
-473590,Freddie Mercury,Fred Grim,10,2.8,4,3,3
-473590,Jans,Ron Jans,10,2.2,5,5,0
-473619,eerste,Kees van Wonderen,10,2.9,3,5,2
-473590,Sadilek,Michal Sadilek,10,1.0,10,0,0
-473590,Thijn,Timon Wellenreuther,10,2.8,4,3,3
-473272,Verrips,Michael Verrips,9,1.4444444444444444,7,2,0
-473579,Sonny Stevens,Sonny Stevens,9,4.444444444444445,1,1,7
-473560,Drenthe,Laros Duarte,9,1.6666666666666667,6,3,0
-473590,twee,FC Twente,9,2.2222222222222223,5,3,1
-473619,Ahead,Go Ahead Eagles,9,2.3333333333333335,4,4,1
-473590,drie,Godfried Roemeratoe,9,1.2222222222222223,8,1,0
-473582,Johnny Jansen,Johnny Jansen,9,2.0,5,3,1
-473590,FC Twente home and away   Lists,FC Twente,9,4.444444444444445,0,2,7
-473582,Lamprou,Kostas Lamprou,9,2.888888888888889,4,2,3
-473582,SC Heerenveen,SC Heerenveen,9,3.6666666666666665,1,4,4
-473579,eerste,Filip Krastev,9,2.7777777777777777,2,6,1
-473560,Oroz,Dominik Oroz,9,1.4444444444444444,8,0,1
-473638,Sander van de Streek,Sander van de Streek,9,1.4444444444444444,8,0,1
-473272,Odgaard,Jens Odgaard,9,1.8888888888888888,6,2,1
-473560,Danil van Kaam,Daniel van Kaam,9,2.4444444444444446,3,5,1
-473582,Henk Veerman,Henk Veerman,8,1.25,7,1,0
-473579,Sugawara,Yukinari Sugawara,8,1.75,5,3,0
-473612,Oranje,Gernot Trauner,8,3.125,3,2,3
-473272,Fortuna Supporters,Fortuna Sittard,8,2.875,3,2,3
-473272,Pinto,Ivo Pinto,8,2.25,3,5,0
-473612,Arne Slot,Arne Slot,8,3.25,0,7,1
-473272,Lonwijk,Nigel Lonwijk,8,1.625,5,3,0
-473619,Noppert,Andries Noppert,8,2.375,4,3,1
-473560,drie,Michael de Leeuw,8,2.5,4,2,2
-473621,PSV Ajax,Ajax,8,1.25,7,1,0
-473612,Schne,Lasse Schoene,7,1.5714285714285714,6,0,1
-473638,eerste,Aaron Meijers,7,1.7142857142857142,3,4,0
-473579,Jacobs,Jamie Jacobs,7,1.5714285714285714,6,0,1
-473579,Joosten,Patrick Joosten,7,2.4285714285714284,4,1,2
-473582,Johnny,Johnny Jansen,7,3.0,2,3,2
-473272,Stadions,Stijn Hogervorst,7,2.7142857142857144,3,2,2
-473590,eerste,Godfried Roemeratoe,7,2.5714285714285716,3,3,1
-473619,Andries Noppert,Andries Noppert,7,3.7142857142857144,2,1,4
-473579,azalkmaar,AZ Alkmaar,7,1.8571428571428572,5,1,1
-473621,Martinez,Lisandro Martinez,7,1.2857142857142858,6,1,0
-473590,GOOOOAAAAALLL     Sadilek,Michal Sadilek,7,1.0,7,0,0
-473560,Wierik,Mike te Wierik,7,1.2857142857142858,6,1,0
-473638,Boussaid,Othman Boussaid,7,4.857142857142857,0,1,6
-473612,Japanse Feyenoorder,Feyenoord,7,3.4285714285714284,2,2,3
-473621,Ajax,Ajax,7,1.8571428571428572,5,1,1
-473612,Feyenoord Rotterdam,Feyenoord,7,4.714285714285714,0,1,6
-473272,Ferati,Arianit Ferati,7,2.2857142857142856,3,4,0
-473560,provincie Groningen,FC Groningen,7,1.0,7,0,0
-473619,Frank Wormuth,Frank Wormuth,6,3.3333333333333335,0,6,0
-473619,Delano Burgzorg,Delano Burgzorg,6,2.6666666666666665,2,4,0
-473590,Michal Sadlek,Michal Sadilek,6,4.0,1,1,4
-473560,Michael de Leeuw,Michael de Leeuw,6,1.3333333333333333,5,1,0
-473590,Sadlek,Michal Sadilek,6,1.0,6,0,0
-473579,Beukema,Sam Beukema,6,3.1666666666666665,1,4,1
-473590,Daan,Daan Rots,6,2.8333333333333335,2,2,2
-473621,Eindhoven,PSV Eindhoven,6,2.5,3,2,1
-473582,Veerman,Henk Veerman,6,2.0,4,2,0
-473590,Gijs,Gijs Smal,6,1.8333333333333333,3,3,0
-473582,Dick Schreuder,Dick Schreuder,6,1.6666666666666667,5,0,1
-473560,Dankerlui,Damil Dankerlui,6,2.0,3,3,0
-473560,Peter Leeuwenburgh,Peter Leeuwenburgh,6,1.5,5,1,0
-473612,NEC Nijmegen   Feyenoord,NEC Nijmegen,6,4.0,0,6,0
-473590,Michal Sadilek,Michal Sadilek,6,2.3333333333333335,3,2,1
-473560,Buijs,Danny Buijs,6,1.6666666666666667,5,0,1
-473612,Dessers,Cyriel Dessers,6,1.5,5,1,0
-473590,week,Freek Heerkens,6,2.5,3,3,0
-473638,Sylla,Moussa Sylla,6,3.3333333333333335,2,1,3
-473612,Feyenoord   ,Feyenoord,6,3.1666666666666665,2,2,2
-473612,Lasse Schne,Lasse Schoene,6,1.6666666666666667,4,2,0
-473638,Utrechter,FC Utrecht,6,3.0,3,0,3
-473579,AZ Cambuur,Cambuur,5,1.0,5,0,0
-473612,Aursnes,Fredrik Aursnes,5,1.8,3,2,0
-473582,Mous,Xavier Mous,5,1.0,5,0,0
-473582,Dresevic,Ibrahim Dresevic,5,3.0,2,2,1
-473590,Hilgers,Mees Hilgers,5,4.2,1,0,4
-473272,Kramer,Michiel Kramer,5,1.2,4,1,0
-473579,Eerste,Ernest Poku,5,1.8,4,0,1
-473612,Rijnmond,Ramon Hendriks,5,2.6,2,2,1
-473560,Leeuwenburg,Peter Leeuwenburgh,5,3.0,1,4,0
-473590,Zerrouki,Ramiz Zerrouki,5,1.2,4,1,0
-473560,Mail,Marin Sverko,5,1.2,4,1,0
-473619,Inigo Crdoba,Inigo Cordoba,5,1.6,4,1,0
-473579,Gullit,Maxim Gullit,5,1.0,5,0,0
-473590,Twente Insite,FC Twente,5,2.6,2,3,0
-473560,MijnVitesse,Vitesse,5,1.8,4,0,1
-473560,Mike,Mike te Wierik,5,1.8,3,2,0
-473272,Waalwijk fanaat,RKC Waalwijk,5,2.4,2,2,1
-473560,Nederlandse,Enrico Hernandez,5,1.4,4,1,0
-473612,NEC Nijmegen   ,NEC Nijmegen,5,1.2,4,1,0
-473560,GroningerHavens,FC Groningen,5,2.6,3,0,2
-473560,Hoekstra,Jan Hoekstra,5,1.8,4,0,1
-473560,Romy,Romano Postema,5,2.4,2,3,0
-473560,Buitink,Thomas Buitink,5,2.2,3,1,1
-473590,Belgian,Kilian Ludewig,5,2.0,3,1,1
-473590,Van Wolfswinkel,Ricky van Wolfswinkel,5,1.4,4,1,0
-473272,Michiel Kramer,Michiel Kramer,5,1.8,3,2,0
-473579,Breij,Michael Breij,5,1.0,5,0,0
-473590,Fc Twente,FC Twente,5,3.8,1,1,3
-473579,Vindahl,Peter Vindahl Jensen,5,1.4,4,1,0
-473579,00 uur,Cambuur,5,2.6,2,2,1
-473582,Tahiri,Anas Tahiri,4,2.5,1,3,0
-473582,Zwollenaren,PEC Zwolle,4,4.25,0,3,1
-473621,only,Antony,4,4.0,1,0,3
-473619,Ragnar Oratmangoen,Ragnar Oratmangoen,4,1.5,3,1,0
-473612,feyenoord,Feyenoord,4,4.0,1,0,3
-473621,Patrick,Erick Gutierrez,4,2.0,3,0,1
-473619,Luca de la Torre,Luca de la Torre,4,3.0,2,0,2
-473590,Daan Rots,Daan Rots,4,2.0,3,0,1
-473619,Bas Kuipers,Bas Kuipers,4,2.0,3,0,1
-473579,Doodeman,Nick Doodeman,4,2.5,2,1,1
-473272,Tekie,Tesfaldet Tekie,4,3.5,0,3,1
-473621,Rita,Ritsu Doan,4,2.0,3,0,1
-473272,Johansson,Ryan Johansson,4,2.5,2,1,1
-473560,fc groningen,FC Groningen,4,2.75,2,1,1
-473560,Vitesse,Vitesse,4,1.75,2,2,0
-473582,sc heerenveen,SC Heerenveen,4,3.0,1,2,1
-473560,Daniel van Kaam,Daniel van Kaam,4,3.5,1,1,2
-473638,Sparta Marsch,Sparta Rotterdam,4,3.0,1,2,1
-473638,Radio,Achraf Madi,4,3.5,1,1,2
-473621,Schmidt,Roger Schmidt,4,2.0,3,0,1
-473612,Feyenoord fans,Feyenoord,4,4.25,0,2,2
-473619,Kees van Wonderen,Kees van Wonderen,4,3.75,1,1,2
-473560,Danny Buijs,Danny Buijs,4,2.0,3,0,1
-473612,Nymegen,NEC Nijmegen,4,4.5,0,1,3
-473638,Jaime,Rijk Janse,4,3.0,2,0,2
-473621,Karpervissen,Davy Klaassen,4,2.0,3,0,1
-473590,Radio,Ringo Meerveld,4,1.0,4,0,0
-473621,Karin,Lisandro Martinez,4,2.0,3,0,1
-473638,Fraser,Henk Fraser,4,2.0,3,0,1
-473638,Hein Meurs,Finn Murre,4,1.5,3,1,0
-473638,Henk Fraser,Henk Fraser,4,2.0,3,0,1
-473619,Blaswich,Janis Blaswich,4,1.5,3,1,0
-473272,Finn Stokkers,Finn Stokkers,4,1.5,3,1,0
-473612,Louvain,Bart van Rooij,4,4.5,0,1,3
-473582,Oranje,Gervane Kastaneer,4,3.0,2,0,2
-473582,Kaib,Rami Kaib,4,2.5,1,3,0
-473272,Duarte,Deroy Duarte,4,3.0,1,2,1
-473560,Alois Oroz,Dominik Oroz,4,5.0,0,0,4
-473582,HomeSCPECZwolle,PEC Zwolle,4,3.25,1,2,1
-473590,Week van Twenterand,FC Twente,4,1.5,3,1,0
-473272,Belgian,Ben Rienstra,4,1.5,3,1,0
-473621,Bryan,Bruma,4,2.0,3,0,1
-473272,Azhil,Ayman Azhil,4,1.5,3,1,0
-473582,Nederland,Henk Veerman,4,4.0,1,0,3
-473582,Sc Heerenveen,SC Heerenveen,4,2.0,3,0,1
-473272,Geel voor Pinto,Ivo Pinto,4,2.0,2,2,0
-473590,Niks,Nikolaos Michelis,4,1.0,4,0,0
-473619,GA Eagles,Go Ahead Eagles,4,4.75,0,1,3
-473638,Moussa,Moussa Sylla,4,4.0,1,0,3
-473582,PECfan,PEC Zwolle,4,3.0,2,0,2
-473621,Mason,Mauro Junior,4,2.0,3,0,1
-473582,Siem de Jong,Siem de Jong,3,3.3333333333333335,1,1,1
-473619,Martina,Cuco Martina,3,2.3333333333333335,1,2,0
-473272,Brussel,Iiass Bel Hassani,3,1.0,3,0,0
-473619,Wormuth,Frank Wormuth,3,1.6666666666666667,2,1,0
-473579,Schmidt,Doke Schmidt,3,1.0,3,0,0
-473612,drie,Cyriel Dessers,3,3.6666666666666665,0,2,1
-473612,Marcel,Marcos Senesi,3,4.333333333333333,0,1,2
-473272,Nijmegen,Nigel Lonwijk,3,1.0,3,0,0
-473621,Nederland,Joey Veerman,3,3.3333333333333335,1,1,1
-473621,Calimeros,Charlie Setford,3,1.0,3,0,0
-473612,Hillie Grissen,Bryan Linssen,3,4.333333333333333,0,1,2
-473612,Marquez,Ivan Marquez,3,1.3333333333333333,2,1,0
-473579,Marco Tol,Marco Tol,3,2.6666666666666665,0,3,0
-473272,Darts,Deroy Duarte,3,1.0,3,0,0
-473579,Gudmundsson,Albert Gudmundsson,3,1.0,3,0,0
-473582,Tieme,Siemen Voet,3,2.3333333333333335,2,0,1
-473619,Nikolai Laursen,Nikolai Laursen,3,5.0,0,0,3
-473272,I Verrips,Michael Verrips,3,3.6666666666666665,1,0,2
-473272,JansseBagge,Roel Janssen,3,1.0,3,0,0
-473621,Ajax   ,Ajax,3,3.6666666666666665,1,0,2
-473272,Geel,George Cox,3,3.6666666666666665,1,0,2
-473579,Ter Heide,Jasper ter Heide,3,2.3333333333333335,2,0,1
-473582,Woudenberg,Lucas Woudenberg,3,3.3333333333333335,1,1,1
-473612,News,Reiss Nelson,3,5.0,0,0,3
-473582,Zuurder,Erwin Mulder,3,5.0,0,0,3
-473272,HEAOSittard,Fortuna Sittard,3,1.0,3,0,0
-473272,Hansson,Emil Hansson,3,3.0,0,3,0
-473590,VV Twenthe,FC Twente,3,3.3333333333333335,0,2,1
-473560,Vites,Vitesse,3,3.6666666666666665,0,2,1
-473272,Roel Janssen,Roel Janssen,3,2.3333333333333335,2,0,1
-473560,Vitesse Groningen,FC Groningen,3,3.6666666666666665,1,0,2
-473638,Auassar,Adil Auassar,3,1.3333333333333333,2,1,0
-473590,Willem II Tilburg,Willem II,3,1.3333333333333333,2,1,0
-473638,Breda,Bryan Smeets,3,3.0,1,1,1
-473619,Boyd Lucassen,Boyd Lucassen,3,1.0,3,0,0
-473619,Elias Sierra,Elias Sierra,3,5.0,0,0,3
-473619,Elvis,Elias Sierra,3,3.3333333333333335,1,1,1
-473590,Khlert,Mats Koehlert,3,1.0,3,0,0
-473272,twee,Sjors Ultee,3,1.6666666666666667,2,1,0
-473560,Suslov,Tomas Suslov,3,5.0,0,0,3
-473560,Strand Larsen,Joergen Strand Larsen,3,3.6666666666666665,1,0,2
-473590,Kiel,Miquel Nelom,3,1.6666666666666667,2,1,0
-473590,Roemeratoe,Godfried Roemeratoe,3,2.3333333333333335,2,0,1
-473590,Kohlert,Mats Koehlert,3,1.0,3,0,0
-473272,Van der Venne,Richard van der Venne,3,1.6666666666666667,2,1,0
-473560,SV FC Groningen,FC Groningen,3,4.0,0,1,2
-473638,France,Henk Fraser,3,4.0,0,2,1
-473638,Onderg,Sander van de Streek,3,4.0,0,2,1
-473560,LCFC,FC Groningen,3,3.6666666666666665,1,0,2
-473590,Owusu,Leeroy Owusu,3,1.0,3,0,0
-473619,Belgian,Delano Burgzorg,3,3.6666666666666665,1,0,2
-473590,Matzy,Mats Koehlert,3,1.6666666666666667,2,1,0
-473638,Fighter,Hidde ter Avest,3,3.3333333333333335,1,1,1
-473638,Nintendo,Quinten Timber,3,3.3333333333333335,1,1,1
-473621,Damplein,Daley Blind,3,2.3333333333333335,2,0,1
-473560,Fc Groningen,FC Groningen,3,4.333333333333333,0,1,2
-473560,Muse,Matus Bero,3,4.333333333333333,0,1,2
-473590,Tilburger,Mees Hilgers,3,1.0,3,0,0
-473612,DeFeijenoorder,Feyenoord,3,4.0,0,2,1
-473621,week,Philipp Mwene,3,2.3333333333333335,1,2,0
-473590,FC Twente     Likes to game,FC Twente,3,1.6666666666666667,2,1,0
-473560,Abraham,Paulos Abraham,3,3.3333333333333335,1,1,1
-473560,Darten,Laros Duarte,3,4.333333333333333,0,1,2
-473590,Timon Wellenreuther,Timon Wellenreuther,3,2.3333333333333335,2,0,1
-473590,Vuelta,Michel Vlap,3,1.6666666666666667,2,1,0
-473560,Dutch Hammer,Wessel Dammers,3,2.3333333333333335,2,0,1
-473560,Bero,Matus Bero,3,2.3333333333333335,2,0,1
-473590,FC Twente and Liverpool,FC Twente,3,1.0,3,0,0
-473590,Twee,FC Twente,3,1.0,3,0,0
-473590,FC,FC Twente,3,1.0,3,0,0
-473619,Decaan,Delano Burgzorg,3,2.3333333333333335,2,0,1
-473560,twee,Mike te Wierik,3,3.3333333333333335,1,1,1
-473638,LFC,FC Utrecht,3,3.3333333333333335,1,1,1
-473621,Aja,Ajax,2,2.0,1,1,0
-473590,Ricky van Wolfswinkel,Ricky van Wolfswinkel,2,1.0,2,0,0
-473582,Eliano Reijnders,Eliano Reijnders,2,1.0,2,0,0
-473590,Oosterhout,Jayden Oosterwolde,2,1.0,2,0,0
-473612,Rogier Meijer,Rogier Meijer,2,4.0,0,2,0
-473590,acmilan,Vaclav Cerny,2,3.0,1,0,1
-473612,NEC   Feyenoord,Feyenoord,2,1.0,2,0,0
-473612,NEC   ,NEC Nijmegen,2,3.0,1,0,1
-473612,Prince,Arne Slot,2,3.0,1,0,1
-473582,Dick,Dick Schreuder,2,3.0,1,0,1
-473590,Sven,Max Svensson,2,2.0,1,1,0
-473590,Rock,Rick Zuijderwijk,2,1.5,1,1,0
-473621,Daley,Daley Blind,2,2.0,1,1,0
-473590,Wriedt,Fred Grim,2,1.5,1,1,0
-473612,Kokcu,Orkun Kokcu,2,1.5,1,1,0
-473590,Troupee,Giovanni Troupee,2,1.0,2,0,0
-473621,Cody Gakpo,Cody Gakpo,2,1.0,2,0,0
-473582,Finland,Milan van Ewijk,2,2.5,0,2,0
-473621,Ajax   Froemel,Ajax,2,5.0,0,0,2
-473582,Mees,Mees de Wit,2,1.0,2,0,0
-473582,Maikel van der Werff,Maikel van der Werff,2,1.0,2,0,0
-473582,Jansen,Johnny Jansen,2,2.0,1,1,0
-473582,Pec Zwolle,PEC Zwolle,2,5.0,0,0,2
-473582,Luceber   Ericx,Lucas Woudenberg,2,1.0,2,0,0
-473621,Brabant,Brian Brobbey,2,3.5,0,2,0
-473582,Jasper      Zwolle,PEC Zwolle,2,4.0,0,2,0
-473590,Saglam,Goerkem Saglam,2,1.0,2,0,0
-473612,janssen vi,Thijs Jansen,2,2.0,1,1,0
-473590,Mats,Mats Koehlert,2,3.0,0,2,0
-473582,Peize,Pelle Clement,2,1.0,2,0,0
-473619,Luuk Brouwers,Luuk Brouwers,2,2.0,1,1,0
-473619,Noah Fadiga,Noah Fadiga,2,2.0,1,1,0
-473612,Toornstra,Jens Toornstra,2,2.0,1,1,0
-473612,Trauner,Gernot Trauner,2,2.0,1,1,0
-473590,Fredje,Fred Grim,2,3.0,0,2,0
-473619,Andries,Andries Noppert,2,4.0,0,1,1
-473612,Cas Odenthal,Cas Odenthal,2,2.0,0,2,0
-473619,Marco Rente,Marco Rente,2,4.0,0,2,0
-473590,1Twente,FC Twente,2,2.0,1,1,0
-473590,AZ   Twente und mehr,FC Twente,2,4.0,0,1,1
-473619,Kroes,Koen Bucker,2,3.0,1,0,1
-473590,Brown,Jorn Brondeel,2,1.0,2,0,0
-473619,Joris Kramer,Joris Kramer,2,1.0,2,0,0
-473612,Varkenoord Fanboy,Feyenoord,2,5.0,0,0,2
-473590,Cerny,Vaclav Cerny,2,2.5,1,1,0
-473590,Cleonise,Denilho Cleonise,2,1.5,1,1,0
-473612,Drenthe,Denzel Hall,2,2.0,1,1,0
-473612,Eerste,Guus Gertsen,2,1.5,1,1,0
-473590,Drie,Dries Saddiki,2,3.0,1,0,1
-473590,Driess Saddiki,Dries Saddiki,2,3.0,0,2,0
-473590,Elton,Elton Kabangu,2,1.0,2,0,0
-473590,VJournaal,Jorn Brondeel,2,1.0,2,0,0
-473590,Europese,Giovanni Troupee,2,1.0,2,0,0
-473590,Grkem Saglam,Goerkem Saglam,2,1.0,2,0,0
-473590,Ivey Passion,Max Svensson,2,3.0,0,2,0
-473619,Giacomo Quagliata,Giacomo Quagliata,2,1.0,2,0,0
-473619,Vake,Justin Bakker,2,5.0,0,0,2
-473612,Jens,Jens Toornstra,2,1.0,2,0,0
-473582,Redan,Daishawn Redan,2,3.0,1,0,1
-473582,Reijnders,Eliano Reijnders,2,3.5,0,2,0
-473590,fc twente,FC Twente,2,3.0,1,0,1
-473612,Sinisterra,Luis Sinisterra,2,3.0,0,2,0
-473619,Giro,Go Ahead Eagles,2,1.5,1,1,0
-473590,Erwin,Luca Everink,2,3.0,0,2,0
-473619,drie,Andries Noppert,2,3.0,0,2,0
-473619,acuse,Nikolai Laursen,2,3.0,1,0,1
-473590,Laura,Luca Everink,2,2.0,1,1,0
-473582,Van Wermeskerken,Sai van Wermeskerken,2,1.5,1,1,0
-473619,Ogechika,Ogechika Heil,2,1.0,2,0,0
-473612,Guus Til,Guus Til,2,4.0,0,1,1
-473612,Goffert,Gernot Trauner,2,4.5,0,1,1
-473612,Geertruida,Lutsharel Geertruida,2,2.0,1,1,0
-473619,Oratmangoen,Ragnar Oratmangoen,2,2.5,1,1,0
-473619,Bayern,Justin Bakker,2,5.0,0,0,2
-473590,Kampetsis,Argyris Kampetsis,2,1.0,2,0,0
-473590,Jolien,Jorn Brondeel,2,1.0,2,0,0
-473612,Tessa,Reiss Nelson,2,3.0,1,0,1
-473590,on tour,Connor van den Berg,2,2.0,1,1,0
-473590,twente,FC Twente,2,2.0,1,1,0
-473590,Elton Kabangu,Elton Kabangu,2,2.0,1,1,0
-473272,Adewoye,Shawn Adewoye,2,1.0,2,0,0
-473638,Coremans,Tim Coremans,2,5.0,0,0,2
-473579,Owen Wijndal,Owen Wijndal,2,3.0,1,0,1
-473560,Houwen,Jeroen Houwen,2,2.0,1,1,0
-473560,Kasanwirjo,Neraysho Kasanwirjo,2,4.5,0,1,1
-473560,Koen,Jeroen Houwen,2,5.0,0,0,2
-473560,Meijer,Bjorn Meijer,2,1.5,1,1,0
-473560,Te Wierik,Mike te Wierik,2,2.5,0,2,0
-473638,Dalmau,Adrian Dalmau,2,2.0,1,1,0
-473560,Tony,Toni Domgjoni,2,5.0,0,0,2
-473560,Vitessefan,Vitesse,2,2.0,1,1,0
-473560,Vroegh,Patrick Vroegh,2,3.0,0,2,0
-473560,afrika,Patrick Vroegh,2,1.5,1,1,0
-473560,flatertje van Leeuwenburgh,Peter Leeuwenburgh,2,3.0,0,2,0
-473560,gemeente Groningen,FC Groningen,2,2.0,1,1,0
-473560,ierland,Enrico Hernandez,2,1.5,1,1,0
-473638,27jr Sparta,Sparta Rotterdam,2,1.0,2,0,0
-473621,twee,Philipp Mwene,2,4.0,0,1,1
-473560,tien,Mike te Wierik,2,5.0,0,0,2
-473560,vier,Marin Sverko,2,1.0,2,0,0
-473579,Alkmaarders,AZ Alkmaar,2,3.5,0,2,0
-473621,Tadic,Dusan Tadic,2,4.0,0,1,1
-473621,Sneek,Jenson Seelt,2,5.0,0,0,2
-473579,Dani de Wit,Dani de Wit,2,2.5,1,1,0
-473579,Doke Schmidt,Doke Schmidt,2,2.0,1,1,0
-473579,Doodemans,Nick Doodeman,2,1.0,2,0,0
-473579,Janny,Pascal Jansen,2,3.0,1,0,1
-473579,Johnny Jansen,Pascal Jansen,2,4.0,0,1,1
-473579,Kiss,Tamas Kiss,2,1.0,2,0,0
-473579,Mac Intosch,Calvin Mac-Intosch,2,1.0,2,0,0
-473621,Nico Tagliafico,Nicolas Tagliafico,2,2.0,1,1,0
-473579,Michael Breij,Michael Breij,2,1.0,2,0,0
-473560,Geel,Wessel Dammers,2,2.5,0,2,0
-473638,Kick,Rick Meissen,2,5.0,0,0,2
-473560,Dasa,Eliazer Dasa,2,2.5,1,1,0
-473638,Rotterdamse,Sparta Rotterdam,2,1.0,2,0,0
-473638,no Sparta,Sparta Rotterdam,2,1.0,2,0,0
-473272,Antifa,Vurnon Anita,2,5.0,0,0,2
-473272,Cox,George Cox,2,1.0,2,0,0
-473272,Eerste,Yigit Emre Celtik,2,4.5,0,1,1
-473638,Vrees,Bart Vriends,2,1.0,2,0,0
-473638,Van der Streek,Sander van de Streek,2,5.0,0,0,2
-473272,Fortunees,Fortuna Sittard,2,1.0,2,0,0
-473638,Utrechters,FC Utrecht,2,1.0,2,0,0
-473272,I Kramer,Michiel Kramer,2,2.0,1,1,0
-473272,I Noslin,Tijjani Noslin,2,1.0,2,0,0
-473272,Johannson,Ryan Johansson,2,3.0,0,2,0
-473272,Michiel,Michiel Kramer,2,1.0,2,0,0
-473272,Nieuwpoort,Lars Nieuwpoort,2,1.0,2,0,0
-473272,RKC Waalwijk   ,RKC Waalwijk,2,1.0,2,0,0
-473560,Danny,Danny Buijs,2,2.0,1,1,0
-473638,Rotterdams,Sparta Rotterdam,2,1.0,2,0,0
-473272,RKC Waalwijk fanaat bierfijnproever,RKC Waalwijk,2,1.0,2,0,0
-473638,RTV Utrecht,FC Utrecht,2,1.0,2,0,0
-473638,Putin,Michael Pinto,2,1.0,2,0,0
-473638,Othman Boussaid,Othman Boussaid,2,5.0,0,0,2
-473272,Ultee,Sjors Ultee,2,3.5,0,1,1
-473272,Van den Buijs,Dario van den Buijs,2,1.0,2,0,0
-473272,Wouters,Luuk Wouters,2,1.0,2,0,0
-473272,geel,Nigel Lonwijk,2,1.0,2,0,0
-473272,no Fortuna,Fortuna Sittard,2,1.0,2,0,0
-473638,Mijnans,Sven Mijnans,2,1.0,2,0,0
-473560,Bjorn Meijer,Bjorn Meijer,2,5.0,0,0,2
-473560,Danil,Daniel van Kaam,2,5.0,0,0,2
-473579,Oostzaan,Thijs Oosting,2,4.0,0,1,1
-473579,Sylla van,Sekou Sylla,2,5.0,0,0,2
-473582,Cees,Mees de Wit,2,2.0,1,1,0
-473582,Ahaus,Anas Tahiri,2,2.5,1,1,0
-473579,laagste,Jordy Clasie,2,2.0,1,1,0
-473579,Proud,Ernest Poku,2,3.0,1,0,1
-473579,mr Vindahl,Peter Vindahl Jensen,2,1.0,2,0,0
-473582,2de,Mees de Wit,2,4.0,0,1,1
-473621,Joran,Jordan Teze,2,5.0,0,0,2
-473579,drie,Henk de Jong,2,3.0,1,0,1
-473621,Madrid,Mario Goetze,2,5.0,0,0,2
-473579,Thijs Oosting,Thijs Oosting,2,1.0,2,0,0
-473579,Pascal,Pascal Jansen,2,3.0,1,0,1
-473579,Paulissen,Mitchell Paulissen,2,1.0,2,0,0
-473621,Geert,Jenson Seelt,2,2.0,0,2,0
-473582,Comeon,Pelle Clement,2,4.0,0,1,1
-473582,Bram,Bram van Polen,2,2.0,1,1,0
-473638,OMG Utrecht,FC Utrecht,1,3.0,0,1,0
-473621,Berlin,Brian Brobbey,1,3.0,0,1,0
-473621,Misantroop,Lisandro Martinez,1,1.0,1,0,0
-473619,Bilal,Bilal Basacikoglu,1,1.0,1,0,0
-473621,Frans,Eran Zahavi,1,1.0,1,0,0
-473638,Namen,Younes Namli,1,1.0,1,0,0
-473638,NUFC,FC Utrecht,1,5.0,0,0,1
-473621,Galacticos,Nicolas Tagliafico,1,5.0,0,0,1
-473619,Bayer,Justin Bakker,1,3.0,0,1,0
-473621,Fiona,Fode Fofana,1,3.0,0,1,0
-473638,Othmane Boussaid,Othman Boussaid,1,3.0,0,1,0
-473638,Oud Spartaan,Sparta Rotterdam,1,1.0,1,0,0
-473638,Pinto,Michael Pinto,1,1.0,1,0,0
-473619,Bilal Baakolu,Bilal Basacikoglu,1,5.0,0,0,1
-473638,Quinten Timber,Quinten Timber,1,1.0,1,0,0
-473621,Brabo,Bruma,1,1.0,1,0,0
-473638,Ramselaar,Bart Ramselaar,1,1.0,1,0,0
-473638,Remco,Remco Balk,1,1.0,1,0,0
-473619,Ahead Eagle,Go Ahead Eagles,1,1.0,1,0,0
-473619,Ahead Eagels,Go Ahead Eagles,1,3.0,0,1,0
-473638,Mimoun Mahi,Mimoun Mahi,1,1.0,1,0,0
-473638,Mimoun,Mimoun Mahi,1,1.0,1,0,0
-473621,Berlijn,Brian Brobbey,1,1.0,1,0,0
-473619,Bilal Basacikoglu,Bilal Basacikoglu,1,3.0,0,1,0
-473638,Kom op Sparta,Sparta Rotterdam,1,2.0,0,1,0
-473638,Lange,Arthur Zagre,1,1.0,1,0,0
-473638,Le Sparta,Sparta Rotterdam,1,5.0,0,0,1
-473621,Barça,Bruma,1,1.0,1,0,0
-473638,Lekker Van Overheem,Joris van Overeem,1,4.0,0,1,0
-473638,Leo Driessen,Rick Meissen,1,5.0,0,0,1
-473619,Demy,Quiermo Dumay,1,4.0,0,1,0
-473621,Bavaria,Brian Brobbey,1,1.0,1,0,0
-473621,Ben,Erik ten Hag,1,3.0,0,1,0
-473638,Leo Fucking Driessen,Rick Meissen,1,1.0,1,0,0
-473638,Maaaaaahi,Mimoun Mahi,1,1.0,1,0,0
-473638,Marcel,Michael Pinto,1,1.0,1,0,0
-473638,Mario Engels,Mario Engels,1,3.0,0,1,0
-473638,Meijers,Aaron Meijers,1,1.0,1,0,0
-473619,Dean Martin André Hazes,Cuco Martina,1,3.0,0,1,0
-473638,Mesmo,Remco Balk,1,1.0,1,0,0
-473619,Crdoba,Inigo Cordoba,1,2.0,0,1,0
-473619,Cordoba,Inigo Cordoba,1,1.0,1,0,0
-473619,Chris,Joris Kramer,1,5.0,0,0,1
-473638,Mica Pinto,Michael Pinto,1,4.0,0,1,0
-473621,Bente,Philipp Mwene,1,3.0,0,1,0
-473619,Brouwers,Luuk Brouwers,1,5.0,0,0,1
-473638,Mike van der Hoorn,Mike van der Hoorn,1,3.0,0,1,0
-473638,Rotterdam West,Sparta Rotterdam,1,1.0,1,0,0
-473619,Blaisse,Sinan Bakis,1,1.0,1,0,0
-473638,Ren Hake,Rene Hake,1,5.0,0,0,1
-473621,FIM de uma,Bruma,1,5.0,0,0,1
-473612,viajero,Rogier Meijer,1,5.0,0,0,1
-473621,Eindhoven be like,PSV Eindhoven,1,5.0,0,0,1
-473638,Tom Beugelsdijk,Tom Beugelsdijk,1,5.0,0,0,1
-473638,Utrechtenaar,FC Utrecht,1,1.0,1,0,0
-473638,Utrechtenaren,FC Utrecht,1,1.0,1,0,0
-473621,EriskayFc,Erik ten Hag,1,5.0,0,0,1
-473638,Utrechtse,FC Utrecht,1,5.0,0,0,1
-473612,Rdam,Ramon Hendriks,1,1.0,1,0,0
-473638,Utreg,FC Utrecht,1,3.0,0,1,0
-473612,Pinsterest,Luis Sinisterra,1,1.0,1,0,0
-473612,Orkun Kokcu,Orkun Kokcu,1,2.0,0,1,0
-473621,Erick Gutirrez,Erick Gutierrez,1,1.0,1,0,0
-473621,El Ajax derrot,Ajax,1,1.0,1,0,0
-473638,Willem Janssen,Willem Janssen,1,1.0,1,0,0
-473621,Brobbey,Brian Brobbey,1,1.0,1,0,0
-473638,Younes Namli,Younes Namli,1,3.0,0,1,0
-473612,Niks,Nils Rossen,1,1.0,1,0,0
-473612,Nijmegenaren,NEC Nijmegen,1,1.0,1,0,0
-473638,del Planeta,Kevin Gadellaa,1,1.0,1,0,0
-473612,Nijmeegse club,NEC Nijmegen,1,3.0,0,1,0
-473638,den,Fabian de Keijzer,1,5.0,0,0,1
-473638,drie,Fabian de Keijzer,1,4.0,0,1,0
-473621,Damme,Joel Drommel,1,5.0,0,0,1
-473638,english,Mario Engels,1,1.0,1,0,0
-473612,Nijgh,NEC Nijmegen,1,1.0,1,0,0
-473638,half,Achraf Madi,1,1.0,1,0,0
-473638,Timber,Quinten Timber,1,1.0,1,0,0
-473621,Brits,Steven Berghuis,1,1.0,1,0,0
-473612,one,Lasse Schoene,1,5.0,0,0,1
-473638,Sparta FC Utrecht,FC Utrecht,1,1.0,1,0,0
-473638,Rotterdammer,Sparta Rotterdam,1,2.0,0,1,0
-473621,Bram,Bruma,1,1.0,1,0,0
-473621,Braziliaans,Brian Brobbey,1,1.0,1,0,0
-473612,ne yandan esersen es,Guus Gertsen,1,5.0,0,0,1
-473638,SMFC,FC Utrecht,1,1.0,1,0,0
-473612,history and more about Feyenoord,Feyenoord,1,5.0,0,0,1
-473612,fraquejar,Gernot Trauner,1,1.0,1,0,0
-473638,Sander van de S.,Sander van de Streek,1,1.0,1,0,0
-473638,Smeets,Bryan Smeets,1,1.0,1,0,0
-473638,Spar,Sparta Rotterdam,1,4.0,0,1,0
-473621,Brian,Bruma,1,5.0,0,0,1
-473612,Winter,Ole ter Haar Romeny,1,5.0,0,0,1
-473638,Tim Coremans,Tim Coremans,1,3.0,0,1,0
-473638,Sparta Rotterdam   ,Sparta Rotterdam,1,4.0,0,1,0
-473638,Sparta Rotterdam   IN,Sparta Rotterdam,1,3.0,0,1,0
-473638,Sparta Rotterdam van,Sparta Rotterdam,1,5.0,0,0,1
-473612,Til 6,Guus Til,1,1.0,1,0,0
-473612,Thiasgal,Thijs Jansen,1,1.0,1,0,0
-473638,Sven Mijnans,Sven Mijnans,1,4.0,0,1,0
-473621,Brian Brobbey,Brian Brobbey,1,1.0,1,0,0
-473612,Stentor,Ole ter Haar Romeny,1,5.0,0,0,1
-473638,Tilburg,Quinten Timber,1,4.0,0,1,0
-473612,Sparta,Bart van Rooij,1,3.0,0,1,0
-473612,Slotball,Arne Slot,1,3.0,0,1,0
-473619,Drenthe,Marco Rente,1,1.0,1,0,0
-473638,Hillie Grissen,Willem Janssen,1,1.0,1,0,0
-473638,Joris,Joris van Overeem,1,1.0,1,0,0
-473621,Stentor,Charlie Setford,1,3.0,0,1,0
-473621,Steven Berghuis,Steven Berghuis,1,5.0,0,0,1
-473621,AFC Ajax,Ajax,1,5.0,0,0,1
-473621,Talca,Dusan Tadic,1,5.0,0,0,1
-473621,Ten Hag,Erik ten Hag,1,3.0,0,1,0
-473621,Tjezzes,Jordan Teze,1,3.0,0,1,0
-473621,Trommel,Joel Drommel,1,4.0,0,1,0
-473621,Tunisian,Dusan Tadic,1,1.0,1,0,0
-473621,Twee,Jordan Teze,1,5.0,0,0,1
-473621,Twente,Philipp Mwene,1,5.0,0,0,1
-473619,Lucas Schoofs,Lucas Schoofs,1,1.0,1,0,0
-473621,Vera,Joey Veerman,1,1.0,1,0,0
-473621,Vermeulen,Yorbe Vertessen,1,1.0,1,0,0
-473621,Wende,Philipp Mwene,1,1.0,1,0,0
-473619,Luca de La Torre,Luca de la Torre,1,3.0,0,1,0
-473619,Luca,Luca de la Torre,1,4.0,0,1,0
-473619,Limburger,Isac Lidberg,1,5.0,0,0,1
-473621,You,Youri Regeer,1,1.0,1,0,0
-473621,ajax,Ajax,1,1.0,1,0,0
-473621,duits,Ritsu Doan,1,3.0,0,1,0
-473621,pisvee,Remko Pasveer,1,1.0,1,0,0
-473621,the,Erik ten Hag,1,5.0,0,0,1
-473621,Afrika,Erik ten Hag,1,1.0,1,0,0
-473621,Lisa,Lisandro Martinez,1,1.0,1,0,0
-473621,together,Roger Schmidt,1,5.0,0,0,1
-473621,Leudal,Richard Ledezma,1,3.0,0,1,0
-473619,Navajo,Navajo Bakboord,1,1.0,1,0,0
-473621,Marco van Ginkel,Marco van Ginkel,1,1.0,1,0,0
-473638,Joeri de Kamps,Joeri de Kamps,1,3.0,0,1,0
-473619,Navajo Bakboord,Navajo Bakboord,1,1.0,1,0,0
-473619,lidberg,Isac Lidberg,1,1.0,1,0,0
-473621,Nico,Nicolas Tagliafico,1,5.0,0,0,1
-473619,november,Mats Knoester,1,1.0,1,0,0
-473621,Nicole,Nicolas Tagliafico,1,1.0,1,0,0
-473619,Triest,Orestis Kiomourtzoglou,1,4.0,0,1,0
-473619,Sinan Bakis,Sinan Bakis,1,1.0,1,0,0
-473621,Nora,Jordan Teze,1,1.0,1,0,0
-473619,Sierhuis spelen,Kaj Sierhuis,1,4.0,0,1,0
-473621,Miles Down,Ritsu Doan,1,3.0,0,1,0
-473621,Oranje,Eran Zahavi,1,1.0,1,0,0
-473621,Michael Jordan,Jordan Teze,1,5.0,0,0,1
-473619,Radio,Nando Verdoni,1,5.0,0,0,1
-473619,Orestis Kiomourtzoglou,Orestis Kiomourtzoglou,1,1.0,1,0,0
-473621,PSV Eindhoven,PSV Eindhoven,1,1.0,1,0,0
-473619,vanmidd,Kees van Wonderen,1,3.0,0,1,0
-473621,PSV ers doen,PSV Eindhoven,1,1.0,1,0,0
-473621,Prince,Vincent Mueller,1,1.0,1,0,0
-473619,Oratm,Ragnar Oratmangoen,1,1.0,1,0,0
-473621,Radio,Dusan Tadic,1,5.0,0,0,1
-473621,Richard,Richard Ledezma,1,5.0,0,0,1
-473621,Rusland,Dusan Tadic,1,1.0,1,0,0
-473619,zestien,Justin Bakker,1,1.0,1,0,0
-473621,Married to,Mario Goetze,1,5.0,0,0,1
-473621,Since,Vincent Mueller,1,1.0,1,0,0
-473621,Marlies,Charlie Setford,1,1.0,1,0,0
-473619,Kuipers,Bas Kuipers,1,1.0,1,0,0
-473621,vierde,Olivier Boscagli,1,4.0,0,1,0
-473621,La voz de Dios a,Danilo,1,5.0,0,0,1
-473621,Kenneth Steffers,Kenneth Taylor,1,1.0,1,0,0
-473638,Driessen,Rick Meissen,1,1.0,1,0,0
-473619,Heracles   ,Heracles,1,4.0,0,1,0
-473638,Eagles Sparta,Sparta Rotterdam,1,1.0,1,0,0
-473638,Engels,Mario Engels,1,1.0,1,0,0
-473638,Engelse,Mario Engels,1,5.0,0,0,1
-473638,English,Mario Engels,1,1.0,1,0,0
-473638,FC Utrecht   ,FC Utrecht,1,5.0,0,0,1
-473638,FCGB,FC Utrecht,1,3.0,0,1,0
-473638,FCU,FC Utrecht,1,5.0,0,0,1
-473619,Geri,Gerrit Nauber,1,4.0,0,1,0
-473621,Genberg,Ryan Gravenberch,1,1.0,1,0,0
-473638,FT Sparta,Sparta Rotterdam,1,1.0,1,0,0
-473619,Franse,Francis Ross,1,5.0,0,0,1
-473638,Fc Utrecht,FC Utrecht,1,1.0,1,0,0
-473638,Finland,Finn Murre,1,3.0,0,1,0
-473619,Frankrijk,Frank Wormuth,1,5.0,0,0,1
-473621,Alkmaarse,Edson Alvarez,1,1.0,1,0,0
-473621,Amnesty International,Antony,1,1.0,1,0,0
-473638,Hake,Rene Hake,1,1.0,1,0,0
-473621,Antony,Antony,1,1.0,1,0,0
-473638,Hemelen,Michael Heylen,1,5.0,0,0,1
-473619,Frank,Frank Wormuth,1,5.0,0,0,1
-473619,FT Heracles,Heracles,1,5.0,0,0,1
-473638,Henken,Henk Fraser,1,1.0,1,0,0
-473621,Barca,Bruma,1,5.0,0,0,1
-473638,Douvikas conferir,Anastasios Douvikas,1,1.0,1,0,0
-473638,Douvi,Anastasios Douvikas,1,4.0,0,1,0
-473619,Heracles Almeloooo,Heracles,1,5.0,0,0,1
-473638,Adil Auassar,Adil Auassar,1,3.0,0,1,0
-473638,Aaron Meijers,Aaron Meijers,1,4.0,0,1,0
-473621,Kenneth Perez,Kenneth Taylor,1,1.0,1,0,0
-473619,Komaan Eagles,Go Ahead Eagles,1,5.0,0,0,1
-473621,Jordanees,Jordan Teze,1,1.0,1,0,0
-473638,Abels,Dirk Abels,1,5.0,0,0,1
-473619,Kees van W. Intern,Kees van Wonderen,1,3.0,0,1,0
-473619,Kees,Kees van Wonderen,1,5.0,0,0,1
-473638,Achraf Madi,Achraf Madi,1,5.0,0,0,1
-473621,Haller,Vincent Mueller,1,4.0,0,1,0
-473638,Adam Maher,Adam Maher,1,3.0,0,1,0
-473619,Kai Sierhuis,Kaj Sierhuis,1,1.0,1,0,0
-473638,Amsterdam,Django Warmerdam,1,1.0,1,0,0
-473638,De Keijzer,Fabian de Keijzer,1,1.0,1,0,0
-473619,Jacky,Jay Idzes,1,3.0,0,1,0
-473638,Bart,Bart Ramselaar,1,5.0,0,0,1
-473621,Goodnight Eindhoven,PSV Eindhoven,1,5.0,0,0,1
-473638,Bartje,Bart Ramselaar,1,5.0,0,0,1
-473619,Inigo Cordoba,Inigo Cordoba,1,5.0,0,0,1
-473638,Bryan Smeets,Bryan Smeets,1,4.0,0,1,0
-473619,Iigo Crdoba,Inigo Cordoba,1,5.0,0,0,1
-473621,Edson lvarez,Edson Alvarez,1,1.0,1,0,0
-473621,Ajax Amsterdam,Ajax,1,5.0,0,0,1
-473621,Ajaxzege,Ajax,1,1.0,1,0,0
-473619,Heracles van Oratmangoen,Ragnar Oratmangoen,1,1.0,1,0,0
-473621,Duitsland,Dusan Tadic,1,2.0,0,1,0
-473590,Heerkens,Freek Heerkens,1,3.0,0,1,0
-473612,NEC UFC,NEC Nijmegen,1,3.0,0,1,0
-473579,Breng Barasi,Yusuf Barasi,1,1.0,1,0,0
-473560,Vitess,Vitesse,1,5.0,0,0,1
-473560,Vitesse   ,Vitesse,1,1.0,1,0,0
-473560,Vitesse Oosttribune,Vitesse,1,1.0,1,0,0
-473560,Vitesse Punk,Vitesse,1,1.0,1,0,0
-473560,Vitesse ainda,Vitesse,1,3.0,0,1,0
-473560,Vitessefans,Vitesse,1,1.0,1,0,0
-473560,eerste,Eric Verstappen,1,1.0,1,0,0
-473560,homos van vites,Vitesse,1,5.0,0,0,1
-473560,maanden,Nikolai Baden,1,5.0,0,0,1
-473560,morgen,Joergen Strand Larsen,1,5.0,0,0,1
-473560,on,Toni Domgjoni,1,5.0,0,0,1
-473560,sano,Romano Postema,1,3.0,0,1,0
-473560,stad Groningen,FC Groningen,1,3.0,0,1,0
-473579,10de,Henk de Jong,1,1.0,1,0,0
-473579,AZ van Pascal Jansen,Pascal Jansen,1,3.0,0,1,0
-473579,AZAlkmaar Academy,AZ Alkmaar,1,5.0,0,0,1
-473579,Albert Gudmundsson,Albert Gudmundsson,1,1.0,1,0,0
-473579,Alkmaarder,AZ Alkmaar,1,3.0,0,1,0
-473579,Aslak Witry,Aslak Fonn Witry,1,5.0,0,0,1
-473560,Thomas Letsch,Thomas Letsch,1,4.0,0,1,0
-473560,Thanks,Thomas Letsch,1,5.0,0,0,1
-473560,Thank you Buitink,Thomas Buitink,1,5.0,0,0,1
-473560,Proost,Romano Postema,1,5.0,0,0,1
-473560,Letsch,Thomas Letsch,1,1.0,1,0,0
-473560,ManhoefMovement,Million Manhoef,1,5.0,0,0,1
-473560,Mark,Marin Sverko,1,3.0,0,1,0
-473560,Michael,Michael de Leeuw,1,3.0,0,1,0
-473560,Mike Te Wierik,Mike te Wierik,1,1.0,1,0,0
-473560,Nope,Cyril Ngonge,1,1.0,1,0,0
-473560,Paulos,Paulos Abraham,1,4.0,0,1,0
-473560,Peter,Peter Leeuwenburgh,1,5.0,0,0,1
-473560,Provincie Groningen,FC Groningen,1,4.0,0,1,0
-473560,Ter Wierik,Mike te Wierik,1,3.0,0,1,0
-473560,Rasmussen,Jacob Rasmussen,1,4.0,0,1,0
-473560,Roma,Romano Postema,1,3.0,0,1,0
-473560,SCC FC Groningen,FC Groningen,1,3.0,0,1,0
-473560,Sahil,Damil Dankerlui,1,5.0,0,0,1
-473560,Snel,Daniel van Kaam,1,2.0,0,1,0
-473560,Sparta,Bart van Hintum,1,1.0,1,0,0
-473560,Tech,Thomas Letsch,1,5.0,0,0,1
-473560,Ten Boer,Jan De Boer,1,4.0,0,1,0
-473579,Bangura,Yusuf Barasi,1,1.0,1,0,0
-473579,Brett,Brett Minnema,1,5.0,0,0,1
-473612,NEC Feyenoord,Feyenoord,1,1.0,1,0,0
-473579,Calvin Mac Intosch,Calvin Mac-Intosch,1,3.0,0,1,0
-473579,Kom,Tom Boere,1,1.0,1,0,0
-473579,Latvian,Calvin Mac-Intosch,1,1.0,1,0,0
-473579,Marcus,Marco Tol,1,5.0,0,0,1
-473579,Max,Maxim Gullit,1,1.0,1,0,0
-473579,Maxim Gullit,Maxim Gullit,1,1.0,1,0,0
-473579,Nick Doodeman,Nick Doodeman,1,1.0,1,0,0
-473579,Owen,Owen Wijndal,1,1.0,1,0,0
-473579,Parma,Tamas Kiss,1,3.0,0,1,0
-473579,Pavlidis Stevens,Evangelos Pavlidis,1,5.0,0,0,1
-473579,Peize,Peer Koopmeiners,1,5.0,0,0,1
-473579,Perfil,Peer Koopmeiners,1,3.0,0,1,0
-473579,Perry,Peer Koopmeiners,1,5.0,0,0,1
-473579,Robin Maulun,Robin Maulun,1,3.0,0,1,0
-473579,SC Cambuur,Cambuur,1,5.0,0,0,1
-473579,Sam,Sam Hendriks,1,5.0,0,0,1
-473579,Sam Beukema,Sam Beukema,1,5.0,0,0,1
-473579,Schietkans voor Beukema,Sam Beukema,1,1.0,1,0,0
-473579,Schot,Erik Schouten,1,1.0,1,0,0
-473579,Schouten,Erik Schouten,1,5.0,0,0,1
-473579,Karin,Jesper Karlsson,1,5.0,0,0,1
-473579,Jasper ter Heide,Jasper ter Heide,1,3.0,0,1,0
-473579,Jamie Jacobs,Jamie Jacobs,1,4.0,0,1,0
-473579,Damme,Jamie Jacobs,1,3.0,0,1,0
-473579,Calvin Mac Intosh,Calvin Mac-Intosch,1,1.0,1,0,0
-473579,Cambuur   waldhoorn,Cambuur,1,5.0,0,0,1
-473579,Cambuur   wielrennen,Cambuur,1,5.0,0,0,1
-473579,Cambuur Cwartiertje,Cambuur,1,1.0,1,0,0
-473579,Cambuur spelen,Cambuur,1,1.0,1,0,0
-473579,CambuurKomtEraan,Cambuur,1,4.0,0,1,0
-473579,Cambuurman,Cambuur,1,1.0,1,0,0
-473579,Come on Marco,Marco Tol,1,3.0,0,1,0
-473579,Dani,Dani de Wit,1,1.0,1,0,0
-473579,Henk,Henk de Jong,1,5.0,0,0,1
-473579,Doke,Doke Schmidt,1,5.0,0,0,1
-473579,Doodem,Nick Doodeman,1,1.0,1,0,0
-473579,EdmundsN,Albert Gudmundsson,1,1.0,1,0,0
-473579,English,Evangelos Pavlidis,1,1.0,1,0,0
-473579,Eva,Roy van Mameren,1,5.0,0,0,1
-473579,Familie,Jamie Jacobs,1,5.0,0,0,1
-473579,Franse,Pascal Jansen,1,5.0,0,0,1
-473579,Hendriks,Sam Hendriks,1,5.0,0,0,1
-473560,LFC,FC Groningen,1,5.0,0,0,1
-473560,Klantadviseur Woonstichting Groningerhuis,FC Groningen,1,5.0,0,0,1
-473560,Jannes,Jan De Boer,1,1.0,1,0,0
-473560,Interesse,Vitesse,1,1.0,1,0,0
-473272,Jezus,Jens Odgaard,1,1.0,1,0,0
-473272,Kuijpers,Roy Kuijpers,1,1.0,1,0,0
-473272,MIchiel Kramer,Michiel Kramer,1,1.0,1,0,0
-473272,Mats Seuntj,Mats Seuntjens,1,3.0,0,1,0
-473272,Meulensteen,Melle Meulensteen,1,1.0,1,0,0
-473272,Michael Verrips,Michael Verrips,1,3.0,0,1,0
-473272,Michel,Michiel Kramer,1,1.0,1,0,0
-473272,Nederlander,Alexander Buttner,1,1.0,1,0,0
-473272,Noslin,Tijjani Noslin,1,1.0,1,0,0
-473272,Oukili,Yassin Oukili,1,3.0,0,1,0
-473272,Quelle,Melle Meulensteen,1,4.0,0,1,0
-473272,RKC   Stokkers,Finn Stokkers,1,5.0,0,0,1
-473272,RKC Fortuna,Fortuna Sittard,1,5.0,0,0,1
-473272,RKC Lonwijk,RKC Waalwijk,1,1.0,1,0,0
-473272,RKC Waalw,RKC Waalwijk,1,1.0,1,0,0
-473272,RKC Waalwijk conseguiu,RKC Waalwijk,1,1.0,1,0,0
-473272,RKC ers,RKC Waalwijk,1,4.0,0,1,0
-473272,RKC van Joseph Oosting,Joseph Oosting,1,1.0,1,0,0
-473272,RKCNu,RKC Waalwijk,1,3.0,0,1,0
-473272,I Stokkers,Finn Stokkers,1,1.0,1,0,0
-473272,I Seuntjens,Mats Seuntjens,1,5.0,0,0,1
-473272,I Janssen,Roel Janssen,1,1.0,1,0,0
-473272,Flemming,Zian Flemming,1,1.0,1,0,0
-473272,Afstandsschot van Duarte,Deroy Duarte,1,1.0,1,0,0
-473272,Anders,Andreas Samaris,1,1.0,1,0,0
-473272,Anita,Vurnon Anita,1,1.0,1,0,0
-473272,Anita en Bttner,Alexander Buttner,1,1.0,1,0,0
-473272,Bakari,Jurien Gaari,1,5.0,0,0,1
-473272,Bechtle,Iiass Bel Hassani,1,1.0,1,0,0
-473272,Bergen,George Cox,1,1.0,1,0,0
-473272,Finland,Finn Stokkers,1,1.0,1,0,0
-473272,Fortu,Fortuna Sittard,1,1.0,1,0,0
-473272,I Flemming,Zian Flemming,1,1.0,1,0,0
-473272,Fortuna Sittard Cafe,Fortuna Sittard,1,4.0,0,1,0
-473272,Fortunezen,Fortuna Sittard,1,1.0,1,0,0
-473272,Gaan,Jurien Gaari,1,1.0,1,0,0
-473272,Gaari Kramer,Michiel Kramer,1,5.0,0,0,1
-473272,Geel voor Rienstra,Ben Rienstra,1,1.0,1,0,0
-473272,Geel voor Tirpan,Mickael Tirpan,1,5.0,0,0,1
-473272,I Bttner,Alexander Buttner,1,1.0,1,0,0
-473272,I Cox,George Cox,1,3.0,0,1,0
-473272,Radio,Dario van den Buijs,1,3.0,0,1,0
-473272,Richie Musaba,Richie Musaba,1,3.0,0,1,0
-473272,Rienstra,Ben Rienstra,1,5.0,0,0,1
-473560,FCGB,FC Groningen,1,5.0,0,0,1
-473560,Craft Beer,Matus Bero,1,1.0,1,0,0
-473560,Daip,Damil Dankerlui,1,1.0,1,0,0
-473560,Damme,Wessel Dammers,1,1.0,1,0,0
-473560,Danny Buis,Danny Buijs,1,4.0,0,1,0
-473560,Danny Makkelie,Danny Buijs,1,1.0,1,0,0
-473560,El Hankour,Mohamed El Hankouri,1,1.0,1,0,0
-473560,Eli Dasa,Eliazer Dasa,1,2.0,0,1,0
-473560,FC Groningen   ,FC Groningen,1,3.0,0,1,0
-473560,FT Vitesse,Vitesse,1,5.0,0,0,1
-473560,Corgi,Cyril Ngonge,1,1.0,1,0,0
-473560,Familie,Damil Dankerlui,1,5.0,0,0,1
-473560,Fc Grunn,FC Groningen,1,1.0,1,0,0
-473560,FcGroningen,FC Groningen,1,4.0,0,1,0
-473560,Gaan,Daan Huisman,1,1.0,1,0,0
-473560,Grb,Adrian Grbic,1,1.0,1,0,0
-473560,Groninger Museum,FC Groningen,1,4.0,0,1,0
-473560,HANOS Groningen   ,FC Groningen,1,1.0,1,0,0
-473560,Houwen zn,Jeroen Houwen,1,1.0,1,0,0
-473560,Cornelisse,Enzo Cornelisse,1,3.0,0,1,0
-473560,Beuningen,FC Groningen,1,5.0,0,0,1
-473272,Rkc waalwijk,RKC Waalwijk,1,5.0,0,0,1
-473272,Waalwijkers,RKC Waalwijk,1,5.0,0,0,1
-473272,Roel,Roel Janssen,1,1.0,1,0,0
-473272,RotWeiss Essen,Roel Janssen,1,2.0,0,1,0
-473272,Seuntjens derrubado,Mats Seuntjens,1,1.0,1,0,0
-473272,Sjors,Sjors Ultee,1,1.0,1,0,0
-473272,Spaans,Andreas Samaris,1,1.0,1,0,0
-473272,Stadion,Stijn Hogervorst,1,1.0,1,0,0
-473272,Toos,Toshio Lake,1,5.0,0,0,1
-473272,Twee,Tesfaldet Tekie,1,1.0,1,0,0
-473272,Waalwijkse Mandemakers,RKC Waalwijk,1,1.0,1,0,0
-473560,Ben,Nikolai Baden,1,5.0,0,0,1
-473272,and Fortuna,Fortuna Sittard,1,3.0,0,1,0
-473272,den Buijs,Dario van den Buijs,1,1.0,1,0,0
-473272,drie,Jurien Gaari,1,3.0,0,1,0
-473272,morgen,George Cox,1,1.0,1,0,0
-473272,mr,Yigit Emre Celtik,1,1.0,1,0,0
-473560,1ste,Mike te Wierik,1,3.0,0,1,0
-473560,2de,Michael de Leeuw,1,3.0,0,1,0
-473560,AFC,FC Groningen,1,1.0,1,0,0
-473579,Segue,Sekou Sylla,1,3.0,0,1,0
-473579,Sonny,Sonny Stevens,1,5.0,0,0,1
-473579,Sonny MotM.,Sonny Stevens,1,4.0,0,1,0
-473590,Fred Grim,Fred Grim,1,1.0,1,0,0
-473590,Rotsleert,Godfried Roemeratoe,1,5.0,0,0,1
-473590,Sadikek,Michal Sadilek,1,5.0,0,0,1
-473590,Sadil,Michal Sadilek,1,2.0,0,1,0
-473590,Svensson,Max Svensson,1,1.0,1,0,0
-473590,Tilburgers,Mees Hilgers,1,3.0,0,1,0
-473590,Tweets,FC Twente,1,2.0,0,1,0
-473590,Twentse,FC Twente,1,1.0,1,0,0
-473590,Vlap,Michel Vlap,1,2.0,0,1,0
-473590,WOII,Willem II,1,1.0,1,0,0
-473590,Will start at the begin of the,Willem II,1,4.0,0,1,0
-473590,Willem,Willem II,1,1.0,1,0,0
-473590,Willem 2,Willem II,1,1.0,1,0,0
-473590,Willem II hahaha,Willem II,1,5.0,0,0,1
-473590,Willem II v Twente,Willem II,1,1.0,1,0,0
-473590,Willem ii,Willem II,1,3.0,0,1,0
-473590,Willem ll,Willem II,1,5.0,0,0,1
-473590,Woran,Jorn Brondeel,1,1.0,1,0,0
-473590,Zeeuws,Mees Hilgers,1,3.0,0,1,0
-473590,europees,Giovanni Troupee,1,1.0,1,0,0
-473590,Ron,Ron Jans,1,5.0,0,0,1
-473590,Robin Prpper,Robin Propper,1,5.0,0,0,1
-473590,Prpper,Robin Propper,1,5.0,0,0,1
-473590,Kansje,Ron Jans,1,1.0,1,0,0
-473590,Friesland,Fred Grim,1,3.0,0,1,0
-473590,Giovanni Troupe,Giovanni Troupee,1,1.0,1,0,0
-473590,Gvd Saglam,Goerkem Saglam,1,5.0,0,0,1
-473272,Afrika,Arianit Ferati,1,2.0,0,1,0
-473590,II,Willem II,1,1.0,1,0,0
-473590,Jans Rots,Daan Rots,1,1.0,1,0,0
-473590,Jenssen,Max Svensson,1,2.0,0,1,0
-473590,Joris,Jorn Brondeel,1,3.0,0,1,0
-473590,Khn,Derrick Koehn,1,3.0,0,1,0
-473590,Nunnely,Che Nunnely,1,1.0,1,0,0
-473590,Kln,Kilian Ludewig,1,3.0,0,1,0
-473590,Kohn   ,Derrick Koehn,1,1.0,1,0,0
-473590,Llonch,Pol Llonch,1,1.0,1,0,0
-473590,Mama van 7jarige   WillemII   WWE,Willem II,1,1.0,1,0,0
-473590,Mats Khlert,Mats Koehlert,1,3.0,0,1,0
-473590,Mesmo,Mees Hilgers,1,1.0,1,0,0
-473590,Misidjan,Virgil Misidjan,1,1.0,1,0,0
-473590,Misidjan     ,Virgil Misidjan,1,1.0,1,0,0
-473590,half,Michal Sadilek,1,1.0,1,0,0
-473590,no Willem II,Willem II,1,1.0,1,0,0
-473590,spe,Casper Staring,1,1.0,1,0,0
-473612,Jordy,Jordy Bruijn,1,5.0,0,0,1
-473612,Feyenoord voor altijd,Feyenoord,1,3.0,0,1,0
-473612,Giornalista,Jens Toornstra,1,3.0,0,1,0
-473612,GoFeyenoordCity,Feyenoord,1,5.0,0,0,1
-473612,Iran,Ivan Marquez,1,5.0,0,0,1
-473612,IvaanMaarqueez,Ivan Marquez,1,1.0,1,0,0
-473612,Jens Toornstra,Jens Toornstra,1,5.0,0,0,1
-473612,Jesse,Jens Toornstra,1,5.0,0,0,1
-473612,Jessie,Cyriel Dessers,1,3.0,0,1,0
-473612,Jornada,Jordy Bruijn,1,1.0,1,0,0
-473612,Feyenoord fan,Feyenoord,1,5.0,0,0,1
-473612,Judith,Rodrigo Guth,1,5.0,0,0,1
-473612,Justin Bijlow,Justin Bijlow,1,4.0,0,1,0
-473612,Kkc,Orkun Kokcu,1,3.0,0,1,0
-473612,Kkc 8,Orkun Kokcu,1,3.0,0,1,0
-473612,Maargo,Marcos Senesi,1,3.0,0,1,0
-473612,MalagaCF,Tyrell Malacia,1,1.0,1,0,0
-473612,Mario Been,Marcos Senesi,1,1.0,1,0,0
-473612,Mark van Rijswijk,Bart van Rooij,1,1.0,1,0,0
-473612,Feyenoord vak,Feyenoord,1,1.0,1,0,0
-473612,Feyenoord comeou,Feyenoord,1,1.0,1,0,0
-473590,willem II,Willem II,1,3.0,0,1,0
-473612,Een half,Cas Odenthal,1,1.0,1,0,0
-473612,Alkmaar city,Ali Akman,1,2.0,0,1,0
-473612,Batman,Bart van Rooij,1,3.0,0,1,0
-473612,Berlijn,Jordy Bruijn,1,4.0,0,1,0
-473612,Bijlow,Justin Bijlow,1,3.0,0,1,0
-473612,Branderhorst,Mattijs Branderhorst,1,1.0,1,0,0
-473612,Bryan Linssen,Bryan Linssen,1,1.0,1,0,0
-473612,Cat,Cas Odenthal,1,5.0,0,0,1
-473612,Clinics,Calvin Verdonk,1,3.0,0,1,0
-473612,F. Feyenoord,Feyenoord,1,4.0,0,1,0
-473612,Feyenoord 4,Feyenoord,1,1.0,1,0,0
-473612,FT. Feyenoord,Feyenoord,1,5.0,0,0,1
-473612,FT. Feyenoorder,Feyenoord,1,5.0,0,0,1
-473612,Feyenoord   Duindorp,Feyenoord,1,3.0,0,1,0
-473612,Feyenoord   SportcaféZuid,Feyenoord,1,5.0,0,0,1
-473612,Feyenoord   Utrecht,Feyenoord,1,5.0,0,0,1
-473612,Feyenoord   korfbal,Feyenoord,1,1.0,1,0,0
-473612,Feyenoord   voetbal data,Feyenoord,1,4.0,0,1,0
-473612,Feyenoord   voorzitter BSBV   ,Feyenoord,1,2.0,0,1,0
-473590,Friends,Fred Grim,1,3.0,0,1,0
-473590,Fred,Fred Grim,1,3.0,0,1,0
-473579,Stevens de baas,Sonny Stevens,1,4.0,0,1,0
-473590,FCT,FC Twente,1,2.0,0,1,0
-473582,FT Heerenveen,SC Heerenveen,1,1.0,1,0,0
-473582,Friezen,Siemen Voet,1,1.0,1,0,0
-473582,Geraldine Kemper,Gervane Kastaneer,1,1.0,1,0,0
-473582,Gerv,Gervane Kastaneer,1,1.0,1,0,0
-473582,Gvd Musaba,Anthony Musaba,1,1.0,1,0,0
-473582,Henk,Henk Veerman,1,1.0,1,0,0
-473582,Henkie,Henk Veerman,1,1.0,1,0,0
-473582,Huiberts,Dean Huiberts,1,3.0,0,1,0
-473582,Hup Kastaneer,Gervane Kastaneer,1,1.0,1,0,0
-473582,Janssen,Johnny Jansen,1,1.0,1,0,0
-473582,Joey Veerman,Henk Veerman,1,1.0,1,0,0
-473582,Johnny Johnny,Johnny Jansen,1,1.0,1,0,0
-473582,Johnny out,Johnny Jansen,1,5.0,0,0,1
-473582,Karin,Rami Kaib,1,5.0,0,0,1
-473582,Kom op Heerenveen,SC Heerenveen,1,1.0,1,0,0
-473582,Kostaaaaaaas,Kostas Lamprou,1,1.0,1,0,0
-473582,Leeds,Mees de Wit,1,1.0,1,0,0
-473582,Lekker Gervane,Gervane Kastaneer,1,4.0,0,1,0
-473582,Liga,Elikia Mbinga,1,3.0,0,1,0
-473582,Erwin,Erwin Mulder,1,1.0,1,0,0
-473582,Eric Slikker,Nick Bakker,1,1.0,1,0,0
-473582,Duits,Dean Huiberts,1,3.0,0,1,0
-473579,vo. SCCambuurLwd,Cambuur,1,2.0,0,1,0
-473579,Tamas,Tamas Kiss,1,3.0,0,1,0
-473579,Vier,Pieter Bos,1,5.0,0,0,1
-473579,cambuur,Cambuur,1,5.0,0,0,1
-473579,cambuur I love it.,Cambuur,1,4.0,0,1,0
-473579,doke,Doke Schmidt,1,4.0,0,1,0
-473579,ee,Peer Koopmeiners,1,1.0,1,0,0
-473579,half uur,Cambuur,1,1.0,1,0,0
-473579,time de Alkmaar,AZ Alkmaar,1,5.0,0,0,1
-473579,zeven,Sonny Stevens,1,5.0,0,0,1
-473582,Dean Huiberts,Dean Huiberts,1,1.0,1,0,0
-473582,Al.,Rami Al Hajj,1,1.0,1,0,0
-473582,Alex,Rami Al Hajj,1,4.0,0,1,0
-473582,Anthony Musaba,Anthony Musaba,1,5.0,0,0,1
-473582,Barça,Bram van Polen,1,1.0,1,0,0
-473582,Belgian,Eliano Reijnders,1,1.0,1,0,0
-473582,Bram van Po.,Bram van Polen,1,1.0,1,0,0
-473582,Complimen,Pelle Clement,1,1.0,1,0,0
-473582,Daishawn Redan,Daishawn Redan,1,1.0,1,0,0
-473582,LucasWoudenberg,Lucas Woudenberg,1,3.0,0,1,0
-473582,Madsen,Nicolas Madsen,1,3.0,0,1,0
-473582,Maikel,Maikel van der Werff,1,1.0,1,0,0
-473582,zwolse,PEC Zwolle,1,1.0,1,0,0
-473582,Zwollenaar,PEC Zwolle,1,1.0,1,0,0
-473582,afjakkeren,Nick Bakker,1,1.0,1,0,0
-473582,dresevic ga,Ibrahim Dresevic,1,3.0,0,1,0
-473582,e,Mees de Wit,1,1.0,1,0,0
-473582,jansen,Johnny Jansen,1,1.0,1,0,0
-473582,pec zwolle,PEC Zwolle,1,1.0,1,0,0
-473582,tien,Siemen Voet,1,3.0,0,1,0
-473582,vierde,Xavier Mous,1,1.0,1,0,0
-473590,Breda,Fred Grim,1,1.0,1,0,0
-473582,Wieke,Mike Hauptmeijer,1,3.0,0,1,0
-473590,Corn,Jorn Brondeel,1,1.0,1,0,0
-473590,Corona,Jorn Brondeel,1,1.0,1,0,0
-473590,De Lange,Jeffrey De Lange,1,1.0,1,0,0
-473590,DeLange,Jeffrey De Lange,1,1.0,1,0,0
-473590,Dimitris Limnios,Dimitrios Limnios,1,5.0,0,0,1
-473590,Ennio van der Gouw,Ennio van der Gouw,1,1.0,1,0,0
-473590,FC Twente and Arsenal,FC Twente,1,1.0,1,0,0
-473590,FCGB,FC Twente,1,5.0,0,0,1
-473582,Woudenb,Lucas Woudenberg,1,1.0,1,0,0
-473582,Wermeskerken,Sai van Wermeskerken,1,1.0,1,0,0
-473582,Milanista,Milan van Ewijk,1,2.0,0,1,0
-473582,STC,SC Heerenveen,1,1.0,1,0,0
-473582,Misere,Mike Hauptmeijer,1,1.0,1,0,0
-473582,NEC,PEC Zwolle,1,1.0,1,0,0
-473582,Nick Bakker,Nick Bakker,1,1.0,1,0,0
-473582,PEC IS,PEC Zwolle,1,1.0,1,0,0
-473582,PEC fit Heerenveen,SC Heerenveen,1,1.0,1,0,0
-473582,Pelle Clement,Pelle Clement,1,1.0,1,0,0
-473582,Quelle,Pelle Clement,1,5.0,0,0,1
-473582,Riemer,Siemen Voet,1,3.0,0,1,0
-473582,Sahil,Sai van Wermeskerken,1,5.0,0,0,1
-473582,Vorige,Siemen Voet,1,3.0,0,1,0
-473582,Schreuder,Dick Schreuder,1,1.0,1,0,0
-473582,Siem,Siem de Jong,1,2.0,0,1,0
-473582,Siem de jong,Siem de Jong,1,1.0,1,0,0
-473582,Stadion,Sai van Wermeskerken,1,5.0,0,0,1
-473582,Stevanovic,Filip Stevanovic,1,1.0,1,0,0
-473582,Strieder,Dick Schreuder,1,1.0,1,0,0
-473582,Sv,Sven van Beek,1,5.0,0,0,1
-473582,The Voice Of Heerenveen,SC Heerenveen,1,3.0,0,1,0
-473638,on FC Utrecht,FC Utrecht,1,5.0,0,0,1
+474850,Willem II,Willem II,207,3.1739130434782608,64,64,79
+474768,Fortuna Sittard,Fortuna Sittard,136,2.618279569892473,64,36,36
+474789,FC Twente,FC Twente,163,2.6564417177914113,67,59,37
+474818,Feyenoord,Feyenoord,133,3.954887218045113,21,33,79
+474846,FC Groningen,FC Groningen,132,3.2954545454545454,35,48,49
+474783,PEC Zwolle,PEC Zwolle,127,2.37007874015748,69,34,24
+474689,Cambuur,Cambuur,122,2.2950819672131146,63,38,21
+474783,NEC,NEC Nijmegen,110,2.118181818181818,60,40,10
+474689,FC Utrecht,FC Utrecht,97,3.020618556701031,37,22,38
+474846,Ahead Eagles,Go Ahead Eagles,96,2.21875,51,33,12
+474768,Heerenveen,SC Heerenveen,84,2.1666666666666665,46,29,9
+474818,drie,Joeri de Kamps,80,3.0,0,80,0
+474846,Groningen,FC Groningen,70,3.5142857142857142,17,21,32
+474689,Henk Veerman,Henk Veerman,66,3.287878787878788,22,15,29
+474777,PSV,PSV Eindhoven,64,2.21875,33,20,11
+474768,Hanneman de Toerist,Tom Hendriks,63,3.253968253968254,19,20,24
+474689,Utrecht,FC Utrecht,61,2.9508196721311477,26,10,25
+474846,Strand Larsen,Joergen Strand Larsen,55,3.418181818181818,12,21,22
+474768,Fortuna,Fortuna Sittard,55,1.9090909090909092,35,14,6
+474768,sc Heerenveen,SC Heerenveen,51,2.156862745098039,31,11,9
+474783,Zwolle,PEC Zwolle,45,2.7555555555555555,18,15,12
+474850,RKC,RKC Waalwijk,45,1.8444444444444446,31,9,5
+474783,Nijmegen,NEC Nijmegen,44,2.3863636363636362,24,10,10
+474850,RKC Waalwijk,RKC Waalwijk,42,2.5238095238095237,20,12,10
+474789,Twente,FC Twente,36,2.3333333333333335,18,11,7
+474768,Sittard,Fortuna Sittard,35,2.142857142857143,22,6,7
+474818,Arne Slot,Arne Slot,34,4.852941176470588,0,5,29
+474783,Verdonk,Calvin Verdonk,34,2.0294117647058822,22,6,6
+474768,Dayano,Ryan Johansson,32,3.21875,10,10,12
+474818,Rotterdam,Sparta Rotterdam,30,3.8333333333333335,6,7,17
+474783,Redan,Daishawn Redan,29,2.1724137931034484,18,5,6
+474850,RKCNu,RKC Waalwijk,28,2.357142857142857,16,8,4
+474777,AZ,AZ Alkmaar,26,3.6923076923076925,6,6,14
+474789,Jesse Bosch,Jesse Bosch,25,2.48,8,17,0
+474789,Van Wolfswinkel,Ricky van Wolfswinkel,25,1.84,18,4,3
+474768,twee,Sjors Ultee,23,3.130434782608696,3,16,4
+474850,Hornkamp,Jizz Hornkamp,23,2.869565217391304,8,9,6
+474866,Ajax,Ajax,23,2.8260869565217392,11,2,10
+474689,Veerman,Henk Veerman,23,2.217391304347826,14,4,5
+474789,Ricky van Wolfswinkel,Ricky van Wolfswinkel,22,3.3181818181818183,1,19,2
+474850,Thijs Oosting,Thijs Oosting,22,3.8181818181818183,4,6,12
+474777,Roger Schmidt,Roger Schmidt,21,1.5714285714285714,14,6,1
+474783,Tavsan,Elayis Tavsan,21,2.380952380952381,11,6,4
+474689,Janssen,Willem Janssen,21,2.0,11,9,1
+474818,love you Feyenoord,Feyenoord,21,5.0,0,0,21
+474768,Van Osch,Yanick van Osch,20,3.2,7,5,8
+474768,SC Heerenveen,SC Heerenveen,20,1.85,14,4,2
+474783,PEC,PEC Zwolle,20,2.5,9,9,2
+474846,Duarte,Laros Duarte,19,3.3157894736842106,4,8,7
+474846,Deventer,Peter Leeuwenburgh,19,2.3684210526315788,12,1,6
+474789,Tronstad,Sondre Tronstad,18,2.0,13,1,4
+474768,Radio,Rami Hajal,18,2.7222222222222223,8,4,6
+474818,Guus Til,Guus Til,18,3.0555555555555554,5,8,5
+474846,Meijer,Bjorn Meijer,18,3.888888888888889,1,8,9
+474846,Noorden,Martjin Berden,18,2.888888888888889,6,7,5
+474689,eerste,Mees Hoedemakers,18,2.0555555555555554,12,3,3
+474768,Tirpan,Mickael Tirpan,18,2.3333333333333335,11,2,5
+474818,Rotterdamse,Sparta Rotterdam,18,4.333333333333333,3,0,15
+474818,Patrik Wlemark,Patrik Waalemark,17,5.0,0,0,17
+474777,Schmidt,Roger Schmidt,17,2.235294117647059,8,6,3
+474866,Castellano Leonés,Mateo Les,17,3.588235294117647,6,0,11
+474866,Bilbao,Bilal Basacikoglu,17,3.588235294117647,6,0,11
+474818,Feyenoord supporter,Feyenoord,16,5.0,0,0,16
+474789,eerste,Eric Verstappen,16,2.625,5,8,3
+474789,Bero,Matus Bero,15,3.4,3,7,5
+474768,drie,Siem de Jong,15,2.6,3,12,0
+474818,Feyenoord Rotterdam,Feyenoord,14,3.642857142857143,2,6,6
+474818,Nouri,Joeri de Kamps,14,5.0,0,0,14
+474846,Groninger,FC Groningen,14,2.7142857142857144,5,7,2
+474846,FC,FC Groningen,14,3.5714285714285716,4,4,6
+474777,Karlsson,Jesper Karlsson,14,1.5,12,1,1
+474789,Vitesse Arnhem,Vitesse,14,3.0,6,4,4
+474768,Zian Flemming,Zian Flemming,13,3.1538461538461537,4,4,5
+474866,Heracles Almelo,Heracles,13,3.1538461538461537,5,2,6
+474768,Siovas,Dimitris Siovas,13,3.3846153846153846,4,4,5
+474846,drie,Andries Noppert,13,3.1538461538461537,1,10,2
+474818,Sparta,Sparta Rotterdam,13,2.6153846153846154,6,6,1
+474777,Eindhove,PSV Eindhoven,13,1.0,13,0,0
+474850,Vaessen,Etienne Vaessen,12,2.25,6,4,2
+474783,tien,Siemen Voet,12,1.5833333333333333,10,1,1
+474818,eerste,Cyriel Dessers,12,4.5,0,3,9
+474783,Bruijn,Jordy Bruijn,12,2.3333333333333335,5,6,1
+474846,Abraham,Paulos Abraham,11,2.6363636363636362,3,7,1
+474768,Livestream,Ben Rienstra,11,5.0,0,0,11
+474777,Martins Indi,Bruno Martins Indi,11,1.3636363636363635,10,0,1
+474789,Vitesse,Vitesse,11,3.272727272727273,1,6,4
+474850,eerste,Emil Bergstroem,11,2.727272727272727,5,2,4
+474768,Haye,Thom Haye,11,2.0,6,4,1
+474783,NEC Nijmegen,NEC Nijmegen,11,3.1818181818181817,4,2,5
+474789,Bosch,Jesse Bosch,10,3.4,1,6,3
+474783,Branderhorst,Mattijs Branderhorst,10,2.1,4,6,0
+474783,NEC   ,NEC Nijmegen,10,3.0,2,6,2
+474818,Jorrit Hendrix,Jorrit Hendrix,10,5.0,0,0,10
+474783,Jordy Bruijn,Jordy Bruijn,10,1.0,10,0,0
+474689,Henk,Henk de Jong,10,3.9,1,4,5
+474783,Schne,Lasse Schoene,10,1.7,7,2,1
+474846,Bjorn Meijer,Bjorn Meijer,9,2.5555555555555554,5,2,2
+474846,Suslov,Tomas Suslov,9,2.6666666666666665,3,4,2
+474777,Mvogo,Yvon Mvogo,39,1.111111111111111,34,5,0
+474846,provincie Groningen,FC Groningen,9,2.7777777777777777,3,5,1
+474777,Pascal Jansen,Pascal Jansen,9,5.0,0,0,9
+474689,Joosten,Patrick Joosten,9,2.4444444444444446,5,2,2
+474689,Willem Janssen,Willem Janssen,9,2.2222222222222223,5,2,2
+474850,Waalwijk,RKC Waalwijk,9,1.8888888888888888,6,2,1
+474818,Oranje,Gernot Trauner,9,3.7777777777777777,2,2,5
+474866,on,Koen Bucker,9,5.0,0,0,9
+474783,Ten Strijde,Rico Strieder,9,2.2222222222222223,6,1,2
+474768,Sarr,Amin Sarr,9,2.3333333333333335,5,2,2
+474846,Botos,Giannis-Fivos Botos,9,2.2222222222222223,6,1,2
+474783,Lamprou,Kostas Lamprou,9,2.888888888888889,3,4,2
+474789,twee,FC Twente,8,3.25,1,4,3
+474850,Thijn,Thijs Oosting,8,2.25,4,3,1
+474818,english,Mario Engels,8,4.5,0,2,6
+474818,Orkun,Orkun Kokcu,8,3.25,3,1,4
+474850,Kuijpers,Roy Kuijpers,8,1.75,6,2,0
+474783,Siemen Voet,Siemen Voet,8,1.0,8,0,0
+474783,tiental,Cas Odenthal,8,4.5,1,0,7
+474818,Kkc,Orkun Kokcu,8,4.125,1,2,5
+474689,Hoedemakers,Mees Hoedemakers,8,1.625,5,3,0
+474850,Gaari,Jurien Gaari,8,2.375,4,2,2
+474789,Houwen,Jeroen Houwen,8,1.625,5,3,0
+474768,Benschop,Charlison Benschop,8,2.0,4,4,0
+474783,Max de Waal,Max De Waal,8,3.875,0,8,0
+474850,Freddie Mercury,Fred Grim,8,2.25,4,3,1
+474846,Happy Strand Larsen,Joergen Strand Larsen,8,5.0,0,0,8
+474783,Darfalou,Oussama Darfalou,8,2.25,5,1,2
+474850,Van der Venne,Richard van der Venne,8,1.375,7,1,0
+474768,Flemming,Zian Flemming,8,1.0,8,0,0
+474850,VJournaal,Jorn Brondeel,7,4.285714285714286,0,3,4
+474768,Hajj,Rami Hajal,7,1.7142857142857142,5,1,1
+474850,Joseph Oosting,Joseph Oosting,7,2.2857142857142856,3,4,0
+474866,Erik ten Hag,Erik ten Hag,7,3.7142857142857144,0,5,2
+474818,Sparta Rotterdam,Sparta Rotterdam,7,3.4285714285714284,2,3,2
+474850,Heerkens,Freek Heerkens,7,3.2857142857142856,2,2,3
+474846,Fc Groningen,FC Groningen,7,3.7142857142857144,1,3,3
+474783,Anderson,Djavan Anderson,7,2.5714285714285716,2,4,1
+474689,Douvikas,Anastasios Douvikas,7,3.2857142857142856,3,0,4
+474818,Hendrix,Jorrit Hendrix,7,4.285714285714286,1,1,5
+474789,Grbic,Adrian Grbic,7,1.2857142857142858,6,1,0
+474818,Wim Jansen,Thijs Jansen,7,4.571428571428571,0,2,5
+474789,Twente Insite,FC Twente,7,2.7142857142857144,3,2,2
+474818,Rijnmond,Ramon Hendriks,7,3.5714285714285716,1,4,2
+474818,FT Feyenoord,Feyenoord,7,2.7142857142857144,4,0,3
+474689,Jansen,Willem Janssen,7,1.0,7,0,0
+474789,Mail,Michel Vlap,7,1.5714285714285714,5,2,0
+474866,Davy Klaassen,Davy Klaassen,7,3.7142857142857144,1,2,4
+474789,Gboho,Yann Gboho,7,1.5714285714285714,5,2,0
+474818,Guus,Guus Til,6,3.0,0,6,0
+474777,Drommel,Joel Drommel,6,2.5,2,3,1
+474789,Fc Twente,FC Twente,6,2.5,3,2,1
+474768,Woudenberg,Lucas Woudenberg,6,1.8333333333333333,4,2,0
+474768,Cox,George Cox,6,3.6666666666666665,2,0,4
+474846,Romy,Romano Postema,6,3.6666666666666665,2,0,4
+474789,FC Twente home and away   Lists,FC Twente,6,2.3333333333333335,4,0,2
+474768,Yanick van Osch,Yanick van Osch,6,3.3333333333333335,2,1,3
+474689,Henkie,Henk de Jong,6,3.0,2,2,2
+474850,Kramer,Michiel Kramer,6,2.1666666666666665,4,1,1
+474846,Day,Danny Buijs,6,5.0,0,0,6
+474789,Wijchen,Michel Vlap,6,2.1666666666666665,3,2,1
+474689,Stevens,Sonny Stevens,6,2.3333333333333335,4,0,2
+474783,NEC 20,NEC Nijmegen,6,5.0,0,0,6
+474777,twee,Philipp Mwene,6,2.0,3,2,1
+474777,Gakpo,Cody Gakpo,8,1.0,6,2,0
+474846,Jake,Justin Bakker,6,2.6666666666666665,2,3,1
+474783,Nakayama,Yuta Nakayama,6,3.3333333333333335,1,3,2
+474783,Nijmeegse,NEC Nijmegen,6,1.6666666666666667,4,2,0
+474846,twee,Mike te Wierik,6,2.6666666666666665,1,5,0
+474818,Feyenoord   ,Feyenoord,6,3.0,2,2,2
+474846,eerste,Kees van Wonderen,6,2.6666666666666665,3,1,2
+474866,Heracles,Heracles,6,3.5,1,3,2
+474783,Oranje,Gervane Kastaneer,6,2.0,4,1,1
+474818,Aursnes,Fredrik Aursnes,5,3.0,2,1,2
+474850,Koning Willem II Stadion,Willem II,5,5.0,0,0,5
+474850,Bel,Iiass Bel Hassani,5,1.0,5,0,0
+474777,Eindhoven,PSV Eindhoven,5,2.2,3,1,1
+474768,Michel,Mickael Tirpan,5,2.2,3,1,1
+474783,Meijer,Rogier Meijer,5,1.8,3,2,0
+474850,Anita,Vurnon Anita,5,1.0,5,0,0
+474850,Daneels,Lennerd Daneels,5,1.0,5,0,0
+474789,Schubert,Markus Schubert,5,2.6,2,2,1
+474783,Van Rooij,Bart van Rooij,5,2.0,2,3,0
+474783,Cat,Cas Odenthal,5,2.6,3,0,2
+474846,Ngonge,Cyril Ngonge,5,1.8,3,2,0
+474850,Llonch,Pol Llonch,5,3.0,2,1,2
+474783,Daishawn Redan,Daishawn Redan,5,4.2,1,0,4
+474783,Clement,Pelle Clement,5,3.2,2,1,2
+474846,Juventus,Aventis Aventisian,5,3.4,1,2,2
+474783,Barreto,Edgar Barreto,5,1.2,4,1,0
+474846,GA Eagles,Go Ahead Eagles,5,1.8,4,0,1
+474846,Jrgen,Joergen Strand Larsen,5,2.6,3,0,2
+474783,AZ Alkmaar,Ali Akman,5,5.0,0,0,5
+474818,DeFeijenoorder,Feyenoord,5,4.8,0,1,4
+474850,Odgaard,Jens Odgaard,5,1.8,4,0,1
+474850,Oukili,Yassin Oukili,5,2.2,3,2,0
+474846,Michael de Leeuw,Michael de Leeuw,5,2.2,3,1,1
+474850,Van den Buijs,Dario van den Buijs,5,1.6,4,1,0
+474789,Erwin,Eric Verstappen,5,3.0,2,1,2
+474783,Djavan Anderson,Djavan Anderson,5,3.4,1,4,0
+474846,Oratmangoen,Ragnar Oratmangoen,5,2.6,3,0,2
+474768,Dresevic,Ibrahim Dresevic,5,2.4,3,1,1
+474846,Boyd Lucassen,Boyd Lucassen,5,2.0,3,2,0
+474689,Van der Maarel,Mark van der Maarel,5,2.2,3,2,0
+474866,Manchester,Mats Knoester,5,3.4,2,0,3
+474768,Geel,George Cox,5,1.4,3,2,0
+474689,Hake,Rene Hake,5,1.8,3,2,0
+474689,Schmidt,Doke Schmidt,5,1.4,3,2,0
+474846,Ahead,Go Ahead Eagles,5,4.2,0,2,3
+474818,Feyenoord Foundation,Feyenoord,4,5.0,0,0,4
+474689,Tasos Douvikas,Anastasios Douvikas,4,1.0,4,0,0
+474850,Michiel Kramer,Michiel Kramer,4,2.0,2,2,0
+474689,Timber,Quinten Timber,4,2.25,1,3,0
+474777,PSV Eindhoven,PSV Eindhoven,4,2.25,1,3,0
+474768,Van Beek,Jan Bekkema,4,1.0,4,0,0
+474818,Marcel,Marcus Holmgren Pedersen,4,4.5,0,1,3
+474850,Svensson,Max Svensson,4,3.5,1,1,2
+474850,Thijs,Thijs Oosting,4,2.25,2,2,0
+474768,Bakker,Jan Bekkema,4,1.0,4,0,0
+474846,Giannis Botos,Giannis-Fivos Botos,4,3.25,1,2,1
+474768,Wouter,Lucas Woudenberg,4,1.5,3,1,0
+474689,drie,Henk de Jong,4,1.0,4,0,0
+474783,Belgian,Eliano Reijnders,4,2.0,3,0,1
+474818,Jens Toornstra,Jens Toornstra,4,4.5,0,1,3
+474818,Japanse Feyenoorder,Feyenoord,4,4.75,0,1,3
+474850,Willem II Tilburg,Willem II,4,2.5,2,1,1
+474818,Feyenoord fans,Feyenoord,4,5.0,0,0,4
+474777,Armando Obispo,Armando Obispo,4,5.0,0,0,4
+474850,Wine,Willem II,4,1.0,4,0,0
+474768,Van Ewijk,Milan van Ewijk,4,1.0,4,0,0
+474768,I Benschop,Charlison Benschop,4,1.0,4,0,0
+474783,Berlin,Jordy Bruijn,4,3.75,1,1,2
+474850,Belgian,Kilian Ludewig,4,3.5,1,1,2
+474789,Rasmussen,Jacob Rasmussen,4,1.0,4,0,0
+474789,MijnVitesse,Vitesse,4,2.5,2,1,1
+474846,Romano Postema,Romano Postema,4,2.5,1,3,0
+474689,Breij,Michael Breij,4,1.25,3,1,0
+474789,Huisman,Daan Huisman,4,1.0,4,0,0
+474846,Andries Noppert,Andries Noppert,4,3.0,2,0,2
+474846,all,Yahya Kalley,4,1.0,4,0,0
+474846,fc groningen,FC Groningen,4,5.0,0,0,4
+474689,FCU,FC Utrecht,4,5.0,0,0,4
+474789,Week van Twenterand,FC Twente,4,3.0,1,2,1
+474689,Patrick Joosten,Patrick Joosten,4,4.5,0,2,2
+474866,Oude Ajax,Ajax,4,4.25,0,2,2
+474846,Martijn Berden,Martjin Berden,4,2.5,1,3,0
+474846,Buijs,Danny Buijs,4,5.0,0,0,4
+474783,Nijmegenaren,NEC Nijmegen,4,1.0,4,0,0
+474689,Kallon,Issa Kallon,4,2.0,3,0,1
+474846,Lidberg,Isac Lidberg,4,2.0,2,2,0
+474846,LCFC,FC Groningen,4,3.5,1,1,2
+474689,Mimoun,Mimoun Mahi,4,1.0,4,0,0
+474768,Duarte,Deroy Duarte,4,4.0,1,0,3
+474783,Dick Schreuder,Dick Schreuder,4,3.75,0,4,0
+474689,SC Cambuur,Cambuur,4,2.0,2,2,0
+474768,Sjors Ultee,Sjors Ultee,4,1.5,3,1,0
+474768,Tekie,Tesfaldet Tekie,4,3.0,2,0,2
+474818,Hillie Grissen,Bryan Linssen,4,4.5,0,1,3
+474866,Berghuis,Steven Berghuis,4,3.75,0,2,2
+474768,Stevanovic,Filip Stevanovic,4,1.0,4,0,0
+474768,Nunumete,Djenahro Nunumete,4,2.0,3,0,1
+474866,Chill,Bilal Basacikoglu,4,1.0,4,0,0
+474850,week,Freek Heerkens,4,2.25,2,1,1
+474768,Thom Haye,Thom Haye,3,2.3333333333333335,2,0,1
+474783,Mustafa Saymak,Mustafa Saymak,3,2.3333333333333335,2,0,1
+474850,Jean Michel Jarre,Michiel Kramer,3,3.3333333333333335,1,1,1
+474689,LFC,FC Utrecht,3,1.0,3,0,0
+474768,Fortuna Supporters,Fortuna Sittard,1,4.0,1,0,0
+474783,Okita,Jonathan Okita,3,2.3333333333333335,1,2,0
+474846,Marc Cardona,Marc Cardona,3,2.6666666666666665,0,3,0
+474846,Leeds,Kees van Wonderen,3,1.6666666666666667,2,1,0
+474689,Jaime,Jamie Jacobs,3,1.0,3,0,0
+474783,Orlando,Eliano Reijnders,3,2.3333333333333335,2,0,1
+474689,Jacobs,Jamie Jacobs,3,3.6666666666666665,1,0,2
+474783,Polen,Pelle Clement,3,3.3333333333333335,1,1,1
+474789,fc twente,FC Twente,3,3.6666666666666665,1,0,2
+474866,Ajax   ,Ajax,3,4.666666666666667,0,1,2
+474783,Mirjam Zwolle,PEC Zwolle,3,2.3333333333333335,2,0,1
+474866,Lille,Bilal Basacikoglu,3,3.0,0,3,0
+474783,Javier Vet,Javier Vet,3,1.6666666666666667,2,1,0
+474768,Tieme,Timo Zaal,3,2.0,2,1,0
+474850,Daniel Crowley,Daniel Crowley,3,3.0,1,1,1
+474768,Ole Tobiasen,Ole Tobiasen,3,3.0,0,3,0
+474689,Nintendo,Quinten Timber,3,1.0,3,0,0
+474850,tien,Etienne Vaessen,3,3.0,1,1,1
+474768,RUSTSTAND I Fortuna,Fortuna Sittard,3,1.0,3,0,0
+474783,Akman,Ali Akman,3,1.6666666666666667,2,1,0
+474777,week,Philipp Mwene,3,1.0,3,0,0
+474850,Michelis,Nikolaos Michelis,3,1.6666666666666667,2,1,0
+474777,fam,Sam Beukema,3,2.6666666666666665,1,2,0
+474818,Dessers,Cyriel Dessers,3,2.0,1,2,0
+474689,Ter Heide,Jasper ter Heide,3,1.0,3,0,0
+474850,Oosting,Thijs Oosting,3,3.6666666666666665,1,0,2
+474846,Inigo Crdoba,Inigo Cordoba,3,2.3333333333333335,1,2,0
+474783,Rogier Meijer,Rogier Meijer,3,3.6666666666666665,0,3,0
+474850,Corner,Connor van den Berg,3,3.0,1,1,1
+474818,The,Lennart Thy,3,4.333333333333333,0,1,2
+474789,Drie,Jeffrey De Lange,3,1.0,3,0,0
+474789,SBV Vitesse,Vitesse,3,4.0,0,3,0
+474789,Ricky,Ricky van Wolfswinkel,3,3.0,1,1,1
+474818,Guus Til becomes the,Guus Til,3,5.0,0,0,3
+474789,Twee,FC Twente,3,2.0,0,3,0
+474789,Joshua Brenet,Joshua Brenet,3,3.0,0,3,0
+474689,Boere,Tom Boere,3,3.6666666666666665,1,0,2
+474768,Kaib,Rami Kaib,3,1.0,3,0,0
+474846,Nauber,Gerrit Nauber,3,1.6666666666666667,2,1,0
+474866,all,Sebastien Haller,3,2.6666666666666665,1,2,0
+474789,Van Wolfwinkel,Ricky van Wolfswinkel,3,1.0,3,0,0
+474818,Wlemark,Patrik Waalemark,3,3.3333333333333335,1,1,1
+474866,Taylor,Kenneth Taylor,3,3.0,1,1,1
+474866,Supportersvereniging Ajax,Ajax,3,3.6666666666666665,1,0,2
+474846,Bas Kuipers,Bas Kuipers,3,1.0,3,0,0
+474846,derde,Martjin Berden,3,2.6666666666666665,0,3,0
+474850,Crowley,Daniel Crowley,3,3.6666666666666665,1,0,2
+474689,Doke Schmid,Doke Schmidt,3,3.6666666666666665,1,0,2
+474789,Buitink,Thomas Buitink,3,1.0,3,0,0
+474768,Geel voor Rienstra,Ben Rienstra,3,2.3333333333333335,1,2,0
+474789,Brenet,Joshua Brenet,3,3.0,0,3,0
+474689,FCGB,FC Utrecht,3,4.666666666666667,0,1,2
+474768,Lonwijk,Nigel Lonwijk,3,1.0,3,0,0
+474818,Trauner,Gernot Trauner,3,3.0,1,1,1
+474689,Fighter,Pieter Bos,3,1.0,3,0,0
+474850,Azhil,Ayman Azhil,3,2.0,2,1,0
+474783,e,Max De Waal,3,2.0,2,1,0
+474783,Zwolse,PEC Zwolle,3,2.3333333333333335,2,0,1
+474768,LucasWoudenberg,Lucas Woudenberg,3,1.0,3,0,0
+474768,Madrid,Martin Angha,3,3.0,1,1,1
+474777,Oranje,Eran Zahavi,3,5.0,0,0,3
+474689,Utregs,FC Utrecht,3,2.3333333333333335,2,0,1
+474789,Oroz,Dominik Oroz,3,5.0,0,0,3
+474689,cambuur,Cambuur,3,1.0,3,0,0
+474846,Giro,Go Ahead Eagles,3,1.6666666666666667,2,1,0
+474768,FT Fortuna,Fortuna Sittard,3,1.0,3,0,0
+474866,Dusan Tadic,Dusan Tadic,3,5.0,0,0,3
+474777,Borussia Mönchengladbach,Bruma,3,2.6666666666666665,1,1,1
+474846,Noppert,Andries Noppert,3,2.3333333333333335,2,0,1
+474850,Willem ll,Willem II,3,3.0,1,1,1
+474768,Amin Sarr,Amin Sarr,3,2.3333333333333335,2,0,1
+474777,Bruno Martins,Bruno Martins Indi,3,5.0,0,0,3
+474777,Gtze,Mario Goetze,3,1.0,3,0,0
+474768,Belgian,Ben Rienstra,3,1.0,3,0,0
+474768,Angha,Martin Angha,3,5.0,0,0,3
+474777,Apple     voor Eindhoven,PSV Eindhoven,3,1.3333333333333333,2,1,0
+474768,Afrika,Arianit Ferati,3,3.6666666666666665,1,0,2
+474818,Feyenoord Poland,Feyenoord,3,4.333333333333333,0,1,2
+474789,kasual,Eliazer Dasa,2,2.0,1,1,0
+474850,Finland,Finn Stokkers,2,4.0,0,1,1
+474783,Pec Zwolle,PEC Zwolle,2,4.0,0,1,1
+474818,GroenLinks   Rotterdam,Sparta Rotterdam,2,4.0,0,1,1
+474689,jansen,Willem Janssen,2,3.0,1,0,1
+474866,at,Mats Knoester,2,2.0,0,2,0
+474850,Fred Grim,Fred Grim,2,4.5,0,1,1
+474818,Sinisterra,Luis Sinisterra,2,5.0,0,0,2
+474846,FC Grunn,FC Groningen,2,5.0,0,0,2
+474789,my home Country Twente,FC Twente,2,3.0,1,0,1
+474789,Jacob Rasmussen,Jacob Rasmussen,2,4.0,0,2,0
+474768,Schot van Stevanovic,Filip Stevanovic,2,5.0,0,0,2
+474777,Eindhovenaar,PSV Eindhoven,2,4.5,0,1,1
+474846,Mari,Marin Sverko,2,3.0,0,2,0
+474783,PECfan,PEC Zwolle,2,4.5,0,1,1
+474783,Roadburn,Robin Roefs,2,2.5,1,1,0
+474789,Jans,Ron Jans,2,3.0,1,0,1
+474689,Maulun,Robin Maulun,2,2.0,0,2,0
+474866,Milan,Sinan Bakis,2,5.0,0,0,2
+474689,Janssen van,Willem Janssen,2,3.0,1,0,1
+474783,NEC 1,NEC Nijmegen,2,1.0,2,0,0
+474866,Manchester United     Flamengo,Mats Knoester,2,5.0,0,0,2
+474777,FC Eindhoven,PSV Eindhoven,2,4.0,0,1,1
+474777,Everton,Haakon Evjen,2,4.5,0,1,1
+474689,Joris,Joris van Overeem,2,5.0,0,0,2
+474846,Luuk Brouwers,Luuk Brouwers,2,3.0,1,0,1
+474850,Grim,Fred Grim,2,1.0,2,0,0
+474866,Manschot,Marco Rente,2,1.0,2,0,0
+474818,Feyenoord de Kuip,Feyenoord,2,3.0,1,0,1
+474866,drie,Luca de la Torre,2,1.0,2,0,0
+474789,Jeroen Houwen,Jeroen Houwen,2,2.0,1,1,0
+474768,Fortunez,Fortuna Sittard,2,1.0,2,0,0
+474850,Geel,Wessel Dammers,2,3.0,1,0,1
+474850,Galidi,Said Bakari,2,3.0,1,0,1
+474850,Waalwijkers,RKC Waalwijk,2,1.5,1,1,0
+474789,twente,FC Twente,2,3.0,1,0,1
+474777,Mwene,Philipp Mwene,2,1.0,2,0,0
+474850,Willem,Willem II,2,5.0,0,0,2
+474846,Frankrijk,Francis Ross,2,3.0,1,0,1
+474818,Rotterdammer,Sparta Rotterdam,2,3.5,0,2,0
+474689,Intosch,Calvin Mac-Intosch,2,5.0,0,0,2
+474783,Van der Belt,Thomas van den Belt,2,4.5,0,1,1
+474789,drie,Sondre Tronstad,2,5.0,0,0,2
+474846,Ben Groningen,FC Groningen,2,3.0,1,0,1
+474846,groningen,FC Groningen,2,1.0,2,0,0
+474866,Steven Berghuis,Steven Berghuis,2,5.0,0,0,2
+474818,Japanse,Rijk Janse,2,4.0,0,1,1
+474768,sittard,Fortuna Sittard,2,5.0,0,0,2
+474789,Cerny,Vaclav Cerny,2,4.0,0,1,1
+474689,De Keijzer,Fabian de Keijzer,2,1.0,2,0,0
+474768,sc heerenveen,SC Heerenveen,2,2.0,1,1,0
+474789,Vitesse   ,Vitesse,2,4.0,0,1,1
+474850,Wriedt,Fred Grim,2,3.0,0,2,0
+474768,femke,Tesfaldet Tekie,2,2.0,1,1,0
+474866,Tadic,Dusan Tadic,2,1.0,2,0,0
+474789,FC Twente     Brenet en Staring,FC Twente,2,1.0,2,0,0
+474789,FC Twente     Likes to game,FC Twente,2,4.5,0,1,1
+474846,El Hankouri,Mohamed El Hankouri,2,3.0,0,2,0
+474846,Bart van Hintum,Bart van Hintum,2,1.0,2,0,0
+474846,Tomas Suslov,Tomas Suslov,2,1.0,2,0,0
+474789,FCT,FC Twente,2,4.0,0,1,1
+474789,Grbi,Adrian Grbic,2,5.0,0,0,2
+474768,Sittardse,Fortuna Sittard,2,1.5,1,1,0
+474689,FC,FC Utrecht,2,3.0,1,0,1
+474689,Cambuur   IN,Cambuur,2,5.0,0,0,2
+474866,Ajax Life,Ajax,2,5.0,0,0,2
+474789,Audi,Adrian Grbic,2,3.0,0,2,0
+474818,Til 8,Guus Til,2,2.0,1,1,0
+474783,Van den Berg,Rav van den Berg,2,1.0,2,0,0
+474866,Manchester United,Mats Knoester,2,5.0,0,0,2
+474850,Willem II and go to watch,Willem II,2,5.0,0,0,2
+474689,Gustafson,Simon Gustafson,2,2.0,1,1,0
+474689,Griek,Erik Schouten,2,1.0,2,0,0
+474768,Siem de Jong,Siem de Jong,2,1.0,2,0,0
+474789,Vuelta,Michel Vlap,2,4.0,0,1,1
+474689,Franse,Willem Janssen,2,2.5,1,1,0
+474783,Zwollenaren,PEC Zwolle,2,1.0,2,0,0
+474850,Belgium,Iiass Bel Hassani,2,3.0,1,0,1
+474777,Cody Gakpo,Cody Gakpo,2,2.0,1,1,0
+474689,Finland,Fabian de Keijzer,2,3.0,0,2,0
+474789,Vitessefan,Vitesse,2,2.0,1,1,0
+474777,Ben Jasper,Jesper Karlsson,2,2.0,1,1,0
+474689,Familie,Jamie Jacobs,2,2.5,1,1,0
+474789,Hjek,Tomas Hajek,2,1.0,2,0,0
+474846,Engeland,Nick Hengelman,2,5.0,0,0,2
+474777,Alkmaar,AZ Alkmaar,2,4.0,0,2,0
+474818,Jorrit,Jorrit Hendrix,2,5.0,0,0,2
+474689,hake,Rene Hake,2,1.0,2,0,0
+474846,Akela,Go Ahead Eagles,2,3.0,0,2,0
+474777,drie,Dani de Wit,2,3.0,0,2,0
+474846,Paulos,Paulos Abraham,2,1.0,2,0,0
+474777,Veerman,Joey Veerman,2,1.0,2,0,0
+474768,Rienstra,Ben Rienstra,2,1.0,2,0,0
+474689,Woerden,Tom Boere,2,3.0,1,0,1
+474846,Jarige Strand,Joergen Strand Larsen,2,5.0,0,0,2
+474768,IJsland,Jan Ras,2,5.0,0,0,2
+474818,Geertruida,Lutsharel Geertruida,2,2.0,1,1,0
+474768,Reysol,Roel Janssen,2,2.5,0,2,0
+474768,Tahiri,Anas Tahiri,2,1.0,2,0,0
+474777,azalkmaar,AZ Alkmaar,2,3.0,1,0,1
+474768,Filip Stevanovic,Filip Stevanovic,2,5.0,0,0,2
+474846,Philippe Rommens,Philippe Rommens,2,1.0,2,0,0
+474689,Zeeuws,Mees Hoedemakers,2,2.0,1,1,0
+474777,jasper,Jesper Karlsson,2,2.0,1,1,0
+474850,Meulensteen,Melle Meulensteen,2,1.5,1,1,0
+474777,philips,Philipp Max,2,3.0,1,0,1
+474768,Drenthe,Deroy Duarte,2,1.0,2,0,0
+474818,Misato,Vito van Crooij,2,5.0,0,0,2
+474689,3 minuten,Quinten Timber,2,1.0,2,0,0
+474866,Haller,Sebastien Haller,2,3.0,0,2,0
+474689,Sylla,Sekou Sylla,2,5.0,0,0,2
+474689,Bangura,Alex Bangura,2,2.0,0,2,0
+474689,Tom Boere,Tom Boere,2,4.0,0,1,1
+474850,Owusu,Leeroy Owusu,2,2.0,1,1,0
+474689,Twente,Rene Hake,2,1.0,2,0,0
+474818,Mario Been,Mario Engels,2,5.0,0,0,2
+474789,Smaldini,Gijs Smal,2,3.5,0,1,1
+474850,no RKC Waalwijk,RKC Waalwijk,2,2.0,1,1,0
+474689,4 uur,Cambuur,2,3.0,1,0,1
+474689,Willem Jansen,Willem Janssen,2,5.0,0,0,2
+474768,Tirpna,Mickael Tirpan,2,5.0,0,0,2
+474850,on,Jorn Brondeel,2,2.0,1,1,0
+474818,Henk Fraser,Henk Fraser,2,2.0,1,1,0
+474818,Marco Aurelio,Marcos Senesi,2,4.0,0,1,1
+474777,PSV   ,PSV Eindhoven,2,4.0,0,1,1
+474768,SC Heere,SC Heerenveen,2,1.0,2,0,0
+474850,RKC Waalwijk   ,RKC Waalwijk,2,1.5,1,1,0
+474689,Van Overeem,Joris van Overeem,2,3.0,0,2,0
+474768,Samaris,Andreas Samaris,2,5.0,0,0,2
+474818,Marcus Pedersen,Marcus Holmgren Pedersen,2,1.0,2,0,0
+474777,Philips,Philipp Max,2,1.0,2,0,0
+474850,Quelle,Melle Meulensteen,2,5.0,0,0,2
+474850,Pol loves,Pol Llonch,2,5.0,0,0,2
+474689,Utrechtse,FC Utrecht,2,4.0,0,1,1
+474777,Roger,Roger Schmidt,2,4.0,0,1,1
+474689,Utrechts,FC Utrecht,2,4.0,0,1,1
+474846,Duitse,Laros Duarte,2,4.5,0,1,1
+474689,faber,Adam Maher,2,1.5,1,1,0
+474689,Simon Gustafson,Simon Gustafson,2,1.0,2,0,0
+474777,Jasper,Jesper Karlsson,2,2.0,1,1,0
+474850,thijs Oosting,Thijs Oosting,2,3.0,1,0,1
+474850,Kiel,Miquel Nelom,2,2.0,1,1,0
+474689,Bart,Bart Ramselaar,2,5.0,0,0,2
+474783,HomeSCPECZwolle,PEC Zwolle,2,3.0,1,0,1
+474818,feyenoord,Feyenoord,2,4.0,0,1,1
+474850,zondag,Thierry Lutonda,2,3.0,1,0,1
+474850,Jurin Gaari,Jurien Gaari,2,1.5,1,1,0
+474777,Hein Meurs,Tijani Reijnders,2,4.0,0,2,0
+474768,Sc Heerenveen,SC Heerenveen,2,3.0,0,2,0
+474818,Pinsterest,Luis Sinisterra,2,2.0,1,1,0
+474846,LFC,FC Groningen,2,4.0,0,1,1
+474783,Kostas Lamprou,Kostas Lamprou,2,2.0,1,1,0
+474689,Mark van der Maarel,Mark van der Maarel,2,3.0,0,2,0
+474768,Wim Jansen,Roel Janssen,2,1.0,2,0,0
+474777,Geel voor Sugawara,Yukinari Sugawara,2,1.0,2,0,0
+474768,Diens,Ben Rienstra,2,1.0,2,0,0
+474783,Mattson,Magnus Mattsson,2,3.0,1,0,1
+474850,Jenssen,Jens Odgaard,2,2.5,1,1,0
+474846,Dankerlui,Damil Dankerlui,2,3.0,0,2,0
+474846,Danil van Kaam,Daniel van Kaam,2,1.0,2,0,0
+474866,AFC Ajax,Ajax,2,5.0,0,0,2
+474783,Mustafa,Mustafa Saymak,2,5.0,0,0,2
+474689,Michelle Lukes,Michael Breij,2,1.0,2,0,0
+474866,Ajax treitert,Ajax,2,5.0,0,0,2
+474783,Elayis Tavan,Elayis Tavsan,2,1.0,2,0,0
+474689,derde,Tom Boere,2,2.0,1,1,0
+474866,Danilo,Danilo,2,1.0,2,0,0
+474689,SMFC,FC Utrecht,2,1.0,2,0,0
+474789,MaxVerstappen,Eric Verstappen,2,3.0,0,2,0
+474789,Max Verstappen,Eric Verstappen,2,3.0,0,2,0
+474689,Ren Hake,Rene Hake,2,5.0,0,0,2
+474866,Kenneth Taylor,Kenneth Taylor,2,2.5,1,1,0
+474789,Matzy,Matus Bero,2,4.0,0,1,1
+474783,Comeon,Pelle Clement,2,5.0,0,0,2
+474783,Cycling,Calvin Verdonk,2,5.0,0,0,2
+474689,Overvecht,FC Utrecht,2,4.0,0,1,1
+474689,Barca,Bart Ramselaar,2,3.0,0,2,0
+474777,Jesper Karlsson,Jesper Karlsson,2,2.5,1,1,0
+474777,Jesper     ,Jesper Karlsson,2,4.0,0,2,0
+474789,Lorient,Joshua Brenet,2,1.0,2,0,0
+474689,Nijmegen,Thijmen Nijhuis,2,3.5,0,2,0
+474689,Nederland,Henk Veerman,2,2.0,1,1,0
+474783,El Karouani,Souffian Elkarouani,2,2.0,1,1,0
+474768,Haye kogelt,Thom Haye,2,1.0,2,0,0
+474846,Erwin,Marin Sverko,1,2.0,0,1,0
+474846,5 meter,Peter Leeuwenburgh,1,1.0,1,0,0
+474846,MilanWieringa,Jacob Mulenga,1,3.0,0,1,0
+474846,Nick,Nick Hengelman,1,1.0,1,0,0
+474846,Gerrit,Gerrit Nauber,1,1.0,1,0,0
+474846,Franse,Francis Ross,1,1.0,1,0,0
+474846,Drenthe,Laros Duarte,1,5.0,0,0,1
+474846,Milan,Marin Sverko,1,2.0,0,1,0
+474846,Jorgen Strand Larsen,Joergen Strand Larsen,1,1.0,1,0,0
+474846,Kasanwirjo,Neraysho Kasanwirjo,1,5.0,0,0,1
+474846,Daphne,Daniel van Kaam,1,5.0,0,0,1
+474846,FC Groningen fanaat en DJ,FC Groningen,1,3.0,0,1,0
+474846,Just a,Justin Bakker,1,5.0,0,0,1
+474846,Jurgen Strand,Joergen Strand Larsen,1,5.0,0,0,1
+474846,Dennis,Aventis Aventisian,1,4.0,0,1,0
+474846,Eerste Kamer,Joris Kramer,1,5.0,0,0,1
+474846,Jorgen,Joergen Strand Larsen,1,5.0,0,0,1
+474846,Kees in Deventer,Kees van Wonderen,1,4.0,0,1,0
+474846,Jarige Strand Larsen,Joergen Strand Larsen,1,5.0,0,0,1
+474846,Haren,Marin Sverko,1,1.0,1,0,0
+474846,Helmond,Nick Hengelman,1,5.0,0,0,1
+474846,Jacob Mulenga,Jacob Mulenga,1,1.0,1,0,0
+474846,Iigo,Inigo Cordoba,1,1.0,1,0,0
+474846,Huis voor de Sport Groningen,FC Groningen,1,4.0,0,1,0
+474846,Hincha,Michael de Leeuw,1,3.0,0,1,0
+474846,Kees,Kees van Wonderen,1,3.0,0,1,0
+474846,Kees van Wonderen,Kees van Wonderen,1,1.0,1,0,0
+474846,Antifa,Aventis Aventisian,1,4.0,0,1,0
+474846,Chris,Joris Kramer,1,1.0,1,0,0
+474846,Bjrn Meijer,Bjorn Meijer,1,5.0,0,0,1
+474846,Matthijs,Mats Deijl,1,2.0,0,1,0
+474846,Martinitoren,Martjin Berden,1,4.0,0,1,0
+474846,FC Grünn,FC Groningen,1,5.0,0,0,1
+474846,Frank Ross,Francis Ross,1,1.0,1,0,0
+474846,FCG,FC Groningen,1,4.0,0,1,0
+474846,Fc Grunn,FC Groningen,1,5.0,0,0,1
+474846,Marin Sverko,Marin Sverko,1,1.0,1,0,0
+474846,Kuipers,Bas Kuipers,1,1.0,1,0,0
+474846,Damil,Damil Dankerlui,1,4.0,0,1,0
+474846,Groninger Museum,FC Groningen,1,5.0,0,0,1
+474846,Damme,Damil Dankerlui,1,3.0,0,1,0
+474846,LucasWoudenberg,Boyd Lucassen,1,3.0,0,1,0
+474846,Leeuwarden,Peter Leeuwenburgh,1,5.0,0,0,1
+474846,Laros,Laros Duarte,1,3.0,0,1,0
+474846,Danny Buijs,Danny Buijs,1,1.0,1,0,0
+474846,GroningerHavens,FC Groningen,1,5.0,0,0,1
+474850,Mats,Mats Koehlert,1,5.0,0,0,1
+474846,Oeratmangoen,Ragnar Oratmangoen,1,1.0,1,0,0
+474866,Heracles 19,Heracles,1,1.0,1,0,0
+474866,Edson Alvarez,Edson Alvarez,1,5.0,0,0,1
+474866,Education AFC Ajax,Ajax,1,5.0,0,0,1
+474866,Erik,Erik ten Hag,1,5.0,0,0,1
+474866,Erwin,Erik ten Hag,1,1.0,1,0,0
+474866,Gaby Blaaser,Davy Klaassen,1,1.0,1,0,0
+474866,Hans,Emil Hansson,1,1.0,1,0,0
+474866,Hansie,Emil Hansson,1,5.0,0,0,1
+474866,Heracles   Sitting comfortably,Heracles,1,4.0,0,1,0
+474866,Heracles 63,Heracles,1,1.0,1,0,0
+474866,Klaass,Davy Klaassen,1,5.0,0,0,1
+474866,Heracles y as,Heracles,1,5.0,0,0,1
+474866,Jan Janssen,Davy Klaassen,1,1.0,1,0,0
+474866,Jean,Janis Blaswich,1,5.0,0,0,1
+474866,Joran,Janis Blaswich,1,2.0,0,1,0
+474866,Kaj Sierhuis,Kaj Sierhuis,1,1.0,1,0,0
+474866,Kameroen,Koen Bucker,1,2.0,0,1,0
+474866,Karpervissen,Davy Klaassen,1,1.0,1,0,0
+474866,Kenneth Perez,Kenneth Taylor,1,4.0,0,1,0
+474866,Dusan,Dusan Tadic,1,1.0,1,0,0
+474866,Duitsland,Dusan Tadic,1,1.0,1,0,0
+474866,Ducati,Luca de la Torre,1,1.0,1,0,0
+474866,Davy,Davy Klaassen,1,1.0,1,0,0
+474850,martyriser Waalwijk,RKC Waalwijk,1,5.0,0,0,1
+474850,night,Vurnon Anita,1,1.0,1,0,0
+474850,por Oosting,Joseph Oosting,1,5.0,0,0,1
+474866,Afrika,Adrian Szoke,1,5.0,0,0,1
+474866,Ajax Amsterdam,Ajax,1,5.0,0,0,1
+474866,Ajax Archief,Ajax,1,1.0,1,0,0
+474866,Ajax Kids Club,Ajax,1,1.0,1,0,0
+474866,Ajax aquí,Ajax,1,5.0,0,0,1
+474866,Aldi,Adrian Szoke,1,2.0,0,1,0
+474866,Beke,Koen Bucker,1,1.0,1,0,0
+474866,Ben,Erik ten Hag,1,3.0,0,1,0
+474866,Bierista,Kaj Sierhuis,1,1.0,1,0,0
+474866,Brother,Jay Gorter,1,1.0,1,0,0
+474866,Carajo,Navajo Bakboord,1,5.0,0,0,1
+474866,Damme,Mohammed Kudus,1,5.0,0,0,1
+474866,Darts,Mats Knoester,1,5.0,0,0,1
+474866,David Neres,Heracles,1,5.0,0,0,1
+474866,Kenneth Tay,Kenneth Taylor,1,3.0,0,1,0
+474866,Kudus,Mohammed Kudus,1,3.0,0,1,0
+474850,jizzie hornkamp,Jizz Hornkamp,1,5.0,0,0,1
+474866,Walter,Sebastien Haller,1,1.0,1,0,0
+474866,Serena,Steven Berghuis,1,5.0,0,0,1
+474866,Share,Charlie Setford,1,5.0,0,0,1
+474866,Steven Wilson,Steven Berghuis,1,1.0,1,0,0
+474866,Tagliafico,Nicolas Tagliafico,1,1.0,1,0,0
+474866,Ten Hag,Erik ten Hag,1,5.0,0,0,1
+474866,The Rolling Stones,Robin Jalving,1,1.0,1,0,0
+474866,The only thing I can blame,Antony,1,4.0,0,1,0
+474866,Tiro,Jurrien Timber,1,1.0,1,0,0
+474866,Waylon,Kenneth Taylor,1,5.0,0,0,1
+474866,Lets,Mateo Les,1,4.0,0,1,0
+474866,Xtina,Sinan Bakis,1,5.0,0,0,1
+474866,ajax houdi,Ajax,1,1.0,1,0,0
+474866,e,Luca de la Torre,1,5.0,0,0,1
+474866,morgen,Koen Bucker,1,3.0,0,1,0
+474866,only,Antony,1,4.0,0,1,0
+474866,stan,Dusan Tadic,1,1.0,1,0,0
+474866,together,Mats Knoester,1,5.0,0,0,1
+474866,twee,Steven Berghuis,1,1.0,1,0,0
+474866,Senin,Sven Sonnenberg,1,1.0,1,0,0
+474866,Sara,Elias Sierra,1,1.0,1,0,0
+474866,Roemer,Youri Regeer,1,1.0,1,0,0
+474866,Remko Pasveer,Remko Pasveer,1,5.0,0,0,1
+474866,Liga,Noah Fadiga,1,5.0,0,0,1
+474866,Lisandro Martnez,Lisandro Martinez,1,1.0,1,0,0
+474866,Londen,Koen Bucker,1,1.0,1,0,0
+474866,Maltese Team,Mateo Les,1,5.0,0,0,1
+474866,MarCKieS,Lisandro Martinez,1,1.0,1,0,0
+474866,Marc,Marco Rente,1,1.0,1,0,0
+474866,Marc Bosman,Marco Rente,1,5.0,0,0,1
+474866,Marco Pantani Fan,Marco Rente,1,1.0,1,0,0
+474866,Marius,Mats Knoester,1,1.0,1,0,0
+474866,Mila,Bilal Basacikoglu,1,5.0,0,0,1
+474866,Muy buen,Ruben Roosken,1,5.0,0,0,1
+474866,Napoli,Nikolai Laursen,1,5.0,0,0,1
+474866,Nic Tagliafic,Nicolas Tagliafico,1,5.0,0,0,1
+474866,Nico Tagliafico,Nicolas Tagliafico,1,5.0,0,0,1
+474866,Niels,Nicolas Tagliafico,1,5.0,0,0,1
+474866,Noah,Noah Fadiga,1,1.0,1,0,0
+474866,Radio,Dusan Tadic,1,3.0,0,1,0
+474850,kroket Kramer,Michiel Kramer,1,1.0,1,0,0
+474850,drie,Dries Saddiki,1,1.0,1,0,0
+474846,PVV Groningen Stad  ,FC Groningen,1,1.0,1,0,0
+474850,Familieman,Kilian Ludewig,1,5.0,0,0,1
+474850,Country,Connor van den Berg,1,1.0,1,0,0
+474850,Damme,Wessel Dammers,1,5.0,0,0,1
+474850,Driess Saddiki,Dries Saddiki,1,5.0,0,0,1
+474850,Duell,Melle Meulensteen,1,1.0,1,0,0
+474850,Eerste,Emil Bergstroem,1,1.0,1,0,0
+474850,Engels,Lennerd Daneels,1,4.0,0,1,0
+474850,Etienne Tilburg,Etienne Vaessen,1,5.0,0,0,1
+474850,Everton,Elton Kabangu,1,5.0,0,0,1
+474850,Freek Heerkens,Freek Heerkens,1,3.0,0,1,0
+474850,Joseph,Joseph Oosting,1,3.0,0,1,0
+474850,Gaari z n,Jurien Gaari,1,1.0,1,0,0
+474850,Goal Hornkamp,Jizz Hornkamp,1,1.0,1,0,0
+474850,Hassini,Yassin Oukili,1,1.0,1,0,0
+474850,Heerenveen,Freek Heerkens,1,1.0,1,0,0
+474850,Jensen,Jens Odgaard,1,1.0,1,0,0
+474850,Jizz Hornkam,Jizz Hornkamp,1,5.0,0,0,1
+474850,Jizzie,Jizz Hornkamp,1,5.0,0,0,1
+474850,Joris,Jorn Brondeel,1,1.0,1,0,0
+474850,Brown,Jorn Brondeel,1,1.0,1,0,0
+474850,Brits,Dries Saddiki,1,3.0,0,1,0
+474850,Bakari,Said Bakari,1,1.0,1,0,0
+474850,Akzhil,Ayman Azhil,1,1.0,1,0,0
+474846,Pavlov,Paulos Abraham,1,1.0,1,0,0
+474846,Ragnar Oratmangoen,Ragnar Oratmangoen,1,1.0,1,0,0
+474846,Rommens,Philippe Rommens,1,1.0,1,0,0
+474846,SMFC,FC Groningen,1,5.0,0,0,1
+474846,SV FC Groningen,FC Groningen,1,4.0,0,1,0
+474846,Skriver,Marin Sverko,1,3.0,0,1,0
+474846,Springsteen,FC Groningen,1,4.0,0,1,0
+474846,Staten,Joergen Strand Larsen,1,5.0,0,0,1
+474846,Strand   Larsen,Joergen Strand Larsen,1,5.0,0,0,1
+474846,Strand Laren,Joergen Strand Larsen,1,1.0,1,0,0
+474846,Suus,Tomas Suslov,1,1.0,1,0,0
+474846,Van Hintum,Bart van Hintum,1,1.0,1,0,0
+474846,all you,Yahya Kalley,1,5.0,0,0,1
+474846,ao Groningen,FC Groningen,1,1.0,1,0,0
+474846,sano,Romano Postema,1,5.0,0,0,1
+474846,zestien,Justin Bakker,1,2.0,0,1,0
+474850,2ton,Elton Kabangu,1,1.0,1,0,0
+474850,Jornada,Jorn Brondeel,1,1.0,1,0,0
+474850,KSC,RKC Waalwijk,1,3.0,0,1,0
+474850,cht,Maarten Schut,1,1.0,1,0,0
+474850,Waalwijk fanaat,RKC Waalwijk,1,1.0,1,0,0
+474850,Richard,Richard van der Venne,1,4.0,0,1,0
+474850,Shit,Maarten Schut,1,1.0,1,0,0
+474850,Svensson out,Max Svensson,1,1.0,1,0,0
+474850,Thijsje Oosting,Thijs Oosting,1,5.0,0,0,1
+474850,Thijssie,Thijs Oosting,1,5.0,0,0,1
+474850,Ulrik Jenssen,Ulrik Yttergaard Jenssen,1,5.0,0,0,1
+474850,Van der,Alexander Buttner,1,1.0,1,0,0
+474850,Waalwi,RKC Waalwijk,1,1.0,1,0,0
+474850,Waalwijk mit,RKC Waalwijk,1,5.0,0,0,1
+474850,Keith Richards,Richard van der Venne,1,1.0,1,0,0
+474850,Will start at the begin of the,Willem II,1,4.0,0,1,0
+474850,Willem Dos,Willem II,1,1.0,1,0,0
+474850,Willem II shirt,Willem II,1,3.0,0,1,0
+474850,Willem IIer,Willem II,1,1.0,1,0,0
+474850,Willem Ii demorou,Willem II,1,2.0,0,1,0
+474850,Zuiden,Jurien Gaari,1,5.0,0,0,1
+474850,again,Jurien Gaari,1,5.0,0,0,1
+474850,chill,Michiel Kramer,1,3.0,0,1,0
+474850,RKC van Joseph Oosting,Joseph Oosting,1,1.0,1,0,0
+474850,Pol Llonch,Pol Llonch,1,1.0,1,0,0
+474850,Pol,Pol Llonch,1,3.0,0,1,0
+474850,Peel,Wessel Dammers,1,3.0,0,1,0
+474850,Khlert,Mats Koehlert,1,2.0,0,1,0
+474850,Kramer diminui,Michiel Kramer,1,3.0,0,1,0
+474850,Livestream Willem II,Willem II,1,5.0,0,0,1
+474850,MVV Maastricht,Maarten Schut,1,1.0,1,0,0
+474850,MVV Maastricht   ,Maarten Schut,1,1.0,1,0,0
+474850,Mama Oosting,Thijs Oosting,1,3.0,0,1,0
+474850,Manman,Maarten Schut,1,1.0,1,0,0
+474850,Martin,Maarten Schut,1,1.0,1,0,0
+474850,Mathijsen,Maarten Schut,1,5.0,0,0,1
+474850,Mathijsen Hornkamp,Jizz Hornkamp,1,5.0,0,0,1
+474818,von Trainer,Gernot Trauner,1,5.0,0,0,1
+474850,Michiel,Michiel Kramer,1,1.0,1,0,0
+474850,Michiel Kra,Michiel Kramer,1,3.0,0,1,0
+474850,Naait,Jurien Gaari,1,1.0,1,0,0
+474850,Nemec,Miquel Nelom,1,1.0,1,0,0
+474850,Nunnely,Che Nunnely,1,1.0,1,0,0
+474850,Oostingdisch,Joseph Oosting,1,1.0,1,0,0
+474846,4de,Michael de Leeuw,1,1.0,1,0,0
+474689,2 uur,Cambuur,1,1.0,1,0,0
+474818,sven kramer,Henk Fraser,1,1.0,1,0,0
+474768,mn,Amin Sarr,1,5.0,0,0,1
+474768,Seuntjes,Mats Seuntjens,1,3.0,0,1,0
+474768,Spaans,Andreas Samaris,1,1.0,1,0,0
+474768,StadionsVol,Stanislav Shopov,1,3.0,0,1,0
+474768,Turkije,Tesfaldet Tekie,1,1.0,1,0,0
+474768,Twee,Tesfaldet Tekie,1,1.0,1,0,0
+474768,Zian Flemming recogiendo,Zian Flemming,1,1.0,1,0,0
+474768,Zitterd,Fortuna Sittard,1,5.0,0,0,1
+474768,andwre,Andreas Samaris,1,1.0,1,0,0
+474768,haye,Thom Haye,1,1.0,1,0,0
+474768,vier,Xavier Mous,1,5.0,0,0,1
+474768,SCC,SC Heerenveen,1,3.0,0,1,0
+474777,AZ Alkmaar,AZ Alkmaar,1,4.0,0,1,0
+474777,Bruma,Bruma,1,1.0,1,0,0
+474777,Cody Gapko,Cody Gakpo,1,3.0,0,1,0
+474777,Damme,Joel Drommel,1,5.0,0,0,1
+474777,Darts,Bruno Martins Indi,1,1.0,1,0,0
+474777,Ede,Dani de Wit,1,1.0,1,0,0
+474777,Eindhovenaren sp,PSV Eindhoven,1,1.0,1,0,0
+474777,Eindhovens Dagblad,PSV Eindhoven,1,3.0,0,1,0
+474777,Eindhovense,PSV Eindhoven,1,5.0,0,0,1
+474768,Seuntjens,Mats Seuntjens,1,5.0,0,0,1
+474768,SC Heerenveen voor rust,SC Heerenveen,1,1.0,1,0,0
+474777,English,Evangelos Pavlidis,1,2.0,0,1,0
+474768,Martin Yves Angha,Martin Angha,1,1.0,1,0,0
+474768,I Stevanovic,Filip Stevanovic,1,1.0,1,0,0
+474768,I Van Osch,Yanick van Osch,1,1.0,1,0,0
+474768,Ibrahim Dresevic,Ibrahim Dresevic,1,3.0,0,1,0
+474768,Jansen,Roel Janssen,1,3.0,0,1,0
+474768,Johnny Jansen,Roel Janssen,1,5.0,0,0,1
+474768,Kom,Tom Hendriks,1,4.0,0,1,0
+474768,Kopbal Flemming,Zian Flemming,1,1.0,1,0,0
+474768,Lekker Flemming,Zian Flemming,1,4.0,0,1,0
+474768,Martin Angha,Martin Angha,1,1.0,1,0,0
+474768,MartinAngha,Martin Angha,1,1.0,1,0,0
+474768,Richie Musaba,Richie Musaba,1,3.0,0,1,0
+474768,Milan van Ewijk,Milan van Ewijk,1,3.0,0,1,0
+474768,Millwall,Milan van Ewijk,1,3.0,0,1,0
+474768,Mous,Xavier Mous,1,1.0,1,0,0
+474768,Nijmegen,Nigel Lonwijk,1,5.0,0,0,1
+474768,Ole,Ole Tobiasen,1,3.0,0,1,0
+474768,Ole Tobiase,Ole Tobiasen,1,3.0,0,1,0
+474768,PEC     Musaba,Richie Musaba,1,3.0,0,1,0
+474768,Philips,Filip Stevanovic,1,1.0,1,0,0
+474768,Rami Kaib,Rami Kaib,1,1.0,1,0,0
+474777,Engelse,Evangelos Pavlidis,1,1.0,1,0,0
+474777,Europa,Eran Zahavi,1,2.0,0,1,0
+474783,Calvin Verdonk,Calvin Verdonk,1,3.0,0,1,0
+474777,Vitesse,Yorbe Vertessen,1,1.0,1,0,0
+474777,Radio,Mario Goetze,1,5.0,0,0,1
+474777,Romero,Roger Schmidt,1,1.0,1,0,0
+474777,Schmidt bij,Roger Schmidt,1,1.0,1,0,0
+474777,Segue,Jenson Seelt,1,5.0,0,0,1
+474777,Teze,Jordan Teze,1,1.0,1,0,0
+474777,The Eindhoven side,PSV Eindhoven,1,3.0,0,1,0
+474777,Twee,Jordan Teze,1,1.0,1,0,0
+474777,Veertien,Yorbe Vertessen,1,1.0,1,0,0
+474777,Verleest,Hobie Verhulst,1,1.0,1,0,0
+474777,Wim Jansen,Pascal Jansen,1,4.0,0,1,0
+474777,Philips Stadion,Philipp Max,1,1.0,1,0,0
+474777,Yvon Mvogo,Yvon Mvogo,10,2.0,9,1,0
+474777,Zahavi,Eran Zahavi,1,1.0,1,0,0
+474777,Zahavi Some people come in your life and leave a Mark Rockt,Eran Zahavi,1,5.0,0,0,1
+474777,for life,Jordy Clasie,1,1.0,1,0,0
+474777,nederland,Joey Veerman,1,5.0,0,0,1
+474777,schmidt,Roger Schmidt,1,3.0,0,1,0
+474777,von Roger Schmid,Roger Schmidt,1,3.0,0,1,0
+474783,Ameland,Ali Akman,1,5.0,0,0,1
+474783,Barista,Bart van Rooij,1,3.0,0,1,0
+474777,Piet Veerman,Joey Veerman,1,3.0,0,1,0
+474777,Perfil,Peer Koopmeiners,1,5.0,0,0,1
+474777,Ford Puma,Bruma,1,5.0,0,0,1
+474777,Max,Philipp Max,1,5.0,0,0,1
+474777,Fresia,Fredrik Midtsjoe,1,1.0,1,0,0
+474777,Geel,Jenson Seelt,1,1.0,1,0,0
+474777,Gemert,Peer Koopmeiners,1,5.0,0,0,1
+474777,Joelle,Joel Drommel,1,1.0,1,0,0
+474777,John,Johan Bakayoko,1,3.0,0,1,0
+474777,La Buena Vida,Bruma,1,5.0,0,0,1
+474777,Lennon,Jenson Seelt,1,3.0,0,1,0
+474777,Manon,Mauro Junior,1,1.0,1,0,0
+474777,Mario Gtze,Mario Goetze,1,1.0,1,0,0
+474777,Maxiaans,Bruno Martins Indi,1,3.0,0,1,0
+474777,Papa,Pascal Jansen,1,1.0,1,0,0
+474777,Menzo,Philipp Mwene,1,2.0,0,1,0
+474777,Mille,Milos Kerkez,1,5.0,0,0,1
+474777,Nederland,Joey Veerman,1,1.0,1,0,0
+474777,Ommen,Owen Wijndal,1,1.0,1,0,0
+474777,Openda,Owen Wijndal,1,1.0,1,0,0
+474777,Otis,Armando Obispo,1,3.0,0,1,0
+474777,PES,PSV Eindhoven,1,1.0,1,0,0
+474777,POV,PSV Eindhoven,1,4.0,0,1,0
+474777,PSV SCC,PSV Eindhoven,1,3.0,0,1,0
+474768,I Hoekschop,Charlison Benschop,1,1.0,1,0,0
+474768,Hattem,Thom Haye,1,5.0,0,0,1
+474768,Hanneman de Toerist Taxi,Tom Hendriks,1,1.0,1,0,0
+474689,Henk Vreeman,Henk Veerman,1,5.0,0,0,1
+474689,FC Utre,FC Utrecht,1,1.0,1,0,0
+474689,FC Utrec,FC Utrecht,1,1.0,1,0,0
+474689,FC Utrecht Bunnikside,FC Utrecht,1,5.0,0,0,1
+474689,Feline,Rene Hake,1,1.0,1,0,0
+474689,Gene Clark,Rene Hake,1,5.0,0,0,1
+474689,H Veerman,Henk Veerman,1,1.0,1,0,0
+474689,Hanne,Rene Hake,1,3.0,0,1,0
+474689,Harkstede,Rene Hake,1,1.0,1,0,0
+474689,Hendrik Veerman,Henk Veerman,1,3.0,0,1,0
+474689,Henk de DKV,Henk de Jong,1,4.0,0,1,0
+474689,David Sambissa,David Sambissa,1,3.0,0,1,0
+474689,Henk de Jong,Henk de Jong,1,3.0,0,1,0
+474689,Henkie Henkie,Rene Hake,1,5.0,0,0,1
+474689,Henkie V,Henk de Jong,1,3.0,0,1,0
+474689,Henkie Veerman,Henk Veerman,1,5.0,0,0,1
+474689,Henkiemania,Henk Veerman,1,1.0,1,0,0
+474689,Hoedema,Mees Hoedemakers,1,1.0,1,0,0
+474689,Intosh,Calvin Mac-Intosch,1,1.0,1,0,0
+474689,Jamie,Jamie Jacobs,1,4.0,0,1,0
+474689,Jamie Jacobs,Jamie Jacobs,1,5.0,0,0,1
+474689,Erik Schouten,Erik Schouten,1,1.0,1,0,0
+474689,David Neres,David Sambissa,1,2.0,0,1,0
+474768,Hablo,Rami Hajal,1,1.0,1,0,0
+474689,Calvin Mac,Calvin Mac-Intosch,1,5.0,0,0,1
+474689,6 minuten,Quinten Timber,1,1.0,1,0,0
+474689,Aletta,Alex Bangura,1,1.0,1,0,0
+474689,Amsterdam,Adam Maher,1,5.0,0,0,1
+474689,Analista Táctico,Anastasios Douvikas,1,1.0,1,0,0
+474689,Beilen,Rick Meissen,1,1.0,1,0,0
+474689,Bente,Rene Hake,1,5.0,0,0,1
+474689,Berlijn,Michael Breij,1,1.0,1,0,0
+474689,Boussaid,Othman Boussaid,1,1.0,1,0,0
+474689,Calcio,Calvin Mac-Intosch,1,1.0,1,0,0
+474689,Calvin Mac Intosh,Calvin Mac-Intosch,1,1.0,1,0,0
+474689,Damme,Jamie Jacobs,1,5.0,0,0,1
+474689,Cambuur   ,Cambuur,1,3.0,0,1,0
+474689,Cambuur     ,Cambuur,1,5.0,0,0,1
+474689,Cambuur   waldhoorn,Cambuur,1,5.0,0,0,1
+474689,Cambuur   wielrennen,Cambuur,1,4.0,0,1,0
+474689,Cambuur 058,Cambuur,1,1.0,1,0,0
+474689,CambuurKomtEraan,Cambuur,1,1.0,1,0,0
+474689,Captain,Calvin Mac-Intosch,1,5.0,0,0,1
+474689,Cothen,Patrick Joosten,1,1.0,1,0,0
+474689,Cycling,Calvin Mac-Intosch,1,5.0,0,0,1
+474689,Janse,Willem Janssen,1,1.0,1,0,0
+474689,Jara,Jasper ter Heide,1,1.0,1,0,0
+474689,LeoDriessen,Rick Meissen,1,1.0,1,0,0
+474689,the,Jasper ter Heide,1,1.0,1,0,0
+474689,Wilma,Willem Janssen,1,1.0,1,0,0
+474689,Wim Jansen,Willem Janssen,1,1.0,1,0,0
+474689,al. Utrecht,FC Utrecht,1,5.0,0,0,1
+474689,alterao,Jasper ter Heide,1,2.0,0,1,0
+474689,and fully      Utrecht,FC Utrecht,1,5.0,0,0,1
+474689,ben ik,Henk de Jong,1,5.0,0,0,1
+474689,half uur,Cambuur,1,1.0,1,0,0
+474689,him,Thijmen Nijhuis,1,1.0,1,0,0
+474689,t Hert,Jasper ter Heide,1,1.0,1,0,0
+474689,willem jansen,Willem Janssen,1,1.0,1,0,0
+474689,MBO watcher,Adam Maher,1,5.0,0,0,1
+474768,Andr,Andreas Samaris,1,1.0,1,0,0
+474768,Anthony Musaba,Anthony Musaba,1,3.0,0,1,0
+474768,Aukje,Arjen van der Heide,1,1.0,1,0,0
+474768,Ben Rienstra,Ben Rienstra,1,1.0,1,0,0
+474768,Dimitrios Siovas,Dimitris Siovas,1,5.0,0,0,1
+474768,Ewijk,Nigel Lonwijk,1,2.0,0,1,0
+474768,Fort,Fortuna Sittard,1,1.0,1,0,0
+474768,Fortuna Flemming,Zian Flemming,1,4.0,0,1,0
+474768,Fortunees,Fortuna Sittard,1,1.0,1,0,0
+474689,Wilde,Willem Janssen,1,1.0,1,0,0
+474689,Vianen,Quinten Timber,1,3.0,0,1,0
+474689,Veeeeeerman,Henk Veerman,1,1.0,1,0,0
+474689,Van der Kust,Djevencio van der Kust,1,3.0,0,1,0
+474689,Maarel,Michael Breij,1,1.0,1,0,0
+474689,Mail,Mimoun Mahi,1,3.0,0,1,0
+474689,Marathonner,Adam Maher,1,1.0,1,0,0
+474689,Marmite,Jamie Jacobs,1,5.0,0,0,1
+474689,Mees,Mees Hoedemakers,1,1.0,1,0,0
+474689,Mees Hoedemakers,Mees Hoedemakers,1,5.0,0,0,1
+474689,Melle,Mees Hoedemakers,1,1.0,1,0,0
+474689,Moussa,Moussa Sylla,1,1.0,1,0,0
+474689,Ramon,Simon Gustafson,1,5.0,0,0,1
+474689,Remco     Mechelse,Remco Balk,1,1.0,1,0,0
+474689,Roberts,Roberts Uldrikis,1,3.0,0,1,0
+474689,Robin Maulun,Robin Maulun,1,3.0,0,1,0
+474689,Schouten,Erik Schouten,1,1.0,1,0,0
+474689,Scout,Erik Schouten,1,5.0,0,0,1
+474689,Tamas Kiss,Tamas Kiss,1,5.0,0,0,1
+474689,Ten Boer,Tom Boere,1,5.0,0,0,1
+474689,Tycho Boxers,Tom Boere,1,1.0,1,0,0
+474689,Utrechtse     ,FC Utrecht,1,4.0,0,1,0
+474689,Van der Hoorn,Mike van der Hoorn,1,5.0,0,0,1
+474783,Bronkhorst,Ilias Bronkhorst,1,1.0,1,0,0
+474783,Darfa,Oussama Darfalou,1,5.0,0,0,1
+474818,one,Younes Namli,1,5.0,0,0,1
+474818,English,Mario Engels,1,4.0,0,1,0
+474818,Britt,Bart Vriends,1,5.0,0,0,1
+474818,Bryan Linssen,Bryan Linssen,1,1.0,1,0,0
+474818,Buenos,Jens Toornstra,1,3.0,0,1,0
+474818,Canon,Ramon Hendriks,1,5.0,0,0,1
+474818,Cole Bassett,Cole Bassett,1,4.0,0,1,0
+474818,Corenos,Tim Coremans,1,3.0,0,1,0
+474818,Dalmau,Adrian Dalmau,1,3.0,0,1,0
+474818,Durmisi,Riza Durmisi,1,1.0,1,0,0
+474818,Ede,Joeri de Kamps,1,3.0,0,1,0
+474818,Fenna,Lennart Thy,1,5.0,0,0,1
+474818,Blij,Justin Bijlow,1,1.0,1,0,0
+474818,Feyenoord   Duindorp,Feyenoord,1,5.0,0,0,1
+474818,Feyenoord   Smart,Feyenoord,1,4.0,0,1,0
+474818,Feyenoord   Sparta,Feyenoord,1,4.0,0,1,0
+474818,Feyenoord   Sparta Rotterdam,Sparta Rotterdam,1,4.0,0,1,0
+474818,Feyenoord   voetbal,Feyenoord,1,4.0,0,1,0
+474818,Feyenoord Home,Feyenoord,1,5.0,0,0,1
+474818,Feyenoord di,Feyenoord,1,1.0,1,0,0
+474818,Feyenoord en Spart,Feyenoord,1,5.0,0,0,1
+474818,Feyenoord fan,Feyenoord,1,5.0,0,0,1
+474818,Born,Bryan Linssen,1,5.0,0,0,1
+474818,Bengals,Mario Engels,1,5.0,0,0,1
+474818,Feyenoord op Rapport,Feyenoord,1,5.0,0,0,1
+474789,on loan,Ron Jans,1,5.0,0,0,1
+474789,Twentsche Courant,FC Twente,1,1.0,1,0,0
+474789,Vaclaaav,Vaclav Cerny,1,1.0,1,0,0
+474789,Veste,Eric Verstappen,1,1.0,1,0,0
+474789,Viersprong,Eric Verstappen,1,3.0,0,1,0
+474789,Vitesse     Seizoenkaarthouder,Vitesse,1,5.0,0,0,1
+474789,Vitesse Arnheim,Vitesse,1,1.0,1,0,0
+474789,Vitesse Punk,Vitesse,1,1.0,1,0,0
+474789,e,Jeffrey De Lange,1,1.0,1,0,0
+474789,no,Enzo Cornelisse,1,5.0,0,0,1
+474789,week,FC Twente,1,1.0,1,0,0
+474818,Beesd,Tom Beugelsdijk,1,3.0,0,1,0
+474789,winter,FC Twente,1,1.0,1,0,0
+474818,27jr Sparta,Sparta Rotterdam,1,1.0,1,0,0
+474818,AMF   Feijenoord,Feyenoord,1,5.0,0,0,1
+474818,Afrika,Adrian Dalmau,1,1.0,1,0,0
+474818,Alir,Alireza Jahanbakhsh,1,1.0,1,0,0
+474818,Alireza,Alireza Jahanbakhsh,1,4.0,0,1,0
+474818,Amber,Dirk Abels,1,3.0,0,1,0
+474818,Auassar wees nou,Adil Auassar,1,1.0,1,0,0
+474818,Batman,Bart Vriends,1,5.0,0,0,1
+474818,Feyenoord have to be favourites for second place,Feyenoord,1,3.0,0,1,0
+474818,Feyenoord s performance coach,Feyenoord,1,4.0,0,1,0
+474783,De Waal,Max De Waal,1,3.0,0,1,0
+474818,Verschueren,Arno Verschueren,1,1.0,1,0,0
+474818,Radio,Ramon Hendriks,1,5.0,0,0,1
+474818,Rdam,Ramon Hendriks,1,5.0,0,0,1
+474818,Rotterdamm,Sparta Rotterdam,1,5.0,0,0,1
+474818,Rotterdams,Sparta Rotterdam,1,1.0,1,0,0
+474818,Scout,Arne Slot,1,5.0,0,0,1
+474818,Sene,Marcos Senesi,1,5.0,0,0,1
+474818,Sparta Rotterdam van,Sparta Rotterdam,1,1.0,1,0,0
+474818,Toornstra,Jens Toornstra,1,1.0,1,0,0
+474818,Varkenoord,Feyenoord,1,5.0,0,0,1
+474818,Vrijthof,Vito van Crooij,1,5.0,0,0,1
+474818,Orhan,Orkun Kokcu,1,1.0,1,0,0
+474818,Walemark,Patrik Waalemark,1,5.0,0,0,1
+474818,Wim Jansma,Rijk Janse,1,1.0,1,0,0
+474818,Winter,Luis Sinisterra,1,5.0,0,0,1
+474818,com,Tom Beugelsdijk,1,3.0,0,1,0
+474818,dertien,Adrian Dalmau,1,5.0,0,0,1
+474818,e,Joeri de Kamps,1,1.0,1,0,0
+474818,history and more about Feyenoord,Feyenoord,1,5.0,0,0,1
+474818,i m,Tim Coremans,1,3.0,0,1,0
+474818,no Spart,Sparta Rotterdam,1,1.0,1,0,0
+474818,Orkun fanclub,Orkun Kokcu,1,5.0,0,0,1
+474818,Okoye,Maduka Okoye,1,4.0,0,1,0
+474818,Feyenoord seizoenskaart,Feyenoord,1,4.0,0,1,0
+474818,Guus Til cetak,Guus Til,1,1.0,1,0,0
+474818,Feyenoord till i die,Feyenoord,1,2.0,0,1,0
+474818,Feyenoord voor altijd,Feyenoord,1,5.0,0,0,1
+474818,Feyenoorder for life    Rotterdam,Feyenoord,1,3.0,0,1,0
+474818,Feyenoordfan,Feyenoord,1,5.0,0,0,1
+474818,France,Henk Fraser,1,5.0,0,0,1
+474818,Geertruida Malacia,Lutsharel Geertruida,1,5.0,0,0,1
+474818,Gemeente Rotterdam,Sparta Rotterdam,1,3.0,0,1,0
+474818,Gijs,Thijs Jansen,1,3.0,0,1,0
+474818,Guus Ti,Guus Til,1,1.0,1,0,0
+474818,Helene,Michael Heylen,1,5.0,0,0,1
+474818,Niels,Dirk Abels,1,5.0,0,0,1
+474818,Helmond,Michael Heylen,1,3.0,0,1,0
+474818,Him,Tim Coremans,1,3.0,0,1,0
+474818,Honduras,Giannis Masouras,1,3.0,0,1,0
+474818,Jansen,Thijs Jansen,1,5.0,0,0,1
+474818,Justin 7,Justin Bijlow,1,5.0,0,0,1
+474818,Londen,Bryan Linssen,1,3.0,0,1,0
+474818,Los Angeles,Mario Engels,1,5.0,0,0,1
+474818,Maduka,Maduka Okoye,1,5.0,0,0,1
+474818,Milanista,Luis Sinisterra,1,5.0,0,0,1
+474789,Twentenaren,FC Twente,1,1.0,1,0,0
+474789,Twentefan,FC Twente,1,1.0,1,0,0
+474789,Tronstad DANKJEWEL,Sondre Tronstad,1,5.0,0,0,1
+474783,Quelle,Pelle Clement,1,1.0,1,0,0
+474783,NEC.,NEC Nijmegen,1,1.0,1,0,0
+474783,Nijmeegs,NEC Nijmegen,1,1.0,1,0,0
+474783,Odenthal,Cas Odenthal,1,4.0,0,1,0
+474783,Oefff Barreto,Edgar Barreto,1,1.0,1,0,0
+474783,Oldenzaal,Cas Odenthal,1,1.0,1,0,0
+474783,PEC PEC,PEC Zwolle,1,1.0,1,0,0
+474783,PEC Zwol,PEC Zwolle,1,1.0,1,0,0
+474783,PEC ab,PEC Zwolle,1,1.0,1,0,0
+474783,Porseleinen Bruijn,Jordy Bruijn,1,5.0,0,0,1
+474783,Rechtsback Djavan Anderson,Djavan Anderson,1,1.0,1,0,0
+474783,NEC olv Meijer,Rogier Meijer,1,1.0,1,0,0
+474783,Reda,Daishawn Redan,1,4.0,0,1,0
+474783,Reijnders,Eliano Reijnders,1,1.0,1,0,0
+474783,Rico Strieder,Rico Strieder,1,4.0,0,1,0
+474783,Robin,Robin Roefs,1,5.0,0,0,1
+474783,Roefs,Robin Roefs,1,1.0,1,0,0
+474783,Ryan Koolwijk,Ryan Koolwijk,1,1.0,1,0,0
+474783,Saymak,Mustafa Saymak,1,5.0,0,0,1
+474783,Schei,Lasse Schoene,1,1.0,1,0,0
+474783,Tavsan van achteren,Elayis Tavsan,1,1.0,1,0,0
+474783,NEC zes,NEC Nijmegen,1,1.0,1,0,0
+474783,NEC Vukovic,Danny Vukovic,1,1.0,1,0,0
+474789,Topsliding Tronstad,Sondre Tronstad,1,1.0,1,0,0
+474783,Huiberts,Dean Huiberts,1,5.0,0,0,1
+474783,Dean Huiberts,Dean Huiberts,1,3.0,0,1,0
+474783,Djav,Djavan Anderson,1,3.0,0,1,0
+474783,Duits,Dean Huiberts,1,3.0,0,1,0
+474783,Elayis,Elayis Tavsan,1,1.0,1,0,0
+474783,Eliano Reijn,Eliano Reijnders,1,4.0,0,1,0
+474783,Eliano Reijnders,Eliano Reijnders,1,1.0,1,0,0
+474783,Forza Zwolle,PEC Zwolle,1,5.0,0,0,1
+474783,Geraldine Kemper,Gervane Kastaneer,1,5.0,0,0,1
+474783,Huibers,Dean Huiberts,1,4.0,0,1,0
+474783,Ilse,Ilias Bronkhorst,1,4.0,0,1,0
+474783,NEC Nijmegen   ,NEC Nijmegen,1,1.0,1,0,0
+474783,Jasses,Lasse Schoene,1,1.0,1,0,0
+474783,Javier,Javier Vet,1,1.0,1,0,0
+474783,Julian,Eliano Reijnders,1,5.0,0,0,1
+474783,Lasse,Lasse Schoene,1,5.0,0,0,1
+474783,Lesse,Lasse Schoene,1,1.0,1,0,0
+474783,Matson,Magnus Mattsson,1,2.0,0,1,0
+474783,Mattsson,Magnus Mattsson,1,1.0,1,0,0
+474783,Meijervoetbal,Rogier Meijer,1,1.0,1,0,0
+474783,NEC   Nijmegen,NEC Nijmegen,1,5.0,0,0,1
+474783,Van der Werff,Maikel van der Werff,1,1.0,1,0,0
+474783,Vedette,Javier Vet,1,4.0,0,1,0
+474783,Verdorie,Calvin Verdonk,1,1.0,1,0,0
+474789,John,Joshua Brenet,1,5.0,0,0,1
+474789,Gaan,Daan Huisman,1,5.0,0,0,1
+474789,Geel voor Doekhi,Danilho Doekhi,1,1.0,1,0,0
+474789,Gigi,Virgil Misidjan,1,3.0,0,1,0
+474789,Gijs Smal,Gijs Smal,1,4.0,0,1,0
+474789,Hajek,Tomas Hajek,1,1.0,1,0,0
+474789,Jacco,Jacob Rasmussen,1,3.0,0,1,0
+474789,Jeroen,Jeroen Houwen,1,5.0,0,0,1
+474789,Jesse bedankt,Vitesse,1,3.0,0,1,0
+474789,Job,Jacob Rasmussen,1,4.0,0,1,0
+474789,Lars,Lars Unnerstall,1,1.0,1,0,0
+474783,Vet,Javier Vet,1,1.0,1,0,0
+474789,Lekker Bosch,Jesse Bosch,1,4.0,0,1,0
+474789,Letsch,Thomas Letsch,1,1.0,1,0,0
+474789,Marvel,Jahnoah Markelo,1,4.0,0,1,0
+474789,Mirthe,Michel Vlap,1,2.0,0,1,0
+474789,Nadat Houwen,Jeroen Houwen,1,1.0,1,0,0
+474789,Ron Jans,Ron Jans,1,3.0,0,1,0
+474789,Rood Rasmussen,Jacob Rasmussen,1,1.0,1,0,0
+474789,Thomas Letsch,Thomas Letsch,1,5.0,0,0,1
+474789,Tnx Tronstad,Sondre Tronstad,1,3.0,0,1,0
+474789,FCGB,FC Twente,1,4.0,0,1,0
+474789,FC Twente     Misidjan en Cleonise,FC Twente,1,1.0,1,0,0
+474789,FC Lorient,FC Twente,1,1.0,1,0,0
+474789,Enjoy,Enzo Cornelisse,1,1.0,1,0,0
+474783,Wermeskerken,Sai van Wermeskerken,1,3.0,0,1,0
+474783,ZwolleのZwolfje,PEC Zwolle,1,4.0,0,1,0
+474783,Zwols,PEC Zwolle,1,2.0,0,1,0
+474783,den Berg,Rav van den Berg,1,4.0,0,1,0
+474783,fitte Barreto,Edgar Barreto,1,5.0,0,0,1
+474783,meijer,Rogier Meijer,1,1.0,1,0,0
+474783,no Zwolle,PEC Zwolle,1,1.0,1,0,0
+474783,vanSiemen Voet,Siemen Voet,1,1.0,1,0,0
+474783,vier,Javier Vet,1,3.0,0,1,0
+474789,AZ   Twente und mehr,FC Twente,1,1.0,1,0,0
+474789,Africa,Adrian Grbic,1,3.0,0,1,0
+474789,Bayer,Riechedly Bazoer,1,5.0,0,0,1
+474789,Bedankt Houwen,Jeroen Houwen,1,3.0,0,1,0
+474789,Bero bero,Matus Bero,1,3.0,0,1,0
+474789,Brown,Matus Bero,1,3.0,0,1,0
+474789,Carry,Vaclav Cerny,1,1.0,1,0,0
+474789,Clowneske,Enzo Cornelisse,1,1.0,1,0,0
+474789,Dayano,Daan Rots,1,1.0,1,0,0
+474789,Eerste,Eric Verstappen,1,2.0,0,1,0
+474866,with Professional Master Sport,Mats Knoester,1,5.0,0,0,1

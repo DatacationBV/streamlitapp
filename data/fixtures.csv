@@ -1,0 +1,190 @@
+match id,Round,match detail status,home score,away score,home,away,datetime,divisie
+435320,1,FT,0,1,Go Ahead Eagles,SC Heerenveen,2021-08-13 20:01:00,Eredivisie
+435346,1,FT,1,0,RKC Waalwijk,AZ Alkmaar,2021-08-14 16:21:00,Eredivisie
+435351,1,FT,0,2,Heracles,PSV Eindhoven,2021-08-14 18:23:00,Eredivisie
+435354,1,FT,2,1,Fortuna Sittard,FC Twente,2021-08-14 20:01:00,Eredivisie
+435357,1,FT,5,0,Ajax,NEC Nijmegen,2021-08-14 21:02:00,Eredivisie
+435325,1,FT,1,2,Cambuur,FC Groningen,2021-08-15 12:17:00,Eredivisie
+435334,1,FT,4,0,FC Utrecht,Sparta Rotterdam,2021-08-15 14:19:00,Eredivisie
+435333,1,FT,0,1,PEC Zwolle,Vitesse,2021-08-15 14:19:00,Eredivisie
+435339,1,FT,0,4,Willem II,Feyenoord,2021-08-15 16:21:00,Eredivisie
+435321,2,FT,2,0,NEC Nijmegen,PEC Zwolle,2021-08-20 20:01:00,Eredivisie
+435345,2,FT,3,2,SC Heerenveen,RKC Waalwijk,2021-08-21 18:23:00,Eredivisie
+435347,2,FT,4,1,PSV Eindhoven,Cambuur,2021-08-21 20:01:00,Eredivisie
+435348,2,FT,1,1,Sparta Rotterdam,Heracles,2021-08-21 20:01:00,Eredivisie
+435355,2,FT,0,0,FC Groningen,FC Utrecht,2021-08-21 21:02:00,Eredivisie
+435322,2,FT,1,1,FC Twente,Ajax,2021-08-22 12:17:00,Eredivisie
+435331,2,FT,2,0,Feyenoord,Go Ahead Eagles,2021-08-22 14:19:00,Eredivisie
+435332,2,FT,0,3,Vitesse,Willem II,2021-08-22 16:21:00,Eredivisie
+435319,3,FT,2,2,Fortuna Sittard,RKC Waalwijk,2021-08-27 20:01:00,Eredivisie
+435359,3,FT,2,0,Cambuur,FC Twente,2021-08-28 18:23:00,Eredivisie
+435361,3,FT,2,0,Go Ahead Eagles,Sparta Rotterdam,2021-08-28 20:01:00,Eredivisie
+435360,3,FT,5,2,PSV Eindhoven,FC Groningen,2021-08-28 20:01:00,Eredivisie
+435362,3,FT,1,0,Willem II,PEC Zwolle,2021-08-28 21:02:00,Eredivisie
+435327,3,FT,3,1,FC Utrecht,Feyenoord,2021-08-29 12:17:00,Eredivisie
+435335,3,FT,5,0,Ajax,Vitesse,2021-08-29 14:19:00,Eredivisie
+435336,3,FT,0,1,Heracles,NEC Nijmegen,2021-08-29 14:19:00,Eredivisie
+435340,3,FT,1,3,SC Heerenveen,AZ Alkmaar,2021-08-29 16:21:00,Eredivisie
+435350,4,FT,1,0,FC Twente,FC Utrecht,2021-09-11 16:21:00,Eredivisie
+435353,4,FT,5,2,Cambuur,Go Ahead Eagles,2021-09-11 18:23:00,Eredivisie
+435352,4,FT,0,2,PEC Zwolle,Ajax,2021-09-11 18:23:00,Eredivisie
+435358,4,FT,0,3,AZ Alkmaar,PSV Eindhoven,2021-09-11 21:02:00,Eredivisie
+435324,4,FT,0,0,NEC Nijmegen,Willem II,2021-09-12 12:17:00,Eredivisie
+435337,4,FT,1,1,FC Groningen,SC Heerenveen,2021-09-12 14:19:00,Eredivisie
+435356,4,FT,3,1,Sparta Rotterdam,Fortuna Sittard,2021-09-12 14:19:00,Eredivisie
+435330,4,FT,1,2,RKC Waalwijk,Vitesse,2021-09-12 16:21:00,Eredivisie
+435318,5,FT,1,1,Sparta Rotterdam,NEC Nijmegen,2021-09-17 20:01:00,Eredivisie
+435342,5,FT,1,0,SC Heerenveen,Fortuna Sittard,2021-09-18 16:21:00,Eredivisie
+435343,5,FT,2,1,Willem II,FC Groningen,2021-09-18 18:23:00,Eredivisie
+435344,5,FT,9,0,Ajax,Cambuur,2021-09-18 20:01:00,Eredivisie
+435349,5,FT,2,2,FC Utrecht,RKC Waalwijk,2021-09-18 21:02:00,Eredivisie
+435323,5,FT,1,0,Go Ahead Eagles,PEC Zwolle,2021-09-19 12:17:00,Eredivisie
+435326,5,FT,0,4,PSV Eindhoven,Feyenoord,2021-09-19 14:19:00,Eredivisie
+435338,5,FT,3,2,Heracles,AZ Alkmaar,2021-09-19 16:21:00,Eredivisie
+435328,5,FT,1,4,Vitesse,FC Twente,2021-09-19 16:21:00,Eredivisie
+435365,6,FT,0,5,Fortuna Sittard,Ajax,2021-09-21 18:23:00,Eredivisie
+435366,6,FT,1,2,RKC Waalwijk,Willem II,2021-09-21 21:02:00,Eredivisie
+435367,6,FT,1,2,Go Ahead Eagles,PSV Eindhoven,2021-09-22 18:23:00,Eredivisie
+435369,6,FT,0,3,NEC Nijmegen,FC Utrecht,2021-09-22 18:23:00,Eredivisie
+435371,6,FT,0,1,FC Groningen,Vitesse,2021-09-22 20:01:00,Eredivisie
+435370,6,FT,3,1,Feyenoord,SC Heerenveen,2021-09-22 21:02:00,Eredivisie
+435363,6,FT,1,1,PEC Zwolle,Sparta Rotterdam,2021-09-22 21:02:00,Eredivisie
+435368,6,FT,2,1,Cambuur,Heracles,2021-09-23 18:23:00,Eredivisie
+435364,6,FT,3,1,FC Twente,AZ Alkmaar,2021-09-23 21:02:00,Eredivisie
+435386,7,FT,2,1,Willem II,PSV Eindhoven,2021-09-25 16:21:00,Eredivisie
+435385,7,FT,3,0,Ajax,FC Groningen,2021-09-25 18:23:00,Eredivisie
+435387,7,FT,1,1,Vitesse,Fortuna Sittard,2021-09-25 18:23:00,Eredivisie
+435380,7,FT,5,1,FC Utrecht,PEC Zwolle,2021-09-25 21:02:00,Eredivisie
+435389,7,FT,5,3,Feyenoord,NEC Nijmegen,2021-09-25 21:02:00,Eredivisie
+435374,7,FT,0,4,Sparta Rotterdam,Cambuur,2021-09-26 12:17:00,Eredivisie
+435377,7,FT,5,0,AZ Alkmaar,Go Ahead Eagles,2021-09-26 14:19:00,Eredivisie
+435378,7,FT,2,3,SC Heerenveen,FC Twente,2021-09-26 14:19:00,Eredivisie
+435388,7,FT,1,0,Heracles,RKC Waalwijk,2021-09-26 16:21:00,Eredivisie
+435372,8,FT,1,1,FC Groningen,FC Twente,2021-10-01 20:01:00,Eredivisie
+435381,8,FT,1,1,RKC Waalwijk,Go Ahead Eagles,2021-10-02 18:23:00,Eredivisie
+435382,8,FT,3,2,Heracles,Willem II,2021-10-02 20:01:00,Eredivisie
+435383,8,FT,0,1,PEC Zwolle,SC Heerenveen,2021-10-02 20:01:00,Eredivisie
+435384,8,FT,1,3,Fortuna Sittard,NEC Nijmegen,2021-10-02 21:02:00,Eredivisie
+435373,8,FT,0,1,Ajax,FC Utrecht,2021-10-03 14:19:00,Eredivisie
+435375,8,FT,1,3,Cambuur,AZ Alkmaar,2021-10-03 14:19:00,Eredivisie
+435376,8,FT,2,1,Vitesse,Feyenoord,2021-10-03 16:21:00,Eredivisie
+435379,8,FT,2,1,PSV Eindhoven,Sparta Rotterdam,2021-10-03 20:01:00,Eredivisie
+439829,9,FT,2,2,Feyenoord,RKC Waalwijk,2021-10-16 16:21:00,Eredivisie
+439882,9,FT,4,2,Go Ahead Eagles,Heracles,2021-10-16 18:23:00,Eredivisie
+439881,9,FT,0,2,SC Heerenveen,Ajax,2021-10-16 18:23:00,Eredivisie
+439883,9,FT,1,0,Fortuna Sittard,Cambuur,2021-10-16 21:02:00,Eredivisie
+439884,9,FT,3,1,PSV Eindhoven,PEC Zwolle,2021-10-16 21:02:00,Eredivisie
+440881,9,FT,5,1,AZ Alkmaar,FC Utrecht,2021-10-17 12:17:00,Eredivisie
+440883,9,FT,0,1,NEC Nijmegen,Vitesse,2021-10-17 14:19:00,Eredivisie
+440884,9,FT,1,1,Sparta Rotterdam,FC Groningen,2021-10-17 14:19:00,Eredivisie
+440907,9,FT,1,1,FC Twente,Willem II,2021-10-17 16:21:00,Eredivisie
+443770,10,FT,1,1,Willem II,Fortuna Sittard,2021-10-22 20:01:00,Eredivisie
+445447,10,FT,2,1,FC Utrecht,SC Heerenveen,2021-10-23 18:23:00,Eredivisie
+445444,10,FT,1,0,PEC Zwolle,Heracles,2021-10-23 20:01:00,Eredivisie
+445468,10,FT,1,0,RKC Waalwijk,Sparta Rotterdam,2021-10-23 21:02:00,Eredivisie
+445445,10,FT,1,2,FC Twente,NEC Nijmegen,2021-10-24 12:17:00,Eredivisie
+446927,10,FT,2,3,Cambuur,Feyenoord,2021-10-24 14:19:00,Eredivisie
+446929,10,FT,1,2,Vitesse,Go Ahead Eagles,2021-10-24 14:19:00,Eredivisie
+446946,10,FT,5,0,Ajax,PSV Eindhoven,2021-10-24 16:21:00,Eredivisie
+446928,10,FT,2,0,FC Groningen,AZ Alkmaar,2021-10-24 20:01:00,Eredivisie
+450837,11,FT,5,2,PSV Eindhoven,FC Twente,2021-10-30 16:21:00,Eredivisie
+450803,11,FT,0,0,Heracles,Ajax,2021-10-30 18:23:00,Eredivisie
+450814,11,FT,1,2,SC Heerenveen,Vitesse,2021-10-30 20:01:00,Eredivisie
+450736,11,FT,3,2,AZ Alkmaar,PEC Zwolle,2021-10-30 21:02:00,Eredivisie
+452955,11,FT,0,1,Sparta Rotterdam,Feyenoord,2021-10-31 13:18:00,Eredivisie
+452960,11,FT,3,0,NEC Nijmegen,FC Groningen,2021-10-31 15:20:00,Eredivisie
+452961,11,FT,5,1,FC Utrecht,Willem II,2021-10-31 17:22:00,Eredivisie
+452982,11,FT,0,1,RKC Waalwijk,Cambuur,2021-10-31 17:22:00,Eredivisie
+450815,11,FT,4,3,Go Ahead Eagles,Fortuna Sittard,2021-10-31 21:02:00,Eredivisie
+457772,12,FT,1,0,FC Twente,Heracles,2021-11-05 21:02:00,Eredivisie
+459496,12,FT,1,1,NEC Nijmegen,SC Heerenveen,2021-11-06 19:00:00,Eredivisie
+459488,12,FT,0,3,Willem II,Sparta Rotterdam,2021-11-06 21:02:00,Eredivisie
+459454,12,FT,1,2,PEC Zwolle,Cambuur,2021-11-06 22:03:00,Eredivisie
+460718,12,FT,1,1,FC Groningen,RKC Waalwijk,2021-11-07 13:18:00,Eredivisie
+460717,12,FT,1,4,Fortuna Sittard,PSV Eindhoven,2021-11-07 15:20:00,Eredivisie
+460734,12,FT,1,0,Feyenoord,AZ Alkmaar,2021-11-07 17:22:00,Eredivisie
+460649,12,FT,2,1,Vitesse,FC Utrecht,2021-11-07 17:22:00,Eredivisie
+459493,12,FT,0,0,Ajax,Go Ahead Eagles,2021-11-07 21:02:00,Eredivisie
+467047,13,FT,2,0,PSV Eindhoven,Vitesse,2021-11-20 17:22:00,Eredivisie
+467178,13,FT,0,1,Sparta Rotterdam,FC Twente,2021-11-20 19:00:00,Eredivisie
+467187,13,FT,1,1,AZ Alkmaar,NEC Nijmegen,2021-11-20 21:02:00,Eredivisie
+467234,13,FT,3,1,Heracles,Fortuna Sittard,2021-11-20 22:03:00,Eredivisie
+467242,13,FT,0,1,Go Ahead Eagles,FC Groningen,2021-11-21 13:18:00,Eredivisie
+467295,13,FT,4,0,Feyenoord,PEC Zwolle,2021-11-21 15:20:00,Eredivisie
+467294,13,FT,2,1,SC Heerenveen,Willem II,2021-11-21 15:20:00,Eredivisie
+467238,13,FT,0,5,RKC Waalwijk,Ajax,2021-11-21 17:22:00,Eredivisie
+467366,13,FT,2,1,Cambuur,FC Utrecht,2021-11-21 21:02:00,Eredivisie
+467800,14,FT,2,3,NEC Nijmegen,Cambuur,2021-11-26 21:02:00,Eredivisie
+468285,14,FT,1,4,Fortuna Sittard,FC Groningen,2021-11-27 19:00:00,Eredivisie
+468151,14,FT,0,0,PEC Zwolle,RKC Waalwijk,2021-11-27 21:02:00,Eredivisie
+468307,14,FT,0,1,Willem II,Go Ahead Eagles,2021-11-27 22:03:00,Eredivisie
+468326,14,FT,0,1,Sparta Rotterdam,Ajax,2021-11-28 13:18:00,Eredivisie
+468378,14,FT,0,0,FC Twente,Feyenoord,2021-11-28 15:20:00,Eredivisie
+468379,14,FT,1,0,FC Utrecht,Heracles,2021-11-28 15:20:00,Eredivisie
+468430,14,FT,1,1,SC Heerenveen,PSV Eindhoven,2021-11-28 17:22:00,Eredivisie
+468521,14,FT,0,0,Vitesse,AZ Alkmaar,2021-11-28 21:02:00,Eredivisie
+435329,4,FT,2,1,Feyenoord,Heracles,2021-12-01 21:02:00,Eredivisie
+435341,2,FT,2,1,AZ Alkmaar,Fortuna Sittard,2021-12-02 19:00:00,Eredivisie
+469302,15,FT,5,0,Ajax,Willem II,2021-12-02 22:03:00,Eredivisie
+469300,15,FT,1,1,FC Groningen,PEC Zwolle,2021-12-03 21:02:00,Eredivisie
+469278,15,FT,4,1,PSV Eindhoven,FC Utrecht,2021-12-04 17:22:00,Eredivisie
+469274,15,FT,1,6,Cambuur,Vitesse,2021-12-04 19:00:00,Eredivisie
+468839,15,FT,0,1,Heracles,SC Heerenveen,2021-12-04 22:03:00,Eredivisie
+469366,15,FT,2,1,RKC Waalwijk,NEC Nijmegen,2021-12-05 13:18:00,Eredivisie
+469369,15,FT,3,1,AZ Alkmaar,Sparta Rotterdam,2021-12-05 15:20:00,Eredivisie
+469422,15,FT,1,2,Go Ahead Eagles,FC Twente,2021-12-05 15:20:00,Eredivisie
+469321,15,FT,5,0,Feyenoord,Fortuna Sittard,2021-12-05 17:22:00,Eredivisie
+469776,16,FT,1,3,Willem II,Cambuur,2021-12-10 21:02:00,Eredivisie
+470229,16,FT,0,0,FC Utrecht,Go Ahead Eagles,2021-12-11 19:00:00,Eredivisie
+470224,16,FT,0,0,SC Heerenveen,Sparta Rotterdam,2021-12-11 21:02:00,Eredivisie
+470232,16,FT,0,1,PEC Zwolle,Fortuna Sittard,2021-12-11 22:03:00,Eredivisie
+470206,16,FT,2,1,FC Twente,RKC Waalwijk,2021-12-12 13:18:00,Eredivisie
+470267,16,FT,1,1,FC Groningen,Feyenoord,2021-12-12 15:20:00,Eredivisie
+470294,16,FT,2,1,Vitesse,Heracles,2021-12-12 15:20:00,Eredivisie
+470291,16,FT,1,2,Ajax,AZ Alkmaar,2021-12-12 17:22:00,Eredivisie
+470334,16,FT,1,2,NEC Nijmegen,PSV Eindhoven,2021-12-12 21:02:00,Eredivisie
+470580,17,FT,2,2,Fortuna Sittard,FC Utrecht,2021-12-18 17:22:00,Eredivisie
+470893,17,FT,2,2,Sparta Rotterdam,Vitesse,2021-12-18 19:00:00,Eredivisie
+470895,17,FT,4,1,AZ Alkmaar,Willem II,2021-12-18 21:02:00,Eredivisie
+470896,17,FT,4,2,Heracles,FC Groningen,2021-12-18 21:02:00,Eredivisie
+470919,17,FT,1,3,PEC Zwolle,FC Twente,2021-12-18 22:03:00,Eredivisie
+470935,17,FT,1,2,Cambuur,SC Heerenveen,2021-12-19 13:18:00,Eredivisie
+470950,17,FT,0,2,Feyenoord,Ajax,2021-12-19 15:20:00,Eredivisie
+470955,17,FT,0,2,Go Ahead Eagles,NEC Nijmegen,2021-12-19 15:20:00,Eredivisie
+470970,17,FT,1,4,RKC Waalwijk,PSV Eindhoven,2021-12-19 17:22:00,Eredivisie
+471079,18,FT,1,0,Vitesse,PEC Zwolle,2021-12-21 19:00:00,Eredivisie
+471107,18,FT,1,0,AZ Alkmaar,FC Groningen,2021-12-21 22:03:00,Eredivisie
+471156,18,FT,0,3,SC Heerenveen,Feyenoord,2021-12-22 19:00:00,Eredivisie
+471172,18,FT,0,1,Willem II,NEC Nijmegen,2021-12-22 19:00:00,Eredivisie
+471132,18,FT,1,1,Heracles,Cambuur,2021-12-22 21:02:00,Eredivisie
+471193,18,FT,5,0,Ajax,Fortuna Sittard,2021-12-22 22:03:00,Eredivisie
+471164,18,FT,1,1,FC Utrecht,FC Twente,2021-12-22 22:03:00,Eredivisie
+471177,18,FT,2,0,PSV Eindhoven,Go Ahead Eagles,2021-12-23 19:00:00,Eredivisie
+471126,18,FT,1,1,Sparta Rotterdam,RKC Waalwijk,2021-12-23 22:03:00,Eredivisie
+472698,19,FT,2,0,PEC Zwolle,Willem II,2022-01-14 21:02:00,Eredivisie
+472937,19,FT,0,0,NEC Nijmegen,Heracles,2022-01-15 19:00:00,Eredivisie
+472990,19,FT,2,0,FC Twente,SC Heerenveen,2022-01-15 21:02:00,Eredivisie
+472931,19,FT,0,1,Feyenoord,Vitesse,2022-01-15 21:02:00,Eredivisie
+472958,19,FT,0,2,Go Ahead Eagles,RKC Waalwijk,2022-01-15 22:03:00,Eredivisie
+472984,19,FT,0,3,FC Utrecht,Ajax,2022-01-16 13:18:00,Eredivisie
+472994,19,FT,1,1,Cambuur,Sparta Rotterdam,2022-01-16 15:20:00,Eredivisie
+472961,19,FT,0,1,FC Groningen,PSV Eindhoven,2022-01-16 15:20:00,Eredivisie
+473003,19,FT,1,2,Fortuna Sittard,AZ Alkmaar,2022-01-16 17:22:00,Eredivisie
+473560,20,FT,1,3,Vitesse,FC Groningen,2022-01-22 19:00:00,Eredivisie
+473579,20,FT,0,0,AZ Alkmaar,Cambuur,2022-01-22 21:02:00,Eredivisie
+473582,20,FT,0,1,SC Heerenveen,PEC Zwolle,2022-01-22 21:02:00,Eredivisie
+473590,20,FT,0,1,Willem II,FC Twente,2022-01-22 22:03:00,Eredivisie
+473612,20,FT,1,4,NEC Nijmegen,Feyenoord,2022-01-23 13:18:00,Eredivisie
+473619,20,FT,1,1,Heracles,Go Ahead Eagles,2022-01-23 15:20:00,Eredivisie
+473621,20,FT,1,2,PSV Eindhoven,Ajax,2022-01-23 15:20:00,Eredivisie
+473638,20,FT,0,3,Sparta Rotterdam,FC Utrecht,2022-01-23 17:22:00,Eredivisie
+473272,20,FT,2,1,RKC Waalwijk,Fortuna Sittard,2022-01-23 21:02:00,Eredivisie
+474689,21,FT,3,2,FC Utrecht,Cambuur,2022-02-05 17:22:00,Eredivisie
+474768,21,FT,2,0,Fortuna Sittard,SC Heerenveen,2022-02-05 19:00:00,Eredivisie
+474783,21,FT,1,1,PEC Zwolle,NEC Nijmegen,2022-02-05 21:02:00,Eredivisie
+474777,21,FT,1,2,PSV Eindhoven,AZ Alkmaar,2022-02-05 21:02:00,Eredivisie
+474789,21,FT,3,0,FC Twente,Vitesse,2022-02-05 22:03:00,Eredivisie
+474818,21,FT,4,0,Feyenoord,Sparta Rotterdam,2022-02-06 13:18:00,Eredivisie
+474846,21,FT,2,1,FC Groningen,Go Ahead Eagles,2022-02-06 15:20:00,Eredivisie
+474850,21,FT,3,1,Willem II,RKC Waalwijk,2022-02-06 15:20:00,Eredivisie
+474866,21,FT,3,0,Ajax,Heracles,2022-02-06 17:22:00,Eredivisie

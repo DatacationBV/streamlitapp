@@ -127,8 +127,8 @@ def algemeen_page(df):
 
     ents_30 = filtered_ents[filtered_ents["count"] > 30]
 
-    positive = ents_30.sort_values("% positief", ascending=False).head(10)
-    negative = ents_30.sort_values("% negatief", ascending=False).head(10)
+    positive = ents_30.sort_values("positief", ascending=False).head(10)
+    negative = ents_30.sort_values("negatief", ascending=False).head(10)
 
     
     st.markdown('''
@@ -137,7 +137,7 @@ def algemeen_page(df):
     ''')
     p = alt.Chart(positive).mark_bar().encode(
         x=alt.X('onderwerp', sort=None),
-        y='% positief'
+        y='positief'
         ).configure_mark(
     color='#20ba2d'
 )
@@ -145,7 +145,7 @@ def algemeen_page(df):
 
     meest_positief = positive.head(1).values[0][1]
     st.markdown(f''' 
-    {meest_positief} staat bovenaan de lijst en had het hoogste percentage positieve tweets.
+    {meest_positief} staat bovenaan de lijst en had het hoogste aantal positieve tweets.
     ''')
     with st.expander(f"Klik hier voor de technische uitleg van sentiment analyse."):
         st.markdown('''
@@ -167,18 +167,18 @@ def algemeen_page(df):
     ''')
     p = alt.Chart(negative).mark_bar().encode(
         x=alt.X('onderwerp', sort=None),
-        y=alt.Y('% negatief', sort="ascending")
+        y=alt.Y('negatief', sort="ascending")
         ).configure_mark(
     color='#db9316')
     st.altair_chart(p, use_container_width=True)
     st.markdown(f'''
-    {meest_negatief} staat bovenaan de lijst van percentage negatieve tweets. ''')
-    with st.expander(f"Waarom percentages en niet aantallen?"):
-        st.markdown('''
-            Aangezien er over de topclubs in Nederland vaak veel meer wordt getweet dan over de rest,
-            zal het aantal positieve en negatieve tweets vaak hoger zijn dan bij de rest.
-            Door het percentage te berekenen van de positieve en negatieve tweets, kunnen we een representatief beeld krijgen van het sentiment.
-        ''')
+    {meest_negatief} staat bovenaan de lijst van negatieve tweets. ''')
+    # with st.expander(f"Waarom percentages en niet aantallen?"):
+    #     st.markdown('''
+    #         Aangezien er over de topclubs in Nederland vaak veel meer wordt getweet dan over de rest,
+    #         zal het aantal positieve en negatieve tweets vaak hoger zijn dan bij de rest.
+    #         Door het percentage te berekenen van de positieve en negatieve tweets, kunnen we een representatief beeld krijgen van het sentiment.
+    #     ''')
 
 def wedstrijden_page(df):
     st.markdown(
@@ -189,19 +189,18 @@ def wedstrijden_page(df):
     entities = get_filterd_ents(df["match id"].unique())
     matches = get_match_details(df["match id"].unique())
     match_names = {m: matches[m]['T1'] + " - " + matches[m]['T2'] for m in matches}
-    n_t = get_tweets_n()
-    match_ids = {v: k for k, v in match_names.items()}
+    # match_ids = {v: k for k, v in match_names.items()}
 
-    entities_counts = entities.groupby(["match id"]).agg({'count': 'sum', 'negative': 'sum', 'neutral': 'sum', 'positive':'sum', "sentiment":"mean"}).sort_values(by="count", ascending=False).reset_index()
-    entities_counts.replace(match_names, inplace=True)
-    entities_counts["positive"] = np.rint(entities_counts["positive"] / entities_counts["count"] * 100)
-    entities_counts["negative"] = np.rint(entities_counts["negative"] / entities_counts["count"] * 100)
-    entities["_positive"] = np.rint(entities["positive"] / entities["count"] * 100)
-    entities["_negative"] = np.rint(entities["negative"] / entities["count"] * 100)
-    entities= entities["count"] > 30
-    
+    entities_per_match = entities.groupby(["match id"]).agg({'count': 'sum', 'negative': 'sum', 'neutral': 'sum', 'positive':'sum', "sentiment":"mean"}).sort_values(by="count", ascending=False).reset_index()
+    entities_per_match.replace(match_names, inplace=True)
+    entities_per_match["positive %"] = np.rint(entities_per_match["positive"] / entities_per_match["count"] * 100)
+    entities_per_match["negative %"] = np.rint(entities_per_match["negative"] / entities_per_match["count"] * 100)
+    entities["positive %"] = np.rint(entities["positive"] / entities["count"] * 100)
+    entities["negative %"] = np.rint(entities["negative"] / entities["count"] * 100)
+    entities= entities[entities["count"] > 3]
 
-    melted_entities_count = entities_counts[["match id", "negative", "neutral" ,"positive"]].melt('match id', var_name="tweet sentiment", value_name='aantal')
+
+    melted_entities_count = entities_per_match[["match id", "negative", "neutral" ,"positive"]].melt('match id', var_name="tweet sentiment", value_name='aantal')
     
     chart_games = alt.Chart(melted_entities_count).mark_bar().encode(
         x=alt.X('sum(aantal)', stack='normalize', title='Wedstrijden Sentiment'),
@@ -210,9 +209,9 @@ def wedstrijden_page(df):
     )
     entities.reset_index(drop=True, inplace=True)
     meest = entities.iloc[entities['count'].idxmax()]["subj"]
-    # meest = entities_counts.iloc[entities_counts['count'].idxmax()]['match id']
-    meest_nega = entities.iloc[entities['negative'].idxmax()]['subj']
-    meest_posi = entities.iloc[entities['positive'].idxmax()]['subj']
+    # meest = entities_per_match.iloc[entities_per_match['count'].idxmax()]['match id']
+    meest_nega = entities.iloc[entities['negative %'].idxmax()]['subj']
+    meest_posi = entities.iloc[entities['positive %'].idxmax()]['subj']
     st.markdown(
         f'''
         <style>
@@ -225,7 +224,7 @@ def wedstrijden_page(df):
         | Meest Voorkomend      | Meest Positief | Meest Negatief     |
         | :---:        |    :----:   |          :---: |
         | {meest}      | {meest_posi}       | {meest_nega}   |
-        | ***{str(entities["count"].max())} tweets***   | ***{str(int(entities["_positive"].max()))}%  positief***      | ***{str(int(entities["_negative"].max()))}% negatief***     |
+        | ***{str(entities["count"].max())} tweets***   | ***{str(int(entities["positive %"].max()))}%  positief***      | ***{str(int(entities["negative %"].max()))}% negatief***     |
 
         <br/><br/>
         ''', unsafe_allow_html=True)
@@ -246,9 +245,9 @@ def wedstrijden_page(df):
             players_teams = get_players_teams(match)
             avg_rating = get_average_rating(players_teams, match_ent)
             match_name= match_names[row["match id"]]
-            percentage_posi = entities_counts[entities_counts['match id'] == match_name]["positive"].values[0]
-            percentage_nega = entities_counts[entities_counts['match id'] == match_name]["negative"].values[0]
-            aantal_per_match = entities_counts[entities_counts['match id'] == match_name]["count"].values[0]
+            percentage_posi = entities_per_match[entities_per_match['match id'] == match_name]["positive %"].values[0]
+            percentage_nega = entities_per_match[entities_per_match['match id'] == match_name]["negative %"].values[0]
+            aantal_per_match = entities_per_match[entities_per_match['match id'] == match_name]["count"].values[0]
             with st.expander(f"{row['home']} - {row['away']}:   ({int(row['home score'])} - {int(row['away score'])}) \t"):
             
                 col1, col2, col3 = st.columns(3)
@@ -273,7 +272,25 @@ def wedstrijden_page(df):
                         
                 ''')
                 no_club = match_ent[(match_ent["subj"] != match["T1"]) & (match_ent["subj"] != match["T2"])]
-                no_club = no_club[no_club["count"] > 3]
+                no_club = no_club[no_club["count"] > 5]
+                if len(no_club) > 0:
+                    match_posi = no_club.sort_values(by="positive %", ascending=False)['subj'].iloc[0]
+                    match_nega = no_club.sort_values(by="negative %", ascending=False)['subj'].iloc[0]
+                    genoemd = no_club['subj'].iloc[0]
+                    t1_avg = int(avg_rating[match["T1"]]["sentiment"]/avg_rating[match["T1"]]["count"])
+                    t2_avg = int(avg_rating[match["T2"]]["sentiment"]/avg_rating[match["T2"]]["count"])
+                    posi_aantal = no_club.sort_values(by="positive %", ascending=False)['positive %'].iloc[0]
+                    nega_aantal = no_club.sort_values(by="negative %", ascending=False)['negative %'].iloc[0]
+                    keer = no_club['count'].iloc[0]
+                else:
+                    match_posi = "Onbekend"
+                    match_nega = "Onbekend"
+                    genoemd = "Onbekend"
+                    t1_avg = "Onbekend"
+                    t2_avg = "Onbekend"
+                    posi_aantal = "Onbekend"
+                    nega_aantal = "Onbekend"
+                    keer = "Onbekend"
                 col2.markdown(
                     f'''
                     ---
@@ -282,11 +299,11 @@ def wedstrijden_page(df):
 
                     ***{match["T2"]}***
 
-                    {no_club.sort_values(by="positive", ascending=False)['subj'].iloc[0]}
+                    {match_posi}
 
-                    {no_club.sort_values(by="negative", ascending=False)['subj'].iloc[0]}
+                    {match_nega}
 
-                    {no_club['subj'].iloc[0]}
+                    {genoemd}
 
                     '''
                 )
@@ -294,15 +311,15 @@ def wedstrijden_page(df):
                     f'''
                     ---
 
-                    {int(avg_rating[match["T1"]]["sentiment"]/avg_rating[match["T1"]]["count"])}%
+                    {t1_avg}/100
 
-                    {int(avg_rating[match["T2"]]["sentiment"]/avg_rating[match["T2"]]["count"])}%
+                    {t2_avg}/100
 
-                    {no_club.sort_values(by="positive", ascending=False)['positive'].iloc[0]} keer
+                    {posi_aantal} %
 
-                    {no_club.sort_values(by="negative", ascending=False)['negative'].iloc[0]} keer
+                    {nega_aantal} %
 
-                    {no_club['count'].iloc[0]} keer
+                    {keer} keer
                     '''
                 )
 
