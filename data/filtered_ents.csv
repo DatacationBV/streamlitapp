@@ -40,7 +40,7 @@ match id,entity,subj,count,positive,negative,neutral,positive_
 474689,Veerman,Henk Veerman,23,2.217391304347826,14,4,5
 474789,Ricky van Wolfswinkel,Ricky van Wolfswinkel,22,3.3181818181818183,1,19,2
 474850,Thijs Oosting,Thijs Oosting,22,3.8181818181818183,4,6,12
-474777,Roger Schmidt,Roger Schmidt,21,1.5714285714285714,14,6,1
+474777,Roger Schmidt,Roger Schmidt,41,1.5714285714285714,29,9,3
 474783,Tavsan,Elayis Tavsan,21,2.380952380952381,11,6,4
 474689,Janssen,Willem Janssen,21,2.0,11,9,1
 474818,love you Feyenoord,Feyenoord,21,5.0,0,0,21
