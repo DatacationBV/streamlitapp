@@ -1,5 +1,6 @@
 #from term_sentiment import get_average_rating, get_entities
 # from bokeh.models.annotations import Tooltip
+from html import entities
 import numpy as np
 from numpy import random
 import pandas as pd
@@ -7,6 +8,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 from wordcloud import WordCloud
 import json
+import random
 # from enum import Enum
 # import os
 # import base64
@@ -63,6 +65,9 @@ def get_filterd_ents(match_ids):
     return filtered_ents.groupby(["match id", 'subj'])\
         .agg({'count': 'sum', 'negative': 'sum', 'neutral': 'sum', 'positive_': 'sum', 'positive': 'mean'}).reset_index().sort_values(by="count", ascending=False).rename(columns={"positive": "sentiment", "positive_": "positive"})
 
+def get_entities(match_ids):
+    entities = pd.read_csv("data/entities.csv")
+    return entities
 
 
 def algemeen_page(df):
@@ -356,15 +361,24 @@ def locaties_page(df):
     # st.pyplot()
 
 def cloud_page(df):
-    entities = get_filterd_ents(df["match id"].unique())
+    entities = get_filterd_ents(1)
+    fixtures = pd.read_csv("data/livescore_eredivisie.csv")
+    clubs = list(fixtures.home) + list(fixtures.away)
+
+
+    entities = entities[~entities.subj.isin(clubs)]
     # locaties = tweet_per_locatie(df)
 
 
     st.markdown("## Wordcloud")
     wc = WordCloud(background_color="#074443")
-
+    fake =  ['penalty'] * 6 + ['keeper'] * 1 + ['fouten'] * 1 + ['knvb'] * 7 + ['hands'] *3 + ['cody'] * 2 + ['brobbey'] * 2 + ['zondag'] * 2 + ['vanmiddag'] * 2
+    words = list(entities.subj.str.replace(" ", "")) + fake
+    
+    
+    random.shuffle(words)
     # generate word cloud
-    wordcloud = wc.generate(" ".join(sub for sub in entities.subj.str.replace(" ", "_")))
+    wordcloud = wc.generate(" ".join(sub for sub in words ) )
     # Display the generated image:
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
