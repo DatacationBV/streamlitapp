@@ -372,7 +372,7 @@ def cloud_page(df):
 
     st.markdown("## Wordcloud")
     wc = WordCloud(background_color="#074443")
-    fake =  ['penalty'] * 6 + ['keeper'] * 1 + ['fouten'] * 1 + ['knvb'] * 7 + ['hands'] *3 + ['cody'] * 2 + ['brobbey'] * 2 + ['zondag'] * 2 + ['vanmiddag'] * 2
+    fake =  ['penalty'] * 6 + ['keeper'] * 1 + ['fouten'] * 1 + ['knvb'] * 7 + ['hands'] *3 + ['cody'] * 2 + ['brobbey'] * 2 + ['zondag'] * 2 + ['vanmiddag'] * 2 + ['Dessers'] * 2
     words = list(entities.subj.str.replace(" ", "")) + fake
     
     
